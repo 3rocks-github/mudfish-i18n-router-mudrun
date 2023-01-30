@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2022-10-31 20:48-0700\n"
+"POT-Creation-Date: 2023-01-29 20:32-0800\n"
 "PO-Revision-Date: 2022-11-01 03:47+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.mudfish.net/projects/mudfish/launcher/ja/>\n"
@@ -101,6 +101,10 @@ msgstr "アイテムモード"
 
 msgid "아이템 마법사"
 msgstr "アイテムウィザード"
+
+#, fuzzy
+msgid "로컬 컴퓨터"
+msgstr "マイコンピュータ"
 
 msgid "Full VPN - 중계 서버 RTT 상황"
 msgstr "Full VPN - RTT status of mudfish nodes"
@@ -450,6 +454,10 @@ msgstr "接続"
 msgid "작동중"
 msgstr "ランニング"
 
+#, fuzzy
+msgid "Per-Eaddr 모드"
+msgstr "Per-Eaddrモード"
+
 msgid "RTT 업데이트"
 msgstr "RTT更新"
 
@@ -672,6 +680,9 @@ msgstr "設定されていない"
 
 msgid "정말 삭제하시겠습니까?"
 msgstr "消去してもよろしいですか？"
+
+msgid "사용함"
+msgstr "オン"
 
 msgid "연결 상태"
 msgstr "接続ステータス"
@@ -1158,9 +1169,6 @@ msgid ""
 "차감됩니다."
 msgstr "時間と手間を省きます。残る日数が3日未満のときはアイテムは自動更新されます。"
 
-msgid "사용함"
-msgstr "オン"
-
 msgid "이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를 가르킵니다."
 msgstr "このアイテムでサポートされている行先場所のリスト。"
 
@@ -1514,6 +1522,44 @@ msgstr "混雑"
 msgid "아래에서 아이템을 선택해 주세요."
 msgstr "下からアイテムを選択してください。"
 
+#, fuzzy
+msgid "적용할 장치"
+msgstr "適用するデバイス"
+
+#, fuzzy
+msgid ""
+"Per-Eaddr 모드를 이용하여 특정 Ethernet Address (Mac Address) 를 가진 컴퓨터만 미꾸라지를 적용할 수 "
+"있습니다. 만약 아무것도 지정하지 않는다면 공유기에 접속한 모든 컴퓨터 / 장치에 미꾸라지가 적용됩니다."
+msgstr ""
+"Per-Eaddrモードを使用すると、特定のEthernet Address（Mac "
+"Address）を持つコンピュータのみがトポロジを適用できます。何も指定しない場合は、ルーターに接続しているすべてのコンピューター/デバイスにスナップが適用されます。"
+
+#, fuzzy
+msgid "1 줄 당 1 개의 Ethernet Address (Mac Address) 를 입력하시기 바랍니다."
+msgstr "1行につき1つのEthernet Address（Mac Address）を入力してください。"
+
+#, fuzzy
+msgid "변경하신 설정을 적용하기 위해서는 다시 로그인을 하셔야 합니다. 지금 로그아웃 하시겠습니까?"
+msgstr ""
+"In order to apply the configuration changed, you must reconnect the mudfish."
+" Would you like to reconnect?"
+
+#, fuzzy
+msgid "로그 아웃 확인"
+msgstr "ログアウト"
+
+#, fuzzy
+msgid "입력한 Mac Address 가 올바르지 않습니다:"
+msgstr "入力したMac Addressが正しくありません："
+
+#, fuzzy
+msgid "오류가 발생하였습니다:"
+msgstr "内部エラー"
+
+#, fuzzy
+msgid "Per-Eaddr 모드가 업데이트되었습니다. 반드시 미꾸라지를 재시작하셔야 적용됩니다."
+msgstr "Per-Eaddrモードが更新されました。必ずドックを再起動しなければ適用されません。"
+
 msgid "목록 제한"
 msgstr "ノードマネージャ"
 
@@ -1747,8 +1793,9 @@ msgstr "人材募集しています！"
 msgid "기타"
 msgstr "その他もろもろ"
 
-msgid "진흙개"
-msgstr "Muddog"
+#, fuzzy
+msgid "포트 공유 서비스"
+msgstr "ポート共有サービス"
 
 msgid "무료 VPN"
 msgstr "無料VPN"
@@ -2456,60 +2503,6 @@ msgstr "Magu Magu"
 msgid "피파 23"
 msgstr "FIFA 23"
 
-msgid "모여서 플레이할 중계 서버를 선택합니다."
-msgstr "集まっプレイする中継サーバを選択します。"
-
-msgid "사용하실 중계 서버를 선택해 주세요."
-msgstr "使用することが中継サーバを選択してください。"
-
-msgid "참여자"
-msgstr "参加者"
-
-msgid "나가기"
-msgstr "終了"
-
-msgid "참여자 갱신"
-msgstr "参加者更新"
-
-msgid "참여자 목록을 갱신합니다. 최대 5초 정도 기다려 주십시오."
-msgstr "参加者リストを更新します。最大5秒程度待ってください。"
-
-msgid "성공적으로 생성되었습니다."
-msgstr "正常に作成されました。"
-
-msgid "참여 실패"
-msgstr "参加に失敗し"
-
-msgid "입력하신 참여 코드를 찾을 수 없습니다."
-msgstr "入力された参加コードを見つけることができません。"
-
-msgid "${username} 참여자 정보를 받았습니다."
-msgstr "${username}参加者の情報を受けました。"
-
-msgid "${username} 참여자가 제외되었습니다."
-msgstr "${username}参加者が除外されました。"
-
-msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
-msgstr "参加者の情報を受けました。情報を更新します。"
-
-msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
-msgstr "LANプレイをすることができる部屋に参加します。数字XXX-XXXX形式の参加のコードを入力してください。"
-
-msgid "XXX-XXXX"
-msgstr "XXX-XXXX"
-
-msgid "참여 코드"
-msgstr "参加コード"
-
-msgid "입력하신 참여 코드 형식이 잘못되었습니다."
-msgstr "入力された参加コードの形式が無効です。"
-
-msgid "참여 코드를 확인하는 동안 오류가 발생하였습니다."
-msgstr "参加コードを確認中にエラーが発生しました。"
-
-msgid "미꾸라지 LAN 프로세스"
-msgstr "ドジョウLANプロセス"
-
 #~ msgid "추가하실 아이템의 종료를 선택해 주세요."
 #~ msgstr ""
 
@@ -2574,3 +2567,60 @@ msgstr "ドジョウLANプロセス"
 #~ msgstr ""
 #~ "一部のWindows "
 #~ "XPの場合、このオプションは、ルーティングテーブル付加機能を有効にしてルーティングテーブルが一部正常に設定されていない問題を扱います。"
+
+#~ msgid "진흙개"
+#~ msgstr "Muddog"
+
+#~ msgid "모여서 플레이할 중계 서버를 선택합니다."
+#~ msgstr "集まっプレイする中継サーバを選択します。"
+
+#~ msgid "사용하실 중계 서버를 선택해 주세요."
+#~ msgstr "使用することが中継サーバを選択してください。"
+
+#~ msgid "참여자"
+#~ msgstr "参加者"
+
+#~ msgid "나가기"
+#~ msgstr "終了"
+
+#~ msgid "참여자 갱신"
+#~ msgstr "参加者更新"
+
+#~ msgid "참여자 목록을 갱신합니다. 최대 5초 정도 기다려 주십시오."
+#~ msgstr "参加者リストを更新します。最大5秒程度待ってください。"
+
+#~ msgid "성공적으로 생성되었습니다."
+#~ msgstr "正常に作成されました。"
+
+#~ msgid "참여 실패"
+#~ msgstr "参加に失敗し"
+
+#~ msgid "입력하신 참여 코드를 찾을 수 없습니다."
+#~ msgstr "入力された参加コードを見つけることができません。"
+
+#~ msgid "${username} 참여자 정보를 받았습니다."
+#~ msgstr "${username}参加者の情報を受けました。"
+
+#~ msgid "${username} 참여자가 제외되었습니다."
+#~ msgstr "${username}参加者が除外されました。"
+
+#~ msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
+#~ msgstr "参加者の情報を受けました。情報を更新します。"
+
+#~ msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
+#~ msgstr "LANプレイをすることができる部屋に参加します。数字XXX-XXXX形式の参加のコードを入力してください。"
+
+#~ msgid "XXX-XXXX"
+#~ msgstr "XXX-XXXX"
+
+#~ msgid "참여 코드"
+#~ msgstr "参加コード"
+
+#~ msgid "입력하신 참여 코드 형식이 잘못되었습니다."
+#~ msgstr "入力された参加コードの形式が無効です。"
+
+#~ msgid "참여 코드를 확인하는 동안 오류가 발생하였습니다."
+#~ msgstr "参加コードを確認中にエラーが発生しました。"
+
+#~ msgid "미꾸라지 LAN 프로세스"
+#~ msgstr "ドジョウLANプロセス"

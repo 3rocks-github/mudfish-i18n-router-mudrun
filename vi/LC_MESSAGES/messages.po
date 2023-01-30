@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2022-10-31 20:48-0700\n"
+"POT-Creation-Date: 2023-01-29 20:32-0800\n"
 "PO-Revision-Date: 2022-11-01 03:47+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
 "Language-Team: Vietnamese <https://weblate.mudfish.net/projects/mudfish/launcher/vi/>\n"
@@ -101,6 +101,10 @@ msgstr "Chế độ vật phẩm"
 
 msgid "아이템 마법사"
 msgstr "Trình hướng dẫn vật phẩm"
+
+#, fuzzy
+msgid "로컬 컴퓨터"
+msgstr "Máy tính của tôi"
 
 msgid "Full VPN - 중계 서버 RTT 상황"
 msgstr "Tình hình RTT máy chủ chuyển tiếp VPN đầy đủ"
@@ -464,6 +468,10 @@ msgstr "Tình trạng kết nối"
 msgid "작동중"
 msgstr "Đang làm việc"
 
+#, fuzzy
+msgid "Per-Eaddr 모드"
+msgstr "Chế độ mỗi Eaddr"
+
 msgid "RTT 업데이트"
 msgstr "Cập nhật RTT"
 
@@ -711,6 +719,9 @@ msgstr "Không được thiết lập"
 
 msgid "정말 삭제하시겠습니까?"
 msgstr "Bạn có chắc chắn muốn xóa?"
+
+msgid "사용함"
+msgstr "Đã sử dụng"
 
 msgid "연결 상태"
 msgstr "Trạng thái kết nối"
@@ -1235,9 +1246,6 @@ msgstr ""
 "còn lại dưới 3 ngày, ngày hết hạn của mặt hàng sẽ tự động gia hạn và tín "
 "dụng sẽ được khấu trừ."
 
-msgid "사용함"
-msgstr "Đã sử dụng"
-
 msgid "이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를 가르킵니다."
 msgstr ""
 "Cho biết vị trí máy chủ trò chơi / trang web / truyền phát mà mặt hàng này "
@@ -1624,6 +1632,48 @@ msgstr "Tắc nghẽn"
 msgid "아래에서 아이템을 선택해 주세요."
 msgstr "Vui lòng chọn một mục bên dưới."
 
+#, fuzzy
+msgid "적용할 장치"
+msgstr "thiết bị áp dụng"
+
+#, fuzzy
+msgid ""
+"Per-Eaddr 모드를 이용하여 특정 Ethernet Address (Mac Address) 를 가진 컴퓨터만 미꾸라지를 적용할 수 "
+"있습니다. 만약 아무것도 지정하지 않는다면 공유기에 접속한 모든 컴퓨터 / 장치에 미꾸라지가 적용됩니다."
+msgstr ""
+"Bằng cách sử dụng chế độ Per-Eaddr, cá bùn chỉ có thể được áp dụng cho các "
+"máy tính có Địa chỉ Ethernet cụ thể (Địa chỉ Mac). Nếu không có gì được chỉ "
+"định, Mudfish được áp dụng cho tất cả các máy tính/thiết bị được kết nối với"
+" bộ định tuyến."
+
+#, fuzzy
+msgid "1 줄 당 1 개의 Ethernet Address (Mac Address) 를 입력하시기 바랍니다."
+msgstr "Vui lòng nhập một Địa chỉ Ethernet (Địa chỉ Mac) trên mỗi dòng."
+
+#, fuzzy
+msgid "변경하신 설정을 적용하기 위해서는 다시 로그인을 하셔야 합니다. 지금 로그아웃 하시겠습니까?"
+msgstr ""
+"Để áp dụng các cài đặt đã thay đổi, bạn cần kết nối lại sau khi ngắt kết "
+"nối. Bạn có muốn kết nối lại?"
+
+#, fuzzy
+msgid "로그 아웃 확인"
+msgstr "Đăng xuất"
+
+#, fuzzy
+msgid "입력한 Mac Address 가 올바르지 않습니다:"
+msgstr "Địa chỉ Mac bạn đã nhập không chính xác:"
+
+#, fuzzy
+msgid "오류가 발생하였습니다:"
+msgstr "Đã xảy ra một lỗi nội bộ."
+
+#, fuzzy
+msgid "Per-Eaddr 모드가 업데이트되었습니다. 반드시 미꾸라지를 재시작하셔야 적용됩니다."
+msgstr ""
+"Chế độ Per-Eaddr đã được cập nhật. Bạn phải khởi động lại Mudfish để nó có "
+"hiệu lực."
+
 msgid "목록 제한"
 msgstr "Giới hạn danh sách"
 
@@ -1862,8 +1912,9 @@ msgstr "Tìm ai đó!"
 msgid "기타"
 msgstr "Khác"
 
-msgid "진흙개"
-msgstr "Muddog"
+#, fuzzy
+msgid "포트 공유 서비스"
+msgstr "dịch vụ chia cổng"
 
 msgid "무료 VPN"
 msgstr "VPN miễn phí"
@@ -2573,62 +2624,6 @@ msgstr "Magu Magu"
 msgid "피파 23"
 msgstr "FIFA 23"
 
-msgid "모여서 플레이할 중계 서버를 선택합니다."
-msgstr "Chọn một máy chủ chuyển tiếp để tập hợp và chơi."
-
-msgid "사용하실 중계 서버를 선택해 주세요."
-msgstr "Vui lòng chọn một máy chủ chuyển tiếp để sử dụng."
-
-msgid "참여자"
-msgstr "Những người tham gia"
-
-msgid "나가기"
-msgstr "Lối ra"
-
-msgid "참여자 갱신"
-msgstr "Gia hạn người tham gia"
-
-msgid "참여자 목록을 갱신합니다. 최대 5초 정도 기다려 주십시오."
-msgstr "Cập nhật danh sách người tham gia. Vui lòng đợi tối đa 5 giây."
-
-msgid "성공적으로 생성되었습니다."
-msgstr "Nó đã được tạo thành công."
-
-msgid "참여 실패"
-msgstr "Không tham gia được"
-
-msgid "입력하신 참여 코드를 찾을 수 없습니다."
-msgstr "Không thể tìm thấy mã tham gia bạn đã nhập."
-
-msgid "${username} 참여자 정보를 받았습니다."
-msgstr "Đã nhận được thông tin người tham gia ${username}."
-
-msgid "${username} 참여자가 제외되었습니다."
-msgstr "Người tham gia ${username} đã bị loại trừ."
-
-msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
-msgstr "Tôi đã nhận được thông tin người tham gia. Cập nhật thông tin."
-
-msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
-msgstr ""
-"Tham gia một phòng nơi bạn có thể chơi mạng LAN. Vui lòng nhập mã tham gia "
-"của bạn ở định dạng số XXX-XXXX."
-
-msgid "XXX-XXXX"
-msgstr "XXX-XXXX"
-
-msgid "참여 코드"
-msgstr "Mã tham gia"
-
-msgid "입력하신 참여 코드 형식이 잘못되었습니다."
-msgstr "Định dạng của mã tham gia bạn đã nhập không chính xác."
-
-msgid "참여 코드를 확인하는 동안 오류가 발생하였습니다."
-msgstr "Đã xảy ra lỗi khi kiểm tra mã tham gia."
-
-msgid "미꾸라지 LAN 프로세스"
-msgstr "Mudfish LAN process"
-
 #~ msgid "추가하실 아이템의 종료를 선택해 주세요."
 #~ msgstr ""
 
@@ -2697,3 +2692,62 @@ msgstr "Mudfish LAN process"
 #~ "Trong một số phiên bản Windows XP, bảng định tuyến không được đặt đúng khi "
 #~ "cài đặt VPN đầy đủ. Khi tùy chọn này được bật, nó bắt buộc phải đặt bảng "
 #~ "định tuyến. Chỉ người dùng Windows XP."
+
+#~ msgid "진흙개"
+#~ msgstr "Muddog"
+
+#~ msgid "모여서 플레이할 중계 서버를 선택합니다."
+#~ msgstr "Chọn một máy chủ chuyển tiếp để tập hợp và chơi."
+
+#~ msgid "사용하실 중계 서버를 선택해 주세요."
+#~ msgstr "Vui lòng chọn một máy chủ chuyển tiếp để sử dụng."
+
+#~ msgid "참여자"
+#~ msgstr "Những người tham gia"
+
+#~ msgid "나가기"
+#~ msgstr "Lối ra"
+
+#~ msgid "참여자 갱신"
+#~ msgstr "Gia hạn người tham gia"
+
+#~ msgid "참여자 목록을 갱신합니다. 최대 5초 정도 기다려 주십시오."
+#~ msgstr "Cập nhật danh sách người tham gia. Vui lòng đợi tối đa 5 giây."
+
+#~ msgid "성공적으로 생성되었습니다."
+#~ msgstr "Nó đã được tạo thành công."
+
+#~ msgid "참여 실패"
+#~ msgstr "Không tham gia được"
+
+#~ msgid "입력하신 참여 코드를 찾을 수 없습니다."
+#~ msgstr "Không thể tìm thấy mã tham gia bạn đã nhập."
+
+#~ msgid "${username} 참여자 정보를 받았습니다."
+#~ msgstr "Đã nhận được thông tin người tham gia ${username}."
+
+#~ msgid "${username} 참여자가 제외되었습니다."
+#~ msgstr "Người tham gia ${username} đã bị loại trừ."
+
+#~ msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
+#~ msgstr "Tôi đã nhận được thông tin người tham gia. Cập nhật thông tin."
+
+#~ msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
+#~ msgstr ""
+#~ "Tham gia một phòng nơi bạn có thể chơi mạng LAN. Vui lòng nhập mã tham gia "
+#~ "của bạn ở định dạng số XXX-XXXX."
+
+#~ msgid "XXX-XXXX"
+#~ msgstr "XXX-XXXX"
+
+#~ msgid "참여 코드"
+#~ msgstr "Mã tham gia"
+
+#~ msgid "입력하신 참여 코드 형식이 잘못되었습니다."
+#~ msgstr "Định dạng của mã tham gia bạn đã nhập không chính xác."
+
+#~ msgid "참여 코드를 확인하는 동안 오류가 발생하였습니다."
+#~ msgstr "Đã xảy ra lỗi khi kiểm tra mã tham gia."
+
+#~ msgid "미꾸라지 LAN 프로세스"
+#~ msgstr "Mudfish LAN process"

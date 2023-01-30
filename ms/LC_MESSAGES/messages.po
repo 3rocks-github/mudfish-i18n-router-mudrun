@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2022-10-31 20:48-0700\n"
+"POT-Creation-Date: 2023-01-29 20:32-0800\n"
 "PO-Revision-Date: 2022-11-01 03:47+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
 "Language-Team: Malay <https://weblate.mudfish.net/projects/mudfish/launcher/ms/>\n"
@@ -101,6 +101,10 @@ msgstr "Mod item"
 
 msgid "아이템 마법사"
 msgstr "Penyihir Item"
+
+#, fuzzy
+msgid "로컬 컴퓨터"
+msgstr "Komputer Saya"
 
 msgid "Full VPN - 중계 서버 RTT 상황"
 msgstr "Full VPN - RTT status of mudfish nodes"
@@ -462,6 +466,10 @@ msgstr "Connection"
 msgid "작동중"
 msgstr "Berjalan"
 
+#, fuzzy
+msgid "Per-Eaddr 모드"
+msgstr "Mod Per-Eaddr"
+
 msgid "RTT 업데이트"
 msgstr "Kemaskini RTT"
 
@@ -706,6 +714,9 @@ msgstr "Tidak ditetapkan"
 
 msgid "정말 삭제하시겠습니까?"
 msgstr "Adakah anda pasti anda mahu memadam?"
+
+msgid "사용함"
+msgstr "Hidup"
 
 msgid "연결 상태"
 msgstr "Status Sambungan"
@@ -1222,9 +1233,6 @@ msgstr ""
 "Jimat masa dan langkah-langkah anda. Item ini akan secara automatik "
 "disegarkan apabila hari yang tinggal menjadi kurang daripada 3 hari."
 
-msgid "사용함"
-msgstr "Hidup"
-
 msgid "이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를 가르킵니다."
 msgstr "Senarai lokasi destinasi disokong oleh item ini."
 
@@ -1611,6 +1619,48 @@ msgstr "Kesesakan"
 msgid "아래에서 아이템을 선택해 주세요."
 msgstr "Sila pilih item di bawah."
 
+#, fuzzy
+msgid "적용할 장치"
+msgstr "peranti untuk digunakan"
+
+#, fuzzy
+msgid ""
+"Per-Eaddr 모드를 이용하여 특정 Ethernet Address (Mac Address) 를 가진 컴퓨터만 미꾸라지를 적용할 수 "
+"있습니다. 만약 아무것도 지정하지 않는다면 공유기에 접속한 모든 컴퓨터 / 장치에 미꾸라지가 적용됩니다."
+msgstr ""
+"Dengan menggunakan mod Per-Eaddr, mudfish hanya boleh digunakan pada "
+"komputer dengan Alamat Ethernet tertentu (Alamat Mac). Jika tiada apa yang "
+"dinyatakan, Mudfish digunakan pada semua komputer/peranti yang disambungkan "
+"ke penghala."
+
+#, fuzzy
+msgid "1 줄 당 1 개의 Ethernet Address (Mac Address) 를 입력하시기 바랍니다."
+msgstr "Sila masukkan satu Alamat Ethernet (Alamat Mac) setiap baris."
+
+#, fuzzy
+msgid "변경하신 설정을 적용하기 위해서는 다시 로그인을 하셔야 합니다. 지금 로그아웃 하시겠습니까?"
+msgstr ""
+"In order to apply the configuration changed, you must reconnect the mudfish."
+" Would you like to reconnect?"
+
+#, fuzzy
+msgid "로그 아웃 확인"
+msgstr "Log Keluar"
+
+#, fuzzy
+msgid "입력한 Mac Address 가 올바르지 않습니다:"
+msgstr "Alamat Mac yang anda masukkan tidak betul:"
+
+#, fuzzy
+msgid "오류가 발생하였습니다:"
+msgstr "Masalah Dalaman"
+
+#, fuzzy
+msgid "Per-Eaddr 모드가 업데이트되었습니다. 반드시 미꾸라지를 재시작하셔야 적용됩니다."
+msgstr ""
+"Mod Per-Eaddr telah dikemas kini. Anda mesti memulakan semula Mudfish untuk "
+"berkuat kuasa."
+
 msgid "목록 제한"
 msgstr "Pengurus Nod"
 
@@ -1847,8 +1897,9 @@ msgstr "Kami sedang mencari pekerja!"
 msgid "기타"
 msgstr "Pelbagai"
 
-msgid "진흙개"
-msgstr "Muddog"
+#, fuzzy
+msgid "포트 공유 서비스"
+msgstr "perkhidmatan perkongsian pelabuhan"
 
 msgid "무료 VPN"
 msgstr "VPN percuma"
@@ -2559,62 +2610,6 @@ msgstr "Magu Magu"
 msgid "피파 23"
 msgstr "FIFA 23"
 
-msgid "모여서 플레이할 중계 서버를 선택합니다."
-msgstr "Pilih pelayan geganti untuk dikumpulkan dan dimainkan."
-
-msgid "사용하실 중계 서버를 선택해 주세요."
-msgstr "Sila pilih pelayan geganti untuk digunakan."
-
-msgid "참여자"
-msgstr "Peserta"
-
-msgid "나가기"
-msgstr "Keluar"
-
-msgid "참여자 갱신"
-msgstr "Pembaharuan peserta"
-
-msgid "참여자 목록을 갱신합니다. 최대 5초 정도 기다려 주십시오."
-msgstr "Kemas kini senarai peserta. Sila tunggu sehingga 5 saat."
-
-msgid "성공적으로 생성되었습니다."
-msgstr "Ia berjaya dibuat."
-
-msgid "참여 실패"
-msgstr "Gagal mengambil bahagian"
-
-msgid "입력하신 참여 코드를 찾을 수 없습니다."
-msgstr "Kod penyertaan yang anda masukkan tidak dapat dijumpai."
-
-msgid "${username} 참여자 정보를 받았습니다."
-msgstr "Maklumat peserta ${username} diterima."
-
-msgid "${username} 참여자가 제외되었습니다."
-msgstr "Peserta ${username} telah dikecualikan."
-
-msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
-msgstr "Saya menerima maklumat peserta. Kemas kini maklumat."
-
-msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
-msgstr ""
-"Sertailah bilik di mana anda boleh bermain LAN. Masukkan kod penyertaan anda"
-" dalam format berangka XXX-XXXX."
-
-msgid "XXX-XXXX"
-msgstr "XXX-XXXX"
-
-msgid "참여 코드"
-msgstr "Kod penyertaan"
-
-msgid "입력하신 참여 코드 형식이 잘못되었습니다."
-msgstr "Format kod penyertaan yang anda masukkan tidak betul."
-
-msgid "참여 코드를 확인하는 동안 오류가 발생하였습니다."
-msgstr "Ralat berlaku semasa memeriksa kod penyertaan."
-
-msgid "미꾸라지 LAN 프로세스"
-msgstr "Mudfish LAN process"
-
 #~ msgid "추가하실 아이템의 종료를 선택해 주세요."
 #~ msgstr ""
 
@@ -2682,3 +2677,62 @@ msgstr "Mudfish LAN process"
 #~ "Bagi sesetengah Windows XP, pilihan ini membolehkan ubahsuai jadual "
 #~ "penghalaan untuk menangani isu beberapa jadual penghalaan tidak ditetapkan "
 #~ "dengan betul."
+
+#~ msgid "진흙개"
+#~ msgstr "Muddog"
+
+#~ msgid "모여서 플레이할 중계 서버를 선택합니다."
+#~ msgstr "Pilih pelayan geganti untuk dikumpulkan dan dimainkan."
+
+#~ msgid "사용하실 중계 서버를 선택해 주세요."
+#~ msgstr "Sila pilih pelayan geganti untuk digunakan."
+
+#~ msgid "참여자"
+#~ msgstr "Peserta"
+
+#~ msgid "나가기"
+#~ msgstr "Keluar"
+
+#~ msgid "참여자 갱신"
+#~ msgstr "Pembaharuan peserta"
+
+#~ msgid "참여자 목록을 갱신합니다. 최대 5초 정도 기다려 주십시오."
+#~ msgstr "Kemas kini senarai peserta. Sila tunggu sehingga 5 saat."
+
+#~ msgid "성공적으로 생성되었습니다."
+#~ msgstr "Ia berjaya dibuat."
+
+#~ msgid "참여 실패"
+#~ msgstr "Gagal mengambil bahagian"
+
+#~ msgid "입력하신 참여 코드를 찾을 수 없습니다."
+#~ msgstr "Kod penyertaan yang anda masukkan tidak dapat dijumpai."
+
+#~ msgid "${username} 참여자 정보를 받았습니다."
+#~ msgstr "Maklumat peserta ${username} diterima."
+
+#~ msgid "${username} 참여자가 제외되었습니다."
+#~ msgstr "Peserta ${username} telah dikecualikan."
+
+#~ msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
+#~ msgstr "Saya menerima maklumat peserta. Kemas kini maklumat."
+
+#~ msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
+#~ msgstr ""
+#~ "Sertailah bilik di mana anda boleh bermain LAN. Masukkan kod penyertaan anda"
+#~ " dalam format berangka XXX-XXXX."
+
+#~ msgid "XXX-XXXX"
+#~ msgstr "XXX-XXXX"
+
+#~ msgid "참여 코드"
+#~ msgstr "Kod penyertaan"
+
+#~ msgid "입력하신 참여 코드 형식이 잘못되었습니다."
+#~ msgstr "Format kod penyertaan yang anda masukkan tidak betul."
+
+#~ msgid "참여 코드를 확인하는 동안 오류가 발생하였습니다."
+#~ msgstr "Ralat berlaku semasa memeriksa kod penyertaan."
+
+#~ msgid "미꾸라지 LAN 프로세스"
+#~ msgstr "Mudfish LAN process"
