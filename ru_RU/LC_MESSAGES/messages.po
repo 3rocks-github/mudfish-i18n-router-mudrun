@@ -5,14 +5,18 @@ msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
 "POT-Creation-Date: 2023-01-29 20:32-0800\n"
-"PO-Revision-Date: 2022-11-01 03:47+0000\n"
+"PO-Revision-Date: 2023-01-30 04:44+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Russian <https://weblate.mudfish.net/projects/mudfish/launcher/ru/>\n"
+"Language-Team: Russian <https://weblate.mudfish.net/projects/mudfish/"
+"router-launcher/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3)\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.9.1\n"
 
 msgid "미꾸라지 LAN"
@@ -102,7 +106,6 @@ msgstr "Режим предмета"
 msgid "아이템 마법사"
 msgstr "Мастер предметов"
 
-#, fuzzy
 msgid "로컬 컴퓨터"
 msgstr "Мой компьютер"
 
@@ -470,7 +473,6 @@ msgstr "Статус соединения"
 msgid "작동중"
 msgstr "Работает"
 
-#, fuzzy
 msgid "Per-Eaddr 모드"
 msgstr "Поадресный режим"
 
@@ -1640,42 +1642,34 @@ msgstr "Скопление"
 msgid "아래에서 아이템을 선택해 주세요."
 msgstr "Пожалуйста, выберите элемент ниже."
 
-#, fuzzy
 msgid "적용할 장치"
 msgstr "устройство для применения"
 
-#, fuzzy
 msgid ""
 "Per-Eaddr 모드를 이용하여 특정 Ethernet Address (Mac Address) 를 가진 컴퓨터만 미꾸라지를 적용할 수 "
 "있습니다. 만약 아무것도 지정하지 않는다면 공유기에 접속한 모든 컴퓨터 / 장치에 미꾸라지가 적용됩니다."
 msgstr ""
 "Используя режим Per-Eaddr, Mudfish можно применять только к компьютерам с "
-"определенным адресом Ethernet (Mac-адресом). Если ничего не указано, Mudfish"
-" применяется ко всем компьютерам/устройствам, подключенным к маршрутизатору."
+"определенным адресом Ethernet (Mac-адресом). Если ничего не указано, Mudfish "
+"применяется ко всем компьютерам/устройствам, подключенным к маршрутизатору."
 
-#, fuzzy
 msgid "1 줄 당 1 개의 Ethernet Address (Mac Address) 를 입력하시기 바랍니다."
 msgstr "Введите один Ethernet-адрес (Mac-адрес) в каждой строке."
 
-#, fuzzy
 msgid "변경하신 설정을 적용하기 위해서는 다시 로그인을 하셔야 합니다. 지금 로그아웃 하시겠습니까?"
 msgstr ""
 "Чтобы применить измененные настройки, вам необходимо повторно подключиться "
 "после отсоединения. Хотите повторно подключиться?"
 
-#, fuzzy
 msgid "로그 아웃 확인"
-msgstr "Выйти"
+msgstr "Подтвердить выход"
 
-#, fuzzy
 msgid "입력한 Mac Address 가 올바르지 않습니다:"
-msgstr "Введенный вами Mac-адрес неверен:"
+msgstr "Введен неверный MAC-адрес:"
 
-#, fuzzy
 msgid "오류가 발생하였습니다:"
-msgstr "Произошла внутренняя ошибка."
+msgstr "Произошла ошибка:"
 
-#, fuzzy
 msgid "Per-Eaddr 모드가 업데이트되었습니다. 반드시 미꾸라지를 재시작하셔야 적용됩니다."
 msgstr ""
 "Обновлен режим Per-Eaddr. Вы должны перезапустить Mudfish, чтобы он вступил "
@@ -1920,7 +1914,6 @@ msgstr "Ищу кого-то!"
 msgid "기타"
 msgstr "Другое"
 
-#, fuzzy
 msgid "포트 공유 서비스"
 msgstr "служба совместного использования портов"
 
