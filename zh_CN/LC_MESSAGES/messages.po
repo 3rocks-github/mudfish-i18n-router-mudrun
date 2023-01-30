@@ -1,0 +1,2524 @@
+# Translators:
+# JIMAN HAM <losviajeros@naver.com>, 2019
+# weongyo <weongyo@gmail.com>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: Mudfish Launcher 1.0\n"
+"Report-Msgid-Bugs-To: weongyo@gmail.com\n"
+"POT-Creation-Date: 2022-10-31 20:48-0700\n"
+"PO-Revision-Date: 2022-11-01 03:47+0000\n"
+"Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.mudfish.net/projects/mudfish/launcher/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Generated-By: Babel 2.9.1\n"
+
+msgid "미꾸라지 LAN"
+msgstr "Mudfish LAN"
+
+msgid "대시보드"
+msgstr "控制面板"
+
+msgid "프로그램"
+msgstr "程序"
+
+msgid "로그인"
+msgstr "登录"
+
+msgid "중계 서버"
+msgstr "Mudfish服务器"
+
+msgid "생성하기"
+msgstr "创建"
+
+msgid "참여하기"
+msgstr "参加"
+
+msgid "문제점 보고서"
+msgstr "问题报告"
+
+msgid "자체 진단 - 상태"
+msgstr "自行诊断 - 状态"
+
+msgid "프로세스 - 상태"
+msgstr "程序 - 状态"
+
+msgid "미꾸라지 VPN"
+msgstr "Mudfish VPN"
+
+msgid "CLI"
+msgstr "CLI"
+
+msgid "게임 덤프"
+msgstr "游戏转储"
+
+msgid "패킷 덤프"
+msgstr "数据包转储"
+
+msgid "프로세스 덤프"
+msgstr "流程转储"
+
+msgid "Matt's traceroute"
+msgstr "Matt's traceroute"
+
+msgid "WPAD"
+msgstr "WPAD"
+
+msgid "아이템 구매"
+msgstr "购买物品"
+
+msgid "아이템 RTT 상황 - 기본 모드"
+msgstr "物品RTT状态 - 基本模式"
+
+msgid "아이템 RTT 상황 - 기본 모드 - 전체 구간"
+msgstr "物品RTT状态 - 基本模式 - 全路径"
+
+msgid "아이템 설정"
+msgstr "设置物品"
+
+msgid "아이템 RTT 상황 - 고급 모드"
+msgstr "物品RTT状态 - 专业模式"
+
+msgid "아이템 RTT 상황 - Multi Path 모드"
+msgstr "物品RTT状态-多路径模式"
+
+msgid "RTT 정보 조회"
+msgstr "查看RTT信息"
+
+msgid "Custom 아이템"
+msgstr "定制物品"
+
+msgid "아이템 목록"
+msgstr "物品列表"
+
+msgid "아이템 관리"
+msgstr "管理物品"
+
+msgid "아이템 모드"
+msgstr "项目模式"
+
+msgid "아이템 마법사"
+msgstr "物品向导"
+
+msgid "Full VPN - 중계 서버 RTT 상황"
+msgstr "Full VPN - Mudfish服务器 RTT 状态"
+
+msgid "Full VPN - 공개 무료 서버 RTT 상황"
+msgstr "Full VPN - 免费服务器 RTT 状态"
+
+msgid "접속 기록 - 상태"
+msgstr "连线记录 - 状态"
+
+msgid "메모리 - 상태"
+msgstr "内存 - 状态"
+
+msgid "중계 서버 - 상태"
+msgstr "服务器 - 状态"
+
+msgid "트래픽 - 상태"
+msgstr "流量 - 状态"
+
+msgid "장착한 아이템"
+msgstr "已装备物品"
+
+msgid "경고"
+msgstr "警告"
+
+msgid "페이지 로딩 과정에서 문제가 있었습니다. 다시 화면을 로딩할까요?"
+msgstr "加载页面时出现问题。是否要重新加载屏幕？"
+
+msgid "네"
+msgstr "是"
+
+msgid "아니요"
+msgstr "否"
+
+msgid "주의"
+msgstr "警告"
+
+msgid ""
+"문제가 지속될 경우, Javascript Console (<kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + "
+"<kbd>J</kbd>) 을 살펴보시거나 <a target='_blank' "
+"href='https://forums.mudfish.net'>미꾸라지 포럼</a>에 문의바랍니다."
+msgstr ""
+"如果问题仍然存在，请查看JavaScript控制台（ <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>J</kbd>"
+" ）或联系<a target='_blank' href='https://forums.mudfish.net'>Mudfish Forum</a> "
+"。"
+
+msgid "안내"
+msgstr "信息"
+
+msgid "설정 구성을 시작합니다."
+msgstr "启动自动配置。"
+
+msgid "프로그램을 재시작하셔야 적용됩니다."
+msgstr "需要重应用"
+
+msgid "모든 설정 구성이 완료되었습니다!"
+msgstr "齐全了。马上使用Mudfish。"
+
+msgid "알수없음"
+msgstr "无法知道"
+
+msgid "년"
+msgstr "年"
+
+msgid "달"
+msgstr "月"
+
+msgid "일"
+msgstr "天"
+
+msgid "시간"
+msgstr "时"
+
+msgid "분"
+msgstr "分钟"
+
+msgid "초"
+msgstr "秒"
+
+msgid "설정 구성 확인"
+msgstr "设置项目"
+
+msgid "이용권"
+msgstr "代金券"
+
+msgid "정액제 요금제가 동작하기 위해서는 이용권을 구매하셔야 합니다. 이용권 구매 페이지로 이동하시겠습니까?"
+msgstr "为了使统一费率计划起作用，您必须购买订阅。您要进入购票页面吗？"
+
+msgid "미꾸라지가 성공적으로 실행되었습니다. 화면을 갱신합니다."
+msgstr "成功执行Mudfish应用。刷新屏幕。"
+
+msgid "미꾸라지가 이미 실행중입니다. 화면을 갱신합니다."
+msgstr "Mudfish应用已正常执行。刷新屏幕。"
+
+msgid "실행 상태"
+msgstr "应用状态"
+
+msgid "미꾸라지 실행이 실패하였습니다."
+msgstr "Mudfish应用执行失败。"
+
+msgid "로그아웃 후 다시 로그인하겠습니까?"
+msgstr "登出后重新登录吗？"
+
+msgid "미꾸라지 실행이 계속 실패할 경우 미꾸라지 포럼에 문의바랍니다."
+msgstr "如果继续失败，请联系到Mudfish论坛。"
+
+msgid "미꾸라지가 성공적으로 종료하였습니다. 화면을 갱신합니다."
+msgstr "Mudfish应用结束成功。刷新屏幕。"
+
+msgid "미꾸라지 종료가 실패하였습니다."
+msgstr "Mudfish应用结束失败。"
+
+msgid "실시간 RTT"
+msgstr "实时RTT"
+
+msgid "실시간 RTT 그래프 통계를 초기화하였습니다."
+msgstr "实时RTT图形统计信息已初始化。"
+
+msgid "패킷 로스"
+msgstr "丢包"
+
+msgid "연결 확인"
+msgstr "连接确认"
+
+msgid "미꾸라지 Core 를 종료 중입니다."
+msgstr "正在结束Mudfish Core应用。"
+
+msgid "잠시 후 미꾸라지 Core 를 시작합니다."
+msgstr "稍候开始Mudfish Core应用。"
+
+msgid "설정이 적용되지 아직 않았습니다."
+msgstr "你的设置在Mudfish应用上还没反映出来。"
+
+msgid "아이템"
+msgstr "物品"
+
+msgid "현재 죽어 있는 중계 서버를 사용하고 있습니다. 아이템 설정에 들어가셔서 중계 서버 설정을 변경하세요."
+msgstr "现在你使用断线的服务器。可以去物品设置，更改别的服务器。"
+
+msgid "계산중입니다."
+msgstr "正在计算中"
+
+msgid "FastConnect 모드는 공개 무료 서버를 사용하는 Full VPN 모드에 적용되지 않습니다. 참고 바랍니다."
+msgstr "FastConnect模式不适用于带有公共免费服务器的完全VPN模式。请注意。"
+
+msgid "요금제 변경"
+msgstr "变更套餐"
+
+msgid "요금제가 갱신된 상태로, 다시 로그인이 필요합니다."
+msgstr "由于数据付费计划更改，需要重新登录。"
+
+msgid "점검중"
+msgstr "处于PM（定期维护）"
+
+msgid "로딩중..."
+msgstr "加载中..."
+
+msgid "Full VPN 기능"
+msgstr "完整VPN功能"
+
+msgid "Full VPN 모드를 사용 안함으로 지금 변경하시겠습니까?"
+msgstr "愿意关闭完整VPN模式吗？"
+
+msgid "Multi Path 모드"
+msgstr "多路径模式"
+
+msgid "고급 모드"
+msgstr "高级模式"
+
+msgid "기본 모드"
+msgstr "基本模式"
+
+msgid "현재 RTT 계산중입니다. 잠시후 다시 시도바랍니다."
+msgstr "Currently calculating RTT. Please try again later."
+
+msgid "RTT 정보가 업데이트 되었습니다."
+msgstr "RTT information has been updated."
+
+msgid "남은 기간"
+msgstr "剩余期限"
+
+msgid "전"
+msgstr "之前"
+
+msgid "실시간 트래픽"
+msgstr "实时流量"
+
+msgid "실시간 프로세스 트래픽"
+msgstr "实时进程流量"
+
+msgid "미꾸라지를 통해 처리된 프로세스별 트래픽 정보입니다. 트래픽을 많이 사용한 최대 20개 프로세스가 표시됩니다."
+msgstr "通过 Mudfish 处理的每个进程的流量信息。最多显示 20 个流量较大的进程。"
+
+msgid "프로세스"
+msgstr "处理"
+
+msgid "받음"
+msgstr "Received"
+
+msgid "보냄"
+msgstr "发送"
+
+msgid "프로세스 정보가 없습니다."
+msgstr "没有进程信息。"
+
+msgid "실시간 트래픽 사용량"
+msgstr "实时流量使用"
+
+msgid "실시간 크레딧 사용량"
+msgstr "实时鳅币使用"
+
+msgid "예외 사항 추가"
+msgstr "添加例外"
+
+msgid "예외 사항을 추가하시겠습니까? 추가할 경우, 해당 프로세스의 트래픽은 더 이상 미꾸라지를 통해 처리되지 않습니다."
+msgstr "要添加例外吗？如果添加，来自该进程的流量将不再由泥鳅处理。"
+
+msgid "닫기"
+msgstr "关闭"
+
+msgid "추가하기"
+msgstr "添加"
+
+msgid "변경하신 설정을 적용하기 위해서는 연결 종료 후 다시 연결하셔야 합니다. 다시 연결 하시겠습니까?"
+msgstr "为了在应用上反映出你的设置，需要重新连接。现在重新连接吗？"
+
+msgid "새 버전 안내"
+msgstr "新版本！"
+
+msgid "새 미꾸라지 배포판이 나왔습니다."
+msgstr "Mudfish新版本发布。"
+
+msgid ""
+"최신 기능 및 버그 수정을 위해서 꼭 업데이트해주시기 바랍니다. 다운로드는 <a "
+"href='https://mudfish.net/download'>여기</a> 에서 받으실 수 있습니다."
+msgstr ""
+"为了避开遇到问题和尝试新功能，最好建议你更新新版本。在<a "
+"href='https://mudfish.net/download'>这里</a>可以下载新版本。"
+
+msgid ""
+"자세한 변경 사항은 <a href='https://docs.mudfish.net/en/docs/mudfish-cloud-"
+"vpn/release-notes/'>릴리즈 노트</a>를 참고 바랍니다."
+msgstr ""
+"具体的更新资料，请参考在于<a href='https://docs.mudfish.net/en/docs/mudfish-cloud-"
+"vpn/release-notes/'>更新信息</a>。"
+
+msgid "현재 설정 구성중입니다... 잠시만 기다려 주십시오."
+msgstr "正在进行自动设置...请稍候。"
+
+msgid ""
+"진행이 너무 오래 걸리면 <a class='alert-link' href='/status/diag.html'>자체 진단</a>을 "
+"해보십시오."
+msgstr "如果进行速度太慢，请<a class='alert-link' href='/status/diag.html'>自我检查</a>。"
+
+msgid "완료"
+msgstr "已完成"
+
+msgid "크레딧 상태"
+msgstr "鳅币状态"
+
+msgid "크레딧 구매하기"
+msgstr "充值鳅币"
+
+msgid "남은 크레딧"
+msgstr "鳅币"
+
+msgid "남은 트래픽 용량"
+msgstr "剩余流量"
+
+msgid "마지막 결제일"
+msgstr "最后支付"
+
+msgid "현재 마이너스 크레딧 상태입니다."
+msgstr "不够鳅币"
+
+msgid "잔여 크레딧이 없습니다."
+msgstr "无鳅币"
+
+msgid "아이템 구매를 위해서는 우선 크레딧 구매를 하셔야 합니다."
+msgstr "请先充值鳅币，再试试购买物品。"
+
+msgid ""
+"Full VPN 모드 기능을 위해 사용중인 중계 서버가 죽어 있습니다. '설정 - 프로그램' 메뉴에 들어가셔서 Full VPN 모드 "
+"설정을 다시 하시기 바랍니다."
+msgstr "在完整VPN功能上，你选择的服务器是断线状态。请在‘设置 - 程序’上再选择别的服务器。"
+
+msgid ""
+"Full VPN 모드 기능을 위해 사용중인 공개 무료 서버가 죽어 있습니다. '설정 - 프로그램' 메뉴에 들어가셔서 Full VPN 모드"
+" 설정을 다시 하시기 바랍니다."
+msgstr "在完整VPN模式上免费服务器现在断线状态。请在‘设置 - 程序’上再选择别的免费服务器。"
+
+msgid "아래의 예외 사항 항목들이 미꾸라지를 통해 전달하지 않고 기존 네트워크 경로로 처리되고 있습니다."
+msgstr "下面的异常项没有通过泥鳅，正在通过现有的网络路径进行处理。"
+
+msgid "간단 설정"
+msgstr "设置简单"
+
+msgid "FastConnect 모드"
+msgstr "FastConnect模式(仅限于TCP)"
+
+msgid "Full VPN 모드"
+msgstr "完整VPN模式"
+
+msgid "WFP 아이템 모드"
+msgstr "WFP item mode"
+
+msgid "상태"
+msgstr "状态"
+
+msgid "사용자 ID"
+msgstr "用户名"
+
+msgid "하위 계정"
+msgstr "别号"
+
+msgid "계정 타입"
+msgstr "帐户类型"
+
+msgid "정액제"
+msgstr "订阅"
+
+msgid "종량제"
+msgstr "按流量付费"
+
+msgid "요금제"
+msgstr "数据套餐"
+
+msgid "없음"
+msgstr "没有任何"
+
+msgid "현재 Public IP"
+msgstr "当前的公共IP"
+
+msgid "연결 여부"
+msgstr "连接状态"
+
+msgid "작동중"
+msgstr "运行中"
+
+msgid "RTT 업데이트"
+msgstr "更新RTT"
+
+msgid "마지막 RTT 업데이트"
+msgstr "Last RTT Update"
+
+msgid "아직 변경하신 내용이 적용되지 않았습니다. 지금 설정 구성을 시작하겠습니까?"
+msgstr "你的设置还没反映出来。现在马上反映出来吗？"
+
+msgid "알림"
+msgstr "注意"
+
+msgid "WFP 아이템 모드 지원"
+msgstr "WFP 项目模式支持"
+
+msgid "CDN 이슈가 있는 아이템"
+msgstr "有 CDN 问题的项目"
+
+msgid "Cloud 이슈가 있는 아이템"
+msgstr "有云问题的项目"
+
+msgid "일 남음"
+msgstr "天剩余"
+
+msgid "서버 위치"
+msgstr "服务器位置"
+
+msgid "중계 서버 모드"
+msgstr "中继服务器模式"
+
+msgid "선택된 중계 서버"
+msgstr "已选择Mudfish服务器"
+
+msgid "장착한 아이템이 없습니다."
+msgstr "未装备物品"
+
+msgid "메뉴"
+msgstr "菜单"
+
+msgid "오늘의 추천 경로"
+msgstr "今天的路由"
+
+msgid "설정"
+msgstr "设置"
+
+msgid "사용 여부"
+msgstr "是否装备"
+
+msgid "라우팅 정보"
+msgstr "路由信息"
+
+msgid "아이템 추가"
+msgstr "添加物品"
+
+msgid "추가하실 아이템의 종류를 선택해 주세요."
+msgstr "请选择要添加的项目类型。"
+
+msgid "미꾸라지 아이템 추가"
+msgstr "新增项目"
+
+msgid "미꾸라지에 이미 만들어져 있는 아이템을 리스트에 추가합니다."
+msgstr "将已经创建的项目添加到列表中。"
+
+msgid "프로세스 추가"
+msgstr "添加过程"
+
+msgid "운영체제에서 실행될 프로세스 이름을 추가합니다."
+msgstr "添加要在操作系统上运行的进程的名称。"
+
+msgid "라우팅테이블 추가"
+msgstr "添加路由表"
+
+msgid "운영체제에서 세팅될 라우팅 테이블 정보를 추가합니다."
+msgstr "添加要在操作系统中设置的路由表信息。"
+
+msgid "추가하실 프로세스 이름을 선택해 주세요."
+msgstr "请选择要添加的进程名称。"
+
+msgid "현재 설정"
+msgstr "当前设置"
+
+msgid "실행중"
+msgstr "跑步"
+
+msgid "직접 입력"
+msgstr "直接输入"
+
+msgid "설정된 프로세스가 없습니다."
+msgstr "没有设置任何过程。"
+
+msgid "저장하기"
+msgstr "保存"
+
+msgid "추가하실 라우팅테이블 정보를 입력해 주세요."
+msgstr "输入要添加的路由表信息。"
+
+msgid "설정된 라우팅테이블 정보가 없습니다."
+msgstr "没有设置路由表信息。"
+
+msgid "목적지"
+msgstr "目的地"
+
+msgid "계산중입니다. 잠시 후 다시 시도해 보시기 바랍니다."
+msgstr "正在计算。请稍后再试。"
+
+msgid "라우팅 경로"
+msgstr "路由路径"
+
+msgid "미꾸라지 중계 서버"
+msgstr "Mudfish服务器"
+
+msgid "공개 무료 서버"
+msgstr "免费服务器"
+
+msgid ""
+"컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 서버 중"
+" 하나를 선택해 주세요."
+msgstr "所有数据都由免费服务器处理。请你选择在名单上可用的免费服务器。"
+
+msgid ""
+"이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기 때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 미꾸라지 "
+"네트웍스에서 책임지지 않습니다."
+msgstr "这些公开免费服务器不是由我们来提供的，因此我们不保证你使用这些服务器所遇到的问题。"
+
+msgid "사용 안함"
+msgstr "关"
+
+msgid ""
+"컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를 선택해 "
+"주세요."
+msgstr "重新定向所有从桌面到Mudfish服务器的流量。请选择下方的Mudfish服务器之一来使用。"
+
+msgid "안내!"
+msgstr "信息！"
+
+msgid "크레딧 없거나 혹은 Full VPN 을 사용할 권한이 없습니다."
+msgstr "没有鳅币或者不允许使用完整VPN功能。"
+
+msgid "사용할 중계 서버를 선택하십시오."
+msgstr "选择Mudfish服务器。"
+
+msgid "하나의 중계 서버를 경유하여 트래픽이 전달됩니다."
+msgstr "流量会通过1个Mudfish服务器传送。"
+
+msgid "두개의 중계 서버들을 경유하여 트래픽이 전달됩니다."
+msgstr "流量会通过2个Mudfish服务器传送。"
+
+msgid "기본 모드 혹은 고급 모드보다 핑과 안정성이 뛰어나지만, 트래픽 사용량이 상대적으로 2 배 혹은 3 배 정도 많이 사용됩니다."
+msgstr "与基本或高级模式相比，它具有更好的 ping 和稳定性，但相对于它，它使用了 2 倍或 3 倍的流量。"
+
+msgid "핑 상태에 따라서, 자동으로 여러 중계 서버들을 경유하여 트래픽이 전달됩니다."
+msgstr "根据 ping 状态，流量自动通过多个中继服务器转发。"
+
+msgid ""
+"첫번째 중계 서버가 자동 선택이 아닌 직접 지정할 경우, 해당 중계 서버는 항상 Multi Path 모드에 포함되도록 구성됩니다."
+msgstr "如果手动指定而不是自动选择第一个中继服务器，则该中继服务器始终配置为处于多路径模式。"
+
+msgid "두번째 중계 서버의 경우, 목적지에 가까운 미꾸라지 중계 서버를 사용하는 것이 좋습니다."
+msgstr "对于第二个中继服务器，建议使用靠近目的地的loach中继服务器。"
+
+msgid "자동 선택"
+msgstr "自动选择"
+
+msgid "정기 점검 안내"
+msgstr "维护公告"
+
+msgid ""
+"서비스 안정화를 위한 정기 점검을 하려고 합니다. 이로 인해 점검 기간 동안 미꾸라지 이용에 문제가 있을 수 있음을 알려드립니다."
+msgstr "我们将进行维修。"
+
+msgid "대상: 모든 미꾸라지 중계 서버들"
+msgstr "目标：所有Mudfish服务器"
+
+msgid "일시"
+msgstr "日期"
+
+msgid "남은 시간"
+msgstr "剩余时间"
+
+msgid "시"
+msgstr "小时"
+
+msgid "후에 점검이 시작됩니다."
+msgstr "距定期维护时间。"
+
+msgid ""
+"점검을 시작하게 되면 미꾸라지 중계 서버를 경유한 기존 게임 연결이 끊어질 수 있으며 로그인, 홈페이지 접속에 문제가 있을 수 있습니다."
+msgstr "定期维护期间大部分服务将不可访问，无法登录Mudfish服务，您的连接将被强制中断。"
+
+msgid "중계 서버 설정"
+msgstr "Mudfish服务器列表"
+
+msgid "예외 경로"
+msgstr "Exceptional Routes"
+
+msgid "사용중인 아이템에 목적지 설정 정보가 없습니다. 이 경우 중계 서버 자동 선택이 동작하지 않습니다."
+msgstr "没有正在使用的项目的目的地设置信息。在这种情况下，自动中继服务器选择不起作用。"
+
+msgid "표시되는 중계 서버 수가 너무 적습니다. '설정 → 중계 서버' 메뉴의 설정이 올바른지 확인하시기 바랍니다."
+msgstr "显示的中继服务器数量太少。检查“设置 → 中继服务器”菜单中的设置是否正确。"
+
+msgid "선택하신 중계 서버로 변경되었습니다."
+msgstr "已更改为选定的服务器。"
+
+msgid "처음 미꾸라지를 사용하시나요? 설정된 아이템이 없습니다. 아이템 마법사 기능으로 첫 아이템을 세팅해 보세요."
+msgstr "您是第一次使用它吗？没有设置项目。尝试使用“项目向导”功能设置您的第一个项目。"
+
+msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
+msgstr "当前没有任何项目处于活动状态。别再跑了。"
+
+msgid "설정되지 않음"
+msgstr "没有设置"
+
+msgid "정말 삭제하시겠습니까?"
+msgstr "你确定要删除吗？"
+
+msgid "연결 상태"
+msgstr "连接状态"
+
+msgid "현재 미꾸라지 프로그램이 실행중입니다."
+msgstr "正在运行Mudfish应用。"
+
+msgid "연결끊기"
+msgstr "断开"
+
+msgid "현재 미꾸라지 프로그램이 실행중이 아닙니다."
+msgstr "正在未执行mudfish应用。"
+
+msgid "연결하기"
+msgstr "连接"
+
+msgid "요약"
+msgstr "概括"
+
+msgid "연결 방식"
+msgstr "连接方式"
+
+msgid "Full VPN 기반"
+msgstr "完整VPN功能"
+
+msgid "아이템 기반"
+msgstr "基于项目"
+
+msgid "적용 아이템"
+msgstr "适用项目"
+
+msgid "적용할 아이템이 없습니다."
+msgstr "没有适用的项目。"
+
+msgid "기본 설정"
+msgstr "一般"
+
+msgid "런쳐"
+msgstr "发射器"
+
+msgid "잘못된 설정"
+msgstr "错误的设置"
+
+msgid "잘못된 MTU 값입니다. MTU 값은 최소 576, 최대 1450 까지 설정 가능합니다."
+msgstr "MTU值无效。 MTU值可以设置为最小值576和最大值1450。"
+
+msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
+msgstr "在完整VPN模式上，只能选择一台服务器。"
+
+msgid ""
+"Full VPN 설정시, 특정 라우팅 경로의 경우, 미꾸라지를 통해 전달하지 않고 기존 네트워크 경로대로 처리하고자 할 때 사용할 수 "
+"있습니다."
+msgstr "建立完整的VPN后，可以将特定的路由路径作为现有的网络路径进行处理，而不需要通过泥鱼转发。"
+
+msgid ""
+"'WFP 아이템 모드'가 활성화되어 있을 경우, 프로세스 이름을 예외 경로로 지정할 수 있습니다. 각 줄당 CIDR 형식의 경로 혹은 "
+"프로세스 이름을 입력하시면 됩니다. 예를 들면, 다음과 같습니다."
+msgstr "如果启用了“WFP 项目模式”，您可以将进程名称指定为异常路径。为每一行输入 CIDR 格式的路径或进程名称。例如："
+
+msgid "CIDR 형식"
+msgstr "CIDR 格式"
+
+msgid "프로세스 이름"
+msgstr "进程名称"
+
+msgid "각 줄당 CIDR 형식의 경로를 입력하시면 됩니다. 예를 들면, 다음과 같습니다."
+msgstr "为每一行输入 CIDR 格式的路径。例如："
+
+msgid "예) 8.8.0.0/16"
+msgstr "例）8.8.0.0/16"
+
+msgid "설정 저장"
+msgstr "保存"
+
+msgid "기타 옵션"
+msgstr "选项"
+
+msgid "설정 초기화"
+msgstr "重启"
+
+msgid "RTT 상황"
+msgstr "RTT状态"
+
+msgid "무료 서버 목록"
+msgstr "公开免费服务器"
+
+msgid "목록 검색"
+msgstr "搜索"
+
+msgid "무료 서버 이름"
+msgstr "免费服务器名"
+
+msgid "RTT 평균"
+msgstr "RTT平均值"
+
+msgid "RTT 표준편차"
+msgstr "RTT标准偏差"
+
+msgid "'WFP 아이템 모드'가 활성화되어 있습니다. Full VPN 모드가 이 모드에 영향을 받을 것입니다."
+msgstr "“WFP 项目模式”已启用。完整 VPN 模式将受此 mod 影响。"
+
+msgid "중계 서버 목록"
+msgstr "Mudfish服务器列表"
+
+msgid "테스트 성공"
+msgstr "测试成功"
+
+msgid "테스트 실패"
+msgstr "测试失败"
+
+msgid "RTT 평균 / 표준편차에 대한 정보는 미꾸라지 중앙서버에 기록된 정보를 기준으로 표시됩니다."
+msgstr ""
+"RTT avg / stddev information is displayed based on the information recorded "
+"on the mudfish server."
+
+msgid "중계 서버 이름"
+msgstr "服务器名称"
+
+msgid "시스템 부하를 가르킵니다. CPU Steal 퍼센트/IO Wait 퍼센트/네트웍 카드 오류수"
+msgstr "系统负载。CPU Steal等待 %% / IO等待%% / NIC错误"
+
+msgid "시스템 부하"
+msgstr "系统负载"
+
+msgid "지난 5 분간 이 중계 서버가 처리한 트래픽량을 가르킵니다. 단위는 MBytes 입니다."
+msgstr "最后5分钟流量。单位是兆字节。"
+
+msgid "트래픽양"
+msgstr "流量"
+
+msgid "패킷로스"
+msgstr "丢包"
+
+msgid "RTT 그래프"
+msgstr "RTT图"
+
+msgid "테스트 중계 서버"
+msgstr "测试服务器"
+
+msgid "연결 프로토콜"
+msgstr "连接协议"
+
+msgid "미꾸라지가 중계 서버와 통신에 사용할 프로토콜을 지정합니다."
+msgstr "指定用于与Mudfish服务器通信的协议。"
+
+msgid "자동"
+msgstr "自动的"
+
+msgid "FEC 기반"
+msgstr "在于FEC基础"
+
+msgid "RTT 검사 방법"
+msgstr "RTT检查方法"
+
+msgid "미꾸라지가 중계 서버까지의 RTT (Round Trip Time) 을 측정하기 위해 사용할 프로토콜을 지정합니다."
+msgstr "指定用于测量客户端与Mudfish服务器之间RTT (往返时间)的协议。"
+
+msgid "MTU 설정"
+msgstr "MTU"
+
+msgid ""
+"프로그램이 사용할 MTU (Maximum Transmission Unit) 크기를 지정합니다. 기본값은 1400 bytes 입니다."
+msgstr "指定程序要使用的最大传输单位（MTU）大小。默认值为1400字节。"
+
+msgid "미꾸라지가 트래픽을 처리할 때 Router 방식 대신 Proxy 방식으로 처리하게 합니다."
+msgstr "流量通过代理方式处理，不通过路由器处理。"
+
+msgid "연결 프로토콜이 TCP인 아이템에만 도움을 줍니다."
+msgstr "此设置仅限于TCP方式的服务才有帮助。"
+
+msgid ""
+"가능하다면 윈도우의 WFP(Windows Filtering Platform) 기능을 이용하여 라우팅 테이블 기반 대신 프로세스 기반 "
+"방식으로 작동하도록 구성합니다."
+msgstr "如有可能，请使用Windows的Windows筛选平台（WFP）功能将其配置为以基于进程的方式而不是基于路由表的方式进行操作。"
+
+msgid "크레딧 절약 모드"
+msgstr "信用节省模式"
+
+msgid ""
+"의도치 않은 크레딧 차감을 방지하는 기능입니다. 이 기능이 활성화가 될 경우, TCP 80 / 443 포트를 통해 주고 받는 트래픽에 "
+"대해 속도 제한을 합니다."
+msgstr "此功能可防止意外扣款。启用此功能后，速率限制将应用于往返TCP 80/443端口的流量。"
+
+msgid "자동 연결"
+msgstr "自动连线"
+
+msgid "미꾸라지 Launcher 가 로그인 후 자동으로 중계 서버에 연결하도록 구성합니다. 기본값은 Off 입니다."
+msgstr ""
+"Automatically launches mudfish core processes after signing in. Default is "
+"off."
+
+msgid "아이템 설정 모드"
+msgstr "项目设定模式"
+
+msgid "아이템 설정을 위한 모드를 설정합니다."
+msgstr "设置设置项目的模式。"
+
+msgid "심플"
+msgstr "简单的"
+
+msgid "기본"
+msgstr "基本的"
+
+msgid "배경화면"
+msgstr "墙纸"
+
+msgid ""
+"런쳐가 사용할 배경 화면을 지정할 수 있습니다. 반드시 URL 형식이거나 기본값이여야 합니다. 기본값은 "
+"<kbd>/images/bg/1.jpg</kbd> 입니다. 예제로 다음과 같은 배경화면이 있으니 참고 바랍니다."
+msgstr "您可以指定启动器要使用的墙纸。必须为URL格式或默认值。默认值为<kbd>/images/bg/1.jpg</kbd>例如，下面是墙纸。"
+
+msgid "문제점 보고"
+msgstr "报告问题"
+
+msgid "카테고리"
+msgstr "分类"
+
+msgid "보고하실 문제점에 대한 카테고리를 선택해 주세요."
+msgstr "请为您要报告的问题选择一个类别。"
+
+msgid "내용"
+msgstr "描述遇到问题的具体内容"
+
+msgid "자세한 상황과 재현 방법을 적어 주시면 문제 해결에 큰 도움이 됩니다."
+msgstr "如果能包含问题发生方式/时间详情将会很有帮助。"
+
+msgid "1) 어떤 문제 때문에 문제점 보고를 하시려고 하는 건가요?"
+msgstr "1）你遇到了什么问题？"
+
+msgid "2) 문제를 그대로 재현하려면 어떻게 해야 하나요?"
+msgstr "2）遇到的问题可以怎样重现？"
+
+msgid "문제점 보고하기"
+msgstr "报告问题"
+
+msgid "문제점 보고서 제출중입니다... 최대 2 분까지 걸릴 수 있습니다."
+msgstr "正在报告问题......这需要一段时间，最长2分钟。"
+
+msgid "문제점 보고서 제출이 완료되었습니다."
+msgstr "问题报告提交完成。"
+
+msgid "다음 링크에서 문제점 보고서를 확인할 수 있습니다."
+msgstr "您可以通过以下链接查看问题报告。"
+
+msgid "문제점 보고서 링크"
+msgstr "问题报告链接"
+
+msgid "성공적으로 제출 되었습니다. 감사합니다."
+msgstr "成功报告。谢谢。"
+
+msgid "문제점 보고서 제출이 실패하였습니다."
+msgstr "问题报告提交失败。"
+
+msgid "분류 없음"
+msgstr "没有分类"
+
+msgid "핑"
+msgstr "Ping"
+
+msgid "계정"
+msgstr "帐户"
+
+msgid "새로운 게임"
+msgstr "新游戏"
+
+msgid "기존 미꾸라지 아이템"
+msgstr "Existing game item"
+
+msgid "결제"
+msgstr "付款方式"
+
+msgid "로그인하기"
+msgstr "登录"
+
+msgid "자동 로그인 체크중입니다..."
+msgstr "检查自动登录资料..."
+
+msgid "패스워드"
+msgstr "密码"
+
+msgid "로그인 기억하기"
+msgstr "记住我"
+
+msgid "계정 생성"
+msgstr "免费注册"
+
+msgid "ID 찾기"
+msgstr "忘记用户名"
+
+msgid "비밀번호 찾기"
+msgstr "忘记密码"
+
+msgid "연결 오류"
+msgstr "连接错误"
+
+msgid "인증 서버 연결에 실패하였습니다. 우회 기능을 사용하여 로그인하겠습니까?"
+msgstr "身份验证服务器连接失败。您要使用旁路功能登录吗？"
+
+msgid ""
+"미꾸라지 Core 의 내부 명령을 이용하여, Core 프로그램을 제어할 수 있습니다. <b>help</b> 명령을 입력하시면 이용 가능한"
+" 명령어들 목록을 볼 수 있습니다."
+msgstr "使用CLI命令，你能够控制Mudfish应用的具体信息。想要观看可用的命令，打 <b>help</b> 命令就行。"
+
+msgid "명령어"
+msgstr "命令"
+
+msgid "미꾸라지를 통해 전달되는 게임 정보를 덤프하는 기능입니다."
+msgstr "这是一个转储通过泥鳅传递的游戏信息的功能。"
+
+msgid "정지"
+msgstr "停止"
+
+msgid "시작"
+msgstr "开始"
+
+msgid "중지"
+msgstr "停止"
+
+msgid "전송하기"
+msgstr "上传"
+
+msgid "파일 크기"
+msgstr "文件大小"
+
+msgid "현재 프로세스"
+msgstr "当前进程"
+
+msgid "새 프로세스 갯수"
+msgstr "新进程数"
+
+msgid "새 프로세스"
+msgstr "新流程"
+
+msgid "게임 덤프 업로드"
+msgstr "上传游戏转储"
+
+msgid "한줄 설명"
+msgstr "简短介绍"
+
+msgid "게임 덤프의 내용을 간략하게 설명해 주세요."
+msgstr "请简要描述游戏转储的内容。"
+
+msgid "게임 덤프 중입니다."
+msgstr "倾倒游戏。"
+
+msgid "내부 오류가 발생하였습니다."
+msgstr "内部错误"
+
+msgid "업로드가 완료되었습니다."
+msgstr "上传完毕。"
+
+msgid "다음 링크에서 덤프를 확인할 수 있습니다."
+msgstr "您可以在以下链接中找到转储："
+
+msgid "게임 덤프 주제글"
+msgstr "游戏转储主题"
+
+msgid "미꾸라지를 통해 전달되는 패킷을 파일로 덤프하는 기능입니다."
+msgstr "您可以让Mudfish处理转储数据包。"
+
+msgid "파일 업로드"
+msgstr "上传文件"
+
+msgid "패킷 덤프의 내용을 간략하게 설명해 주세요."
+msgstr "清洁是这个文件包的用途。"
+
+msgid "패킷 덤프 중입니다."
+msgstr "转储文件包正在运行。"
+
+msgid "패킷 덤프 주제글"
+msgstr "数据包转储主题"
+
+msgid "운영체제에서 실행되고 종료되는 프로세스 이름을 덤프하는 기능입니다."
+msgstr "此函数转储在操作系统中运行和终止的进程的名称。"
+
+msgid "프로세스 갯수"
+msgstr "工序数"
+
+msgid "덤프 업로드"
+msgstr "转储上传"
+
+msgid "프로세스 덤프의 내용을 간략하게 설명해 주세요."
+msgstr "请简要描述流程转储的内容。"
+
+msgid "프로세스 덤프 중입니다."
+msgstr "转储过程。"
+
+msgid "프로세스 덤프 주제글"
+msgstr "进程转储主题"
+
+msgid ""
+"<a href='https://en.wikipedia.org/wiki/MTR_(software)' "
+"target='_blank'>Matt's traceroute</a> 기능을 이용하여 입력하신 'IP / 호스트이름'을 대상으로 테스트를 "
+"실시합니다. 이 기능을 통해 어떤 Hop (라우터 구간)에서 Packet loss 가 발생되는지 혹은 지연 시간등의 정보를 확인할 수 "
+"있습니다."
+msgstr ""
+"使用<a href='https://en.wikipedia.org/wiki/MTR_(software)' "
+"target='_blank'>Matt's traceroute</a>应用输入‘IP / "
+"主机名’的形式指定目的地，可以查看丢包率和网络状态。通过这个功能，我们会了解到底什么地点有丢包或延迟。"
+
+msgid "IP / 호스트이름"
+msgstr "IP / 主机名"
+
+msgid "이름"
+msgstr "名字"
+
+msgid "관리"
+msgstr "管理"
+
+msgid "실행중인 테스트가 없습니다."
+msgstr "没有正在进行测试。"
+
+msgid "삭제"
+msgstr "删除"
+
+msgid "결과"
+msgstr "结果"
+
+msgid "Hop"
+msgstr "跳"
+
+msgid "요청수"
+msgstr "请求次数"
+
+msgid "응답수"
+msgstr "响应次数"
+
+msgid "RTT"
+msgstr "RTT"
+
+msgid "주소"
+msgstr "地址"
+
+msgid "현재"
+msgstr "现在"
+
+msgid "최고"
+msgstr "最高"
+
+msgid "최저"
+msgstr "最低"
+
+msgid "MTR 기능이 지원되지 않는 운영체제입니다."
+msgstr "系统没有支持MTR功能。"
+
+msgid "설명"
+msgstr "简介"
+
+msgid "아이템은 <strong>한달</strong> 동안 유효합니다."
+msgstr "此物品有限于<strong>1 个月</strong>。"
+
+msgid "요금제가 종량제이기 때문에 아이템 구매를 위한 비용은 없습니다."
+msgstr "你选的套餐是按流量计费的，不需要付装备物品费。"
+
+msgid "크레딧"
+msgstr "鳅币"
+
+msgid "이 차감됩니다."
+msgstr "将会被扣掉"
+
+msgid "주의하세요!"
+msgstr "请注意！"
+
+msgid ""
+"이 아이템의 경우 CDN (Content Delivery Network) 관련 라우팅 정보를 포함하고 있습니다. 미꾸라지가 켜져 있는 "
+"상태에서 파일 다운로드나 스트리밍을 할 경우 의도치 않게 크레딧이 많이 차감될 수 있습니다."
+msgstr "此物品的路由表里包含CDN(Content Delivery Network)有关信息，下载大容量数据或串流视频时也许耗费流量和你的鳅币。"
+
+msgid "자동 갱신"
+msgstr "自动刷新"
+
+msgid ""
+"시간을 절약하고 귀찮은 과정을 건너뛸 수 있습니다. 남은 잔여일이 3일 미만이 되면, 아이템 유효 기간이 자동으로 갱신되며 크레딧이 "
+"차감됩니다."
+msgstr "为了节省你的时间和步骤。当剩余天数少于3天时，物品会自动刷新也自动扣掉鳅币。"
+
+msgid "사용함"
+msgstr "开"
+
+msgid "이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를 가르킵니다."
+msgstr "本物品支持的游戏/网站/串流视频的目标服务器名单。"
+
+msgid "최적의 RTT 및 중계 서버 정보를 받기 위해서는 아래의 위치 중 접속하는 서버 위치를 선택해 주세요."
+msgstr "为获得最佳RTT或服务器信息，请指定一个你正在游戏的目标位置。"
+
+msgid "목적지 위치"
+msgstr "目标服务器(游戏/网站/串流服务器)"
+
+msgid "선택"
+msgstr "选择"
+
+msgid "사설 서버"
+msgstr "私人服务器"
+
+msgid "공식 서버"
+msgstr "官方服务器"
+
+msgid "목적지에 가까운 미꾸라지 중계 서버를 사용하는 것이 좋습니다."
+msgstr "建议使用靠近目的地的泥鳅中继服务器。"
+
+msgid "정말로 구매하시겠습니까?"
+msgstr "您想购买并装备吗？"
+
+msgid "아이템 구매하기"
+msgstr "购买物品"
+
+msgid "무료"
+msgstr "免费"
+
+msgid "다이렉트"
+msgstr "直接的"
+
+msgid "더..."
+msgstr "更多的..."
+
+msgid "오늘의 추천 경로 계산시 사용되는 RTT 정보가 1 시간 이상 오래된 정보를 기준으로 하니 참고 바랍니다.."
+msgstr ""
+"Please note that the RTT information used to calculate today's path is based"
+" on RTT information older than 1 hour."
+
+msgid "오늘의 추천 경로 계산이 요청되었습니다. 계산에 시간이 걸리니 잠시 후 확인해 보시기 바랍니다."
+msgstr ""
+"Requested today's path calculation. Please take a moment to check out."
+
+msgid "새로고침"
+msgstr "刷新"
+
+msgid "개인 아이템"
+msgstr "自作物品"
+
+msgid "이 아이템은 사용자가 직접 제작한 아이템입니다. 아래의 메뉴를 이용하여 수정 / 삭제를 하실 수 있습니다."
+msgstr "这物品是由用户制作的，用以下的菜单可以修改和删除。"
+
+msgid "아이템 수정"
+msgstr "修改物品"
+
+msgid "아이템 Export"
+msgstr "Item 出口"
+
+msgid "아이템 삭제"
+msgstr "删除物品"
+
+msgid "목적지를 찾을 수 없습니다."
+msgstr "找不到目的地。"
+
+msgid "Custom 아이템의 경우, '아이템 수정' 메뉴에서 목적지를 입력하실 수 있습니다."
+msgstr "对于自定义项目，您可以在“编辑项目”菜单中输入目标。"
+
+msgid "계산된 최적의 미꾸라지 중계 서버 이용 경로들이며, 예상 RTT 평균과 편차 정보입니다."
+msgstr "已使用Mudfish服务器和预计RTT平均值和标准值计算了路由路径。"
+
+msgid "계산 시각"
+msgstr "已计算"
+
+msgid "최단 경로 업데이트"
+msgstr "Today's Path Update"
+
+msgid "현재 계산된 추천 경로가 없습니다."
+msgstr "现在没有计算出来的推荐路径。"
+
+msgid "사용할 중계 서버 모드와 중계 서버를 선택하십시오."
+msgstr "选择中继服务器模式和要使用的中继服务器。"
+
+msgid "설정 구성 완료 후 한번 선택된 중계 서버는 중간에 변경되지 않습니다."
+msgstr "一旦安装配置完成，所选的中继服务器将不会在中间更改。"
+
+msgid "아이템 사용 여부를 선택합니다."
+msgstr "选择是否装备物品。"
+
+msgid "설정하기"
+msgstr "保存"
+
+msgid "기간 연장"
+msgstr "延长到期"
+
+msgid "정말 기간 연장 하겠습니까?"
+msgstr "您要延长到期吗？"
+
+msgid "주의 사항"
+msgstr "警告"
+
+msgid "남은 시간에 31 일이 추가됩니다."
+msgstr "另外31天将延长。"
+
+msgid "남은 기간은 크레딧으로 환불되지 않습니다."
+msgstr "不可退还剩余鳅币。"
+
+msgid "삭제된 아이템은 복구할 수 없습니다. 재구매하셔야 합니다."
+msgstr "删除后不可恢复。 你应该买新的物品。"
+
+msgid "연결 그래프"
+msgstr "连接图"
+
+msgid "아래의 Ping은 실제값이 아닌 예상치를 나타냅니다."
+msgstr "下面的 Pings 代表估计值，而不是实际值。"
+
+msgid "로딩중입니다."
+msgstr "加载中。"
+
+msgid "활성화됨"
+msgstr "已启用"
+
+msgid "비활성화됨"
+msgstr "已禁用"
+
+msgid ""
+"남은 시간이 지나면 아이템은 자동 삭제됩니다. 원하지 않는 다면, '자동 갱신' 옵션을 켜거나 '기간 연장'을 하시기 바랍니다."
+msgstr "剩余时间过去后，该项目将自动删除。如果您不想要它，请打开“自动续订”选项或“延长期限”。"
+
+msgid "이 아이템은 'WFP 아이템 모드'를 지원합니다."
+msgstr "此项目支持“WFP 项目模式”。"
+
+msgid "알려진 이슈"
+msgstr "已知的问题"
+
+msgid "CDN 이슈"
+msgstr "CDN问题"
+
+msgid ""
+"자세한 내용은 <a href='http://wiki.mudfish.net/CDN%20and%20Mudfish'>CDN and "
+"Mudfish</a> 링크를 참고 바랍니다."
+msgstr ""
+"具体的更新资料，请参考在于<a href='http://wiki.mudfish.net/CDN%20and%20Mudfish'>CDN and "
+"Mudfish</a>。"
+
+msgid "Cloud 이슈"
+msgstr "云问题"
+
+msgid ""
+"이 아이템의 경우 클라우드 환경상에 목적지 서버가 존재합니다. 이로 인하여 동일 클라우드 상에 있는 다른 서비스가 아이템의 영향을 받을 "
+"수 있습니다."
+msgstr "在此项的情况下，目标服务器存在于云环境中。因此，同一云上的其他服务可能会受到该项目的影响。"
+
+#, python-format
+msgid ""
+"자세한 내용은 <a "
+"href='http://wiki.mudfish.net/Amazon%20EC2%2C%20Twitch%20and%20Mudfish'>Amazon"
+" EC2, Twitch and Mudfish</a> 링크를 참고 바랍니다."
+msgstr ""
+"有关更多信息，请参阅链接 <a "
+"href='http://wiki.mudfish.net/Amazon%20EC2%2C%20Twitch%20and%20Mudfish'>Amazon"
+" EC2, Twitch and Mudfish</a>。"
+
+msgid "Custom 아이템 추가"
+msgstr "加添定制物品"
+
+msgid "Custom 아이템 수정"
+msgstr "更改定制物品"
+
+msgid "게임"
+msgstr "游戏"
+
+msgid "동영상"
+msgstr "连续播送"
+
+msgid "사이트"
+msgstr "网站"
+
+msgid "아이템 이름"
+msgstr "物品名称"
+
+msgid "아이콘"
+msgstr "图标"
+
+msgid "해당 아이템에 대한 적당한 아이콘을 지정해 주시면 됩니다. 이 부분은 선택 사항이며 미지정시 기본 아이콘이 보이게 됩니다."
+msgstr "选择你想要使用的物品。这是可选的，若您不选择将使用默认图标。"
+
+msgid "목적지 정보를 입력하시면 됩니다."
+msgstr "输入目的地信息。"
+
+msgid "필수 사항입니다."
+msgstr "必须填写"
+
+msgid ""
+"(<b>선택사항</b>) RTT (Round Trip Time, 핑) 체크를 위한 정보를 입력할 수 있으며, 입력시 해당 서버와의 연결 "
+"상태를 중계 서버 별로 확인 할 수 있습니다. 현재는 ICMP 프로토콜만 지원합니다."
+msgstr "(<b>Optional</b>) 在你选择的物品上，可以查看RTT测试的结果。目前仅限于ICMP方式测试。"
+
+msgid "IPv4 주소"
+msgstr "IPv4地址"
+
+msgid "테스트"
+msgstr "测试中"
+
+msgid "수정하기"
+msgstr "修改"
+
+msgid "아이콘 파일의 크기가 512KB 를 초과합니다."
+msgstr "图标文件的大小超过512 KB。"
+
+msgid "잘못된 IP 를 입력하였습니다."
+msgstr "您输入了错误的IP。"
+
+msgid "ICMP 응답이 없습니다."
+msgstr "没有ICMP响应。"
+
+msgid "ICMP 응답:"
+msgstr "ICMP响应："
+
+msgid "가격"
+msgstr "价格"
+
+msgid "정액제 전용"
+msgstr "仅订阅数据套餐"
+
+msgid "구매하신 아이템이 없습니다."
+msgstr "未购买物品"
+
+msgid "Custom 아이템 생성"
+msgstr "创建自定义项目"
+
+msgid "Custom 아이템 Import"
+msgstr "导入自定义项目"
+
+msgid "아이템 Import 를 위한 JSON 문법을 입력합니다. 혹은 아이템 JSON 파일 위치를 지정해 주세요."
+msgstr "输入用于导入项目的JSON语法。或指定项目JSON文件的位置。"
+
+msgid "혹은"
+msgstr "Or"
+
+msgid "Import 하기"
+msgstr "进口"
+
+msgid "JSON 오류"
+msgstr "JSON错误"
+
+msgid "아이템 모드 설정"
+msgstr "项目模式设定"
+
+msgid "아이템 설정 모드 변경을 하고자 한다면, '설정 -> 프로그램' 메뉴에 있는 Launcher 탭에서 변경하실 수 있습니다."
+msgstr "如果要更改项目设置模式，可以在“设置->程序”菜单的“启动器”选项卡中进行。"
+
+msgid "아이템 설정 및 구성을 최대한 단순화 시킨 모드입니다."
+msgstr "这是一种尽可能简化项目设置和配置的模式。"
+
+msgid "기존 미꾸라지 아이템 설정 방법입니다."
+msgstr "这是设置现有项目的方法。"
+
+msgid "안녕하세요!"
+msgstr "你好！"
+
+msgid "아이템 선택"
+msgstr "选择物品"
+
+msgid "서버 위치 선택"
+msgstr "选择服务器位置"
+
+msgid "중계 서버 선택"
+msgstr "中继服务器选择"
+
+msgid "미꾸라지를 처음 사용하시는 분들을 위한 아이템 설정 마법사 화면입니다. 플레이하고자 하는 게임/스트리밍을 선택해 주세요."
+msgstr "这是初次使用的用户的项目设置向导屏幕。 请选择您要玩的游戏/流媒体。"
+
+msgid "찾는 게임/스트리밍이 없나요?"
+msgstr "您没有正在寻找的游戏/流媒体吗？"
+
+msgid "미꾸라지에서 지원하지 않는 게임/스트리밍을 사용하신다면 다음 중 하나의 방법을 사용하시기 바랍니다."
+msgstr "如果您使用不支持的游戏/流媒体，请使用以下方法之一。"
+
+msgid "Full VPN 모드를 사용하실 경우, 컴퓨터에서 발생되는 모든 트래픽을 지정한 미꾸라지 중계 서버를 통해 전달됩니다."
+msgstr "使用完全VPN模式时，从计算机生成的所有流量都将通过指定的泥ach中继服务器传递。"
+
+msgid "Custom 아이템 제작"
+msgstr "自定义项目创建"
+
+msgid "Custom 아이템 제작 기능을 이용하여 프로세스 및 운영체제 라우팅 테이블별로 지정할 수 있습니다."
+msgstr "您可以使用自定义项目创建功能来指定每个进程和操作系统路由表。"
+
+msgid "목적지 서버 위치"
+msgstr "目标服务器"
+
+msgid "아래에서 목적지를 선택해 주세요."
+msgstr "选择下面的目标。"
+
+msgid "스트리밍"
+msgstr "串流服务"
+
+msgid "이전"
+msgstr "以前"
+
+msgid "RTT 구간"
+msgstr "RTT区间"
+
+msgid "RTT 서버"
+msgstr "RTT服务器"
+
+msgid "사용자 <-> 중계 서버 구간"
+msgstr "用户端 <-> mudfish服务器"
+
+msgid "중계 서버 <-> 게임서버 구간"
+msgstr "mudfish服务器 <-> 目标服务器（游戏/网站）"
+
+msgid "전체 구간"
+msgstr "一体"
+
+msgid ""
+"각 항목에 대한 점수(Score)은 '사용자 컴퓨터 &#8594; 미꾸라지 중계 서버 &#8594; Backend 서버'까지의 RTT "
+"(Round Trip Time) 의 평균 + 표준편차의 합을 나타냅니다."
+msgstr "该得分是从用户桌面至目标服务器的RTT(往返时间)平均值+标准值的总和。"
+
+msgid "평가점수"
+msgstr "得分"
+
+msgid "최단 경로"
+msgstr "最短路径"
+
+msgid "RTT 기반으로 검색된 추천 최단 경로들입니다."
+msgstr "以下是根据RTT(往返时间)平均值计算出的最短路径。"
+
+msgid "추천 경로"
+msgstr "推荐路径"
+
+msgid "예상 RTT 평균값"
+msgstr "预计RTT平均值。"
+
+msgid "예상 RTT 표준편차"
+msgstr "预计RTT标准偏差。"
+
+msgid "오류"
+msgstr "错误"
+
+msgid "혼잡도"
+msgstr "拥塞"
+
+msgid "아래에서 아이템을 선택해 주세요."
+msgstr "请在下面选择一个项目。"
+
+msgid "목록 제한"
+msgstr "管理服务器名单"
+
+msgid "중계 서버를 선택해 주세요."
+msgstr "请选择mudfish服务器。"
+
+msgid "목록 정책에 적용할 중계 서버를 지정합니다. 중계 서버 목록은 지정한 정책에 따라 보여지게 됩니다."
+msgstr "能指定可显示的服务器的列表。"
+
+msgid "국가 코드"
+msgstr "国家代码"
+
+msgid "고급 모드 결과 포함"
+msgstr "包括高级模式的结果"
+
+msgid "중계 서버 모드 중 '고급 모드' 를 사용한 추천 경로 결과를 포함할지를 결정합니다. 기본값은 Off 입니다."
+msgstr "是否包括高级模式的结果，默认关闭。"
+
+msgid "목록 정책"
+msgstr "可显示服务器的列表"
+
+msgid ""
+"중계 서버 목록을 Whitelist 정책으로 지정할지 Blacklist 정책으로 지정할지를 결정합니다. 기본값은 Whitelist "
+"정책입니다."
+msgstr "可以选择白名单或者黑名单的方式设置可显示服务器的列表。默认是白名单模式。"
+
+msgid "접속 기록"
+msgstr "访问记录"
+
+msgid "접속 기록은 1 MBytes 이상 전송된 출발지/목적지에 대해서만 보여집니다."
+msgstr "这些访问记录是一个列表，记录了所有至少超过1M的流量使用。"
+
+msgid ""
+"현재 접속 기록 여부가 '기록 안함'으로 설정되어 있기 때문에, 접속 기록이 제대로 보이지 않을 수 있습니다. 설정을 변경하실려면, "
+"'설정 -> 계정 -> 개인정보 수정' 메뉴에서 하실 수 있습니다."
+msgstr "你已经设置‘不需要访问记录’，无法看到任何信息。想要修改这个设置，去‘设置 -> 帐户 -> 编辑个人资料’。"
+
+msgid "날짜"
+msgstr "日期"
+
+msgid "출발지"
+msgstr "出发点"
+
+msgid "국내 In/Out"
+msgstr "国内 进/出"
+
+msgid "국제 In/Out"
+msgstr "国外 进/出"
+
+msgid "기록된 접속 정보가 없습니다."
+msgstr "没有记录的联系信息。"
+
+msgid "내 컴퓨터"
+msgstr "我的电脑"
+
+msgid "자체 진단"
+msgstr "自我诊断"
+
+msgid ""
+"아래의 목록을 살펴보셔서 <span class='fa fa-fw fa-times'></span> 마크가 있는지 확인 바랍니다. 해당 "
+"마크가 있다면 각 항목에 대한 '도움말'을 참고 바랍니다."
+msgstr "在下面列表上看到这<span class='fa fa-fw fa-times'></span>符号，请你去看看每个项目的‘帮助’内容。"
+
+msgid "진단 항목"
+msgstr "检查列表"
+
+msgid "도움말"
+msgstr "帮助"
+
+msgid "Core 준비 여부"
+msgstr "Core进程是否准备"
+
+msgid "중앙 서버 테스트: 웹 페이지"
+msgstr "主服务器测试：首页"
+
+msgid "중앙 서버 테스트: 인증 서버"
+msgstr "主服务器测试：认证守护进程"
+
+msgid "중앙 서버 테스트: RTT 서버"
+msgstr "主服务器测试：RTT守护进程"
+
+msgid "중앙 서버 테스트: DNS Poisoning 이슈"
+msgstr "中央服务器测试：DNS中毒问题"
+
+msgid "방화벽 테스트: KR Asia (S. Korea - KT2 IDC) TCP Port"
+msgstr "防火墙测试：KR亚洲（韩国 -  KT2 IDC）TCP端口"
+
+msgid "방화벽 테스트: KR Asia (S. Korea - KT2 IDC) UDP Port"
+msgstr "防火墙测试：KR亚洲（韩国 -  KT2 IDC）UDP端口"
+
+msgid "내부망 테스트: KR Asia (S. Korea - KT2 IDC)"
+msgstr "专用网络测试：KR亚洲（韩国 -  KT2 IDC）"
+
+msgid "메모리"
+msgstr "内存"
+
+msgid "프로세스 종료"
+msgstr "终止进程"
+
+msgid "호스트이름"
+msgstr "主机名"
+
+msgid "내부 주소"
+msgstr "专用IP"
+
+msgid "Uptime"
+msgstr "正常运行时间"
+
+msgid "Heartbeat"
+msgstr "心跳"
+
+msgid "CPU 사용률"
+msgstr "CPU使用率"
+
+msgid "네트워크 사용"
+msgstr "网络活动"
+
+msgid "시스템 부하률"
+msgstr "系统负载"
+
+msgid "네트워크 장치 에러 정보"
+msgstr "网络错误"
+
+msgid "연결됨"
+msgstr "已连接"
+
+msgid "프로세스 상태"
+msgstr "进程状态"
+
+msgid "프로그램 버전"
+msgstr "程序版本"
+
+msgid "링크"
+msgstr "链接"
+
+msgid "미꾸라지 Core 프로세스"
+msgstr "Mudfish Core程序"
+
+msgid "현재 실행중이 아니기 때문에 이 로그는 옛날 로그일 수 있습니다."
+msgstr "由于正在没有执行，也许这些日志都旧的。"
+
+msgid "미꾸라지 Flow Controller 프로세스"
+msgstr "Mudfish Flow Controller程序"
+
+msgid "미꾸라지 OpenVPN 프로세스"
+msgstr "Mudfish OpenVPN程序"
+
+msgid "미꾸라지 WFP Proxy 프로세스"
+msgstr "Mudfish WFP Proxy程序"
+
+msgid ""
+"현재 접속 기록 여부가 '기록 안함'으로 설정되어 있기 때문에, 그래프가 제대로 보이지 않을 수 있습니다. 설정을 변경하실려면, '설정 "
+"-> 계정 -> 개인정보 수정' 메뉴에서 하실 수 있습니다."
+msgstr "你已经设置‘不需要访问记录’，无法看到任何信息。想要修改这个设置，去‘设置 -> 帐户 -> 编辑个人资料’。"
+
+msgid "지난 사용 트래픽 - 유료 중계 서버"
+msgstr "先前流量使用 - 付费服务器"
+
+msgid "지난 사용 트래픽 - 무료 중계 서버"
+msgstr "之前流量使用 - 免费服务器"
+
+msgid "국내 트래픽 (MB)"
+msgstr "国内流量（MB）"
+
+msgid "국제 트래픽 (MB)"
+msgstr "国际流量（MB）"
+
+msgid "미꾸라지"
+msgstr "MUDFISH"
+
+msgid "이용약관"
+msgstr "服务条款"
+
+msgid "개인정보 보호정책"
+msgstr "隐私政策"
+
+msgid "환불 정책"
+msgstr "退款政策"
+
+msgid "언어"
+msgstr "语言"
+
+msgid "미꾸라지 네트웍스"
+msgstr "Mudfish Networks"
+
+msgid "무엇을 도와드릴까요?"
+msgstr "联系我们"
+
+msgid "회사 연락을 원하신다면 아래의 이메일로 연락바랍니다. 기술 지원에 대한 전화 상담은 하지 않습니다."
+msgstr "如果想要联系我们，写个邮件发给我们。我们目前没有提供热线电话服务。"
+
+msgid "대표: 한미정"
+msgstr "CEO: Mijung Han"
+
+msgid "대표번호: (02) 2659-0823"
+msgstr "代表号码: +82-2-2659-0823"
+
+msgid "팩스: (02) 2659-0824"
+msgstr "Fax: +82-2-2659-0824"
+
+msgid "이메일"
+msgstr "电子邮件"
+
+msgid "사업자등록번호"
+msgstr "Business License"
+
+msgid "주소: 서울 마포구 월드컵북로12안길 74-16, 401호"
+msgstr "地址：74-16, World Cup buk-ro 12an-gil, Unit 401, Mapo-gu, Seoul"
+
+msgid "문의하기"
+msgstr "联系我们"
+
+msgid "사람을 찾습니다!"
+msgstr "招聘信息"
+
+msgid "기타"
+msgstr "其他"
+
+msgid "진흙개"
+msgstr "Muddog"
+
+msgid "무료 VPN"
+msgstr "免费VPN"
+
+msgid "소마구 홈페이지"
+msgstr "Somagu Homepage"
+
+msgid "미꾸라지 네트웍스 (주)"
+msgstr "Mudfish Networks Inc."
+
+msgid "주소: 서울 강서구 마곡중앙로 165 (마곡동, 안강프라이빗타워) 8층 803호"
+msgstr ""
+"Address: 8F #803, 165, Magokjungang-ro, Gangseo-gu, Seoul, 07788, South "
+"Korea"
+
+msgid "트래픽"
+msgstr "流量"
+
+msgid "고급"
+msgstr "高级"
+
+msgid "덤프"
+msgstr "倾倒"
+
+msgid "지원"
+msgstr "支持"
+
+msgid "포럼"
+msgstr "论坛"
+
+msgid "1:1 문의"
+msgstr "Private Support"
+
+msgid "다운로드"
+msgstr "下载"
+
+msgid "공지사항"
+msgstr "注意"
+
+msgid "문서"
+msgstr "文件"
+
+msgid "공식 문서"
+msgstr "正式文件"
+
+msgid "중계 서버 상태"
+msgstr "服务器状态"
+
+msgid "도구들"
+msgstr "这些工具"
+
+msgid "나의 IP는?"
+msgstr "我的IP是多少？"
+
+msgid "이미지 업로드"
+msgstr "上传图片"
+
+msgid "Ping 테스트"
+msgstr "Ping测试"
+
+msgid "사용자"
+msgstr "用户"
+
+msgid "구매하기"
+msgstr "充值"
+
+msgid "구매 내역"
+msgstr "充值记录"
+
+msgid "개인정보 수정"
+msgstr "编辑个人资料"
+
+msgid "비밀번호 변경"
+msgstr "更改密码"
+
+msgid "하위 계정 관리"
+msgstr "管理别号"
+
+msgid "로그아웃"
+msgstr "登出"
+
+msgid "키보드 단축키"
+msgstr "键盘快捷键"
+
+msgid "단축키"
+msgstr "捷径"
+
+msgid "WAN 최적화를 통한 게임 / 동영상 가속 VPN, 윈도우 / 맥 / 리눅스 지원"
+msgstr "使用WAN优化技术加速Windows / Mac / Linux系统上的游戏/串流视频。"
+
+msgid "게임 가속, 미꾸라지, 동영상 가속, VPN"
+msgstr "游戏加速器, 串流视频加速器, VPN, Mudfish, Mudfish VPN"
+
+msgid "네이버 스포츠"
+msgstr "Naver Sports"
+
+msgid "해외에서 HD 급으로 네이버 스포츠를 시청 할 수 있습니다."
+msgstr "你在国外可以观看Naver Sports的视频。"
+
+msgid "아이온"
+msgstr "Aion"
+
+msgid "길드워 1 & 2"
+msgstr "Guild Wars 1 & 2"
+
+msgid "아키에이지"
+msgstr "ArcheAge"
+
+msgid "오디션"
+msgstr "Audition"
+
+msgid "아발론 온라인"
+msgstr "Avalon Online"
+
+msgid "배틀필드 3"
+msgstr "Battlefield 3"
+
+msgid "배틀필드 온라인"
+msgstr "Battlefield Online"
+
+msgid "블레이드 & 소울"
+msgstr "Blade & Soul"
+
+msgid "카오스 온라인"
+msgstr "Chaos Online"
+
+msgid "카운터 스트라이크: 글로벌 오펜시브"
+msgstr "Counterstrike: Global Offensive"
+
+msgid "사이퍼즈"
+msgstr "Cyphers"
+
+msgid "다크 에이지 오브 카멜롯"
+msgstr "Dark Age of Camelot"
+
+msgid "DC 유니버스 온라인"
+msgstr "DC Universe Online"
+
+msgid "리프트"
+msgstr "Rift"
+
+msgid "디아블로 3"
+msgstr "Diablo 3"
+
+msgid "DK 온라인"
+msgstr "DK Online"
+
+msgid "도타 2"
+msgstr "Dota 2"
+
+msgid "드래곤 네스트"
+msgstr "Dragon Nest"
+
+msgid "던전 앤 파이터"
+msgstr "Dungeon Fighter"
+
+msgid "던전 스트라이커"
+msgstr "Dungeon Striker"
+
+msgid "던전 앤 드래곤 온라인"
+msgstr "Dungeons & Dragons Online"
+
+msgid "이브 온라인"
+msgstr "EVE Online"
+
+msgid "에버퀘스트 II"
+msgstr "EverQuest II"
+
+msgid "피파 온라인 3"
+msgstr "FIFA Online 3"
+
+msgid "파이어폴"
+msgstr "Firefall"
+
+msgid "프리스타일 2"
+msgstr "FreeStyle 2: Street Basketball"
+
+msgid "프리스타일 풋볼"
+msgstr "Freestyle Football"
+
+msgid "겟앰프드"
+msgstr "GetAmped"
+
+msgid "겟앰프드 2"
+msgstr "GetAmped 2"
+
+msgid "마계촌 온라인"
+msgstr "Ghosts'n Goblins Online"
+
+msgid "그라나도 에스파다"
+msgstr "Granado Espada"
+
+msgid "그랑에이지"
+msgstr "GranAge"
+
+msgid "호큰"
+msgstr "Hawken"
+
+msgid "히어로즈 오브 뉴어스"
+msgstr "Heroes of Newerth"
+
+msgid "작룡문"
+msgstr "JanRyuMon"
+
+msgid "리그 오브 레전드"
+msgstr "League of Legends"
+
+msgid "레프트 4 데드"
+msgstr "Left 4 Dead"
+
+msgid "레프트 4 데드 2"
+msgstr "Left 4 Dead 2"
+
+msgid "에다전설"
+msgstr "Legend of Edda"
+
+msgid "리니지"
+msgstr "Lineage"
+
+msgid "리니지 II"
+msgstr "Lineage II"
+
+msgid "로스트사가"
+msgstr "Lost Saga"
+
+msgid "마비노기"
+msgstr "Mabinogi"
+
+msgid "마비노기 영웅전"
+msgstr "Mabinogi: Heroes"
+
+msgid "메이플스토리"
+msgstr "Maple Story"
+
+msgid "마블 히어로즈"
+msgstr "Marvel Heroes"
+
+msgid "멕워리어: 온라인"
+msgstr "MechWarrior Online"
+
+msgid "몬스터헌터 프론티어 Z"
+msgstr "Monster Hunter Frontier Z"
+
+msgid "마운트 & 블레이드: 워밴드 - 나폴레옹 전쟁"
+msgstr "Mount & Blade: Warband - Napoleonic Wars"
+
+msgid "네이비필드"
+msgstr "NavyField"
+
+msgid "페이퍼맨"
+msgstr "PaperMan"
+
+msgid "퀘이크 라이브"
+msgstr "Quake Live"
+
+msgid "R2 온라인"
+msgstr "R2 Online"
+
+msgid "라그나로크 온라인"
+msgstr "Ragnarok Online"
+
+msgid "레드 오케스트라 2"
+msgstr "Red Orchestra 2"
+
+msgid "스타 워즈: 구공화국"
+msgstr "Star Wars: The Old Republic"
+
+msgid "스타크래프트 II"
+msgstr "StarCraft II"
+
+msgid "슈퍼 스트리트 파이터 IV - Arcade Edition"
+msgstr "Super Street Fighter IV - Arcade Edition"
+
+msgid "테일즈위버"
+msgstr "Tales Weaver"
+
+msgid "팀 포트리스 2"
+msgstr "Team Fortress 2"
+
+msgid "테라"
+msgstr "TERA"
+
+msgid "반지의 제왕 온라인"
+msgstr "The Lord of the Rings Online"
+
+msgid "시크릿 월드"
+msgstr "The Secret World"
+
+msgid "울티마 온라인"
+msgstr "Ultima Online"
+
+msgid "워 썬더"
+msgstr "War Thunder"
+
+msgid "울펜슈타인: 에너미 테리토리"
+msgstr "Wolfenstein: Enemy Territory"
+
+msgid "월드 오브 탱크"
+msgstr "World of Tank"
+
+msgid "월드 오브 워플레인"
+msgstr "World of Warplanes"
+
+msgid "월드 오브 워크래프트"
+msgstr "World Of Warcraft"
+
+msgid "파이널 판타지 XIV: A Realm Reborn"
+msgstr "Final Fantasy XIV: A Realm Reborn"
+
+msgid "나의 IP 는?"
+msgstr "我的IP有多少？"
+
+msgid "미꾸라지 적용 여부를 확인하기 위한 도구입니다. 자세한 방법은 '적용 여부 확인하기' 문서를 참고하세요."
+msgstr "使用这工具能检查Mudfish 应用的正常运行。你在文件栏目下查看具体的资料。"
+
+msgid "버블파이터"
+msgstr "Bubble Fighter"
+
+msgid "드래곤 퀘스트 10"
+msgstr "Dragon Quest X"
+
+msgid "배틀필드 4"
+msgstr "Battlefield 4"
+
+msgid "맥스 페인 3"
+msgstr "Max Payne 3"
+
+msgid "아스타"
+msgstr "ASTA: The War of Tears and Winds"
+
+msgid "다크폴"
+msgstr "Darkfall: Unholy Wars"
+
+msgid "MVP 베이스볼 온라인"
+msgstr "MVP Baseball Online"
+
+msgid "서든어택"
+msgstr "Sudden Attack"
+
+msgid "피파 14"
+msgstr "FIFA 14"
+
+msgid "하운즈: 리로드"
+msgstr "Hounds"
+
+msgid "트라이브스: 어쎈드"
+msgstr "Tribes Ascend"
+
+msgid "워게임: 레드 드래곤"
+msgstr "Wargame Red Dragon"
+
+msgid "환상신역"
+msgstr "Innocent World"
+
+msgid "삼국지 무쌍전"
+msgstr "Heroes of Three Kingdoms"
+
+msgid "라테일"
+msgstr "LaTale"
+
+msgid "서바리움"
+msgstr "Survarium"
+
+msgid "SD건담 캡슐파이터 온라인"
+msgstr "SD Gundam Capsule Fighter Online"
+
+msgid "에밀 크로니클 온라인"
+msgstr "Emil Chronicle Online"
+
+msgid "다음 스포츠"
+msgstr "Daum Sports"
+
+msgid "해외에서 HD 급으로 다음 스포츠를 시청할 수 있습니다."
+msgstr "Watch the streaming of Daum Sports at overseas."
+
+msgid "와일드스타"
+msgstr "Wildstar"
+
+msgid "플래닛사이드 2"
+msgstr "PlanetSide 2"
+
+msgid "디파이언스"
+msgstr "Defiance"
+
+msgid "코즈믹 브레이크"
+msgstr "CosmicBreak"
+
+msgid "에이지 오브 코난"
+msgstr "Age of Conan"
+
+msgid "팡야"
+msgstr "PangYa"
+
+msgid "아프리카TV"
+msgstr "AfreecaTV"
+
+msgid "피파 15"
+msgstr "FIFA 15"
+
+msgid "최강의군단"
+msgstr "HeroWarz"
+
+msgid "미니일레븐"
+msgstr "Mini11"
+
+msgid "네이비필드 2"
+msgstr "NavyField 2"
+
+msgid "이카루스"
+msgstr "Icarus"
+
+msgid "검은사막"
+msgstr "Black Desert"
+
+msgid "거상"
+msgstr "Gersang"
+
+msgid "바람의 나라"
+msgstr "Nexus: The Kingdom of the Winds"
+
+msgid "히어로즈 오브 더 스톰"
+msgstr "Heroes of the Storm"
+
+msgid "이터널시티3"
+msgstr "Eternal City 3"
+
+msgid "파이널 판타지 XI"
+msgstr "Final Fantasy XI"
+
+msgid "하스스톤"
+msgstr "Hearthstone: Heroes of Warcraft"
+
+msgid "벅스"
+msgstr "Bugs"
+
+msgid "워페이스"
+msgstr "Warface"
+
+msgid "대항해시대 온라인"
+msgstr "Uncharted Waters Online"
+
+msgid "월드 오브 워쉽"
+msgstr "World of Warships"
+
+msgid "스페셜포스2"
+msgstr "Special Force 2"
+
+msgid "메이플스토리2"
+msgstr "Maple Story 2"
+
+msgid "티빙"
+msgstr "Tving"
+
+msgid "카카오톡"
+msgstr "KakaoTalk"
+
+msgid "클로저스"
+msgstr "CLOSERS"
+
+msgid "애스커 온라인"
+msgstr "Asker Online"
+
+msgid "드래곤사가"
+msgstr "Dragonica"
+
+msgid "인벤"
+msgstr "Inven"
+
+msgid "페이스북"
+msgstr "Facebook"
+
+msgid "피파 16"
+msgstr "FIFA 16"
+
+msgid "아이템매니아"
+msgstr "Itemmania"
+
+msgid "아르피엘"
+msgstr "Arpiel"
+
+msgid "트리 오브 세이비어"
+msgstr "Tree of Savior"
+
+msgid "컬쳐랜드"
+msgstr "Cultureland"
+
+msgid "SD건담 넥스트 에볼루션"
+msgstr "SD Gundam Next Evolution"
+
+msgid "리그 오브 레전드 (일본)"
+msgstr "League of Legends (Japan Only)"
+
+msgid "드래곤즈 도그마 온라인"
+msgstr "Dragon's Dogma Online (New)"
+
+msgid "크레이지레이싱 카트라이더"
+msgstr "Crazyracing Kartrider"
+
+msgid "피파 온라인 2"
+msgstr "FIFA Online 2"
+
+msgid "네이버 메일"
+msgstr "Naver Mail"
+
+msgid "해피머니"
+msgstr "Happymoney"
+
+msgid "창세기전 4"
+msgstr "The War of Genesis 4"
+
+msgid "서든어택2"
+msgstr "Sudden Attack 2"
+
+msgid "배틀필드 1"
+msgstr "Battlefield 1"
+
+msgid "타르타로스: 리버스"
+msgstr "Tartaros: Rebirth"
+
+msgid "剑网3"
+msgstr "JX Online 3"
+
+msgid "게임조선"
+msgstr "Game Chosun"
+
+msgid "피파 17"
+msgstr "FIFA 17"
+
+msgid "포인트 블랭크"
+msgstr "Point Blank"
+
+msgid "텍사스 홀덤"
+msgstr "Texas Holdem"
+
+msgid "그랑블루 판타지"
+msgstr "Granblue Fantasy"
+
+msgid "다크 에덴"
+msgstr "DarkEden"
+
+msgid "无尽战区"
+msgstr "无尽战区"
+
+msgid "Plants vs. Zombies™ Garden Warfare 2"
+msgstr "Plants vs. Zombies™ Garden Warfare 2"
+
+msgid "테일즈런너"
+msgstr "Tales Runner"
+
+msgid "리그 오브 레전드 (중국)"
+msgstr "League of Legends (China)"
+
+msgid "어둠의 전설"
+msgstr "Legend of Darkness"
+
+msgid "블랙스쿼드"
+msgstr "Black Squad"
+
+msgid "完美世界国际版"
+msgstr "完美世界国际版"
+
+msgid "스페셜포스"
+msgstr "Special Force"
+
+msgid "리니지M"
+msgstr "Lineage M"
+
+msgid "다크어벤저3"
+msgstr "Dark Avenger 3"
+
+msgid "少女前线"
+msgstr "少女前线"
+
+msgid "아틀란티카"
+msgstr "Atlantica"
+
+msgid "街頭籃球"
+msgstr "街頭籃球"
+
+msgid "스타크래프트: 리마스터"
+msgstr "StarCraft: Remastered"
+
+msgid "이터널시티1"
+msgstr "Eternal City 1"
+
+msgid "피파 18"
+msgstr "FIFA 18"
+
+msgid "씰 온라인"
+msgstr "Seal Online"
+
+msgid "천애명월도"
+msgstr "天爱明月刀"
+
+msgid "듀랑고"
+msgstr "Durango"
+
+msgid "검은사막M"
+msgstr "Black Desert Mobile"
+
+msgid "배틀필드 하드라인"
+msgstr "Battlefield Hardline"
+
+msgid "리니지 2: 레볼루션"
+msgstr "Lineage 2: Revolution"
+
+msgid "피파 온라인 4"
+msgstr "FIFA Online 4"
+
+msgid "프리스타일2: 플라잉덩크"
+msgstr "Freestyle 2: Flying Dunk"
+
+msgid "라그나로크M"
+msgstr "Ragnarok M"
+
+msgid "배틀필드 V"
+msgstr "Battlefield V"
+
+msgid "피파 19"
+msgstr "FIFA 19"
+
+msgid "에버퀘스트 I"
+msgstr "EverQuest I"
+
+msgid "프리스타일 1"
+msgstr "FreeStyle 1"
+
+msgid "라프텔"
+msgstr "Laftel"
+
+msgid "왓챠"
+msgstr "Watcha"
+
+msgid "무도유협"
+msgstr "武道游戏"
+
+msgid "Dark Souls Ⅱ: Scholar of the First Sin"
+msgstr "Dark Souls Ⅱ: Scholar of the First Sin"
+
+msgid "피파 20"
+msgstr "FIFA 20"
+
+msgid "열혈강호 온라인"
+msgstr "热血江湖 Online"
+
+msgid "리니지2M"
+msgstr "血统2M"
+
+msgid "古劍奇譚網路版"
+msgstr "古剑奇谭网路版"
+
+msgid "아스가르드"
+msgstr "Asgard"
+
+msgid "라그하임"
+msgstr "Laghaim"
+
+msgid "프로야구 스피리츠 2019"
+msgstr "Professional Baseball Spirits 2019"
+
+msgid "그랑블루 판타지 Versus"
+msgstr "Granblue Fantasy Versus"
+
+msgid "피파 21"
+msgstr "FIFA 21"
+
+msgid "일랜시아"
+msgstr "Elancia"
+
+msgid "F1® 2021"
+msgstr "F1® 2021"
+
+msgid "吞食天地2 Online"
+msgstr "吞食天地2 Online"
+
+msgid "피파 22"
+msgstr "FIFA 22"
+
+msgid "리니지W"
+msgstr "Lineage W"
+
+msgid "바람의 나라: 연"
+msgstr "Nexus: The Kingdom of the Winds - Yeon"
+
+msgid "Pokémon UNITE"
+msgstr "Pokémon UNITE"
+
+msgid "군주 온라인"
+msgstr "GoonZu Online"
+
+msgid "던전 앤 파이터 모바일"
+msgstr "Dungeon Fighter Mobile"
+
+msgid "生死狙击2"
+msgstr "生死狙击2"
+
+msgid "오딘: 발할라 라이징"
+msgstr "Odin: Valhalla Rising"
+
+msgid "마구마구"
+msgstr "Magu Magu"
+
+msgid "피파 23"
+msgstr "FIFA 23"
+
+msgid "모여서 플레이할 중계 서버를 선택합니다."
+msgstr "选择一个中继服务器来收集和播放。"
+
+msgid "사용하실 중계 서버를 선택해 주세요."
+msgstr "请选择要使用的中继服务器。"
+
+msgid "참여자"
+msgstr "参加者"
+
+msgid "나가기"
+msgstr "出口"
+
+msgid "참여자 갱신"
+msgstr "参加者续约"
+
+msgid "참여자 목록을 갱신합니다. 최대 5초 정도 기다려 주십시오."
+msgstr "更新参与者列表。请等待最多5秒钟。"
+
+msgid "성공적으로 생성되었습니다."
+msgstr "它已成功创建。"
+
+msgid "참여 실패"
+msgstr "未能参加"
+
+msgid "입력하신 참여 코드를 찾을 수 없습니다."
+msgstr "找不到您输入的参与代码。"
+
+msgid "${username} 참여자 정보를 받았습니다."
+msgstr "收到了${username}个参与者信息。"
+
+msgid "${username} 참여자가 제외되었습니다."
+msgstr "参与者${username}已被排除。"
+
+msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
+msgstr "我收到了参与者信息。更新信息。"
+
+msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
+msgstr "加入一个可以玩局域网的房间。请以数字XXX-XXXX格式输入您的参与代码。"
+
+msgid "XXX-XXXX"
+msgstr "XXX-XXXX"
+
+msgid "참여 코드"
+msgstr "参加代码"
+
+msgid "입력하신 참여 코드 형식이 잘못되었습니다."
+msgstr "您输入的参与代码格式不正确。"
+
+msgid "참여 코드를 확인하는 동안 오류가 발생하였습니다."
+msgstr "检查参与代码时发生错误。"
+
+msgid "미꾸라지 LAN 프로세스"
+msgstr "Mudfish LAN process"
+
+#~ msgid "추가하실 아이템의 종료를 선택해 주세요."
+#~ msgstr ""
+
+#~ msgid "아스텔리아"
+#~ msgstr "Astellia"
+
+#~ msgid "스톤에이지"
+#~ msgstr "StoneAge"
+
+#~ msgid "두개의 중계 서버들을 경유하여 트래픽이 전달되지만, 첫번째 중계 서버의 선택이 Ping 상태에 따라 자동으로 변경됩니다."
+#~ msgstr "流量通过两个中继服务器，但是第一个中继服务器的选择会根据ping状态自动更改。"
+
+#~ msgid "유료 아이템"
+#~ msgstr "付费物品"
+
+#~ msgid ""
+#~ "정액제 요금제의 경우 최소 1 개의 유료 아이템 장착을 해야 프로그램이 제대로 동작을 합니다. 아이템 구매 페이지로 이동하시겠습니까?"
+#~ msgstr "订阅套餐需要装备至少1个物品。现在去装备物品吗？"
+
+#~ msgid "판타지 스타 온라인 2"
+#~ msgstr "Phantasy Star Online 2"
+
+#~ msgid "이용권이 없습니다. 정액제 요금제가 동작하기 위해서는 이용권을 구매하셔야 합니다. 이용권 구매 페이지로 이동하시겠습니까?"
+#~ msgstr ""
+
+#~ msgid "정액제 이용권"
+#~ msgstr ""
+
+#~ msgid "RTT 체크"
+#~ msgstr "RTT测试"
+
+#~ msgid ""
+#~ "자세한 내용은 <a "
+#~ "href='http://wiki.mudfish.net/CDN%20%EA%B3%BC%20%EB%AF%B8%EA%BE%B8%EB%9D%BC%EC%A7%80'>CDN"
+#~ " 과 미꾸라지</a> 링크를 참고 바랍니다."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "자세한 내용은 <a "
+#~ "href='http://wiki.mudfish.net/%EC%95%84%EB%A7%88%EC%A1%B4%20EC2%2C%20%ED%8A%B8%EC%9C%84%EC%B9%98%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EB%AF%B8%EA%BE%B8%EB%9D%BC%EC%A7%80'>아마존"
+#~ " EC2, 트위치 그리고 미꾸라지</a> 링크를 참고 바랍니다."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "이 남은 시간이 지나면 아이템은 자동 삭제됩니다. 이를 원하지 않는 다면, '자동 갱신' 옵션을 켜거나 '기간 연장'을 하시기 바랍니다."
+#~ msgstr ""
+
+#~ msgid "디아블로 2"
+#~ msgstr "Diablo 2"
+
+#~ msgid "구음진경"
+#~ msgstr "Age of Wushu"
+
+#~ msgid "XP 모드"
+#~ msgstr "XP Mode"
+
+#~ msgid ""
+#~ "몇몇 Windows XP 버전의 경우, Full VPN 설정시 제대로 라우팅 테이블이 설정되지 않는 문제점이 존재하는데, 이 옵션을 "
+#~ "활성화시 강제 라우팅 테이블 설정을 수행 합니다. Windows XP 사용자만 해당합니다."
+#~ msgstr "对于一些Windows XP用户，此选项可启用路由表调整，以解决一个路由表没有设置正确的问题。"

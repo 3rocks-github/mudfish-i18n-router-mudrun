@@ -1,0 +1,2576 @@
+# Translators:
+# weongyo <weongyo@gmail.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: Mudfish Launcher 1.0\n"
+"Report-Msgid-Bugs-To: weongyo@gmail.com\n"
+"POT-Creation-Date: 2022-10-31 20:48-0700\n"
+"PO-Revision-Date: 2022-11-01 03:47+0000\n"
+"Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.mudfish.net/projects/mudfish/launcher/ja/>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Generated-By: Babel 2.9.1\n"
+
+msgid "미꾸라지 LAN"
+msgstr "ドジョウLAN"
+
+msgid "대시보드"
+msgstr "ダッシュボード"
+
+msgid "프로그램"
+msgstr "プログラム"
+
+msgid "로그인"
+msgstr "サインイン"
+
+msgid "중계 서버"
+msgstr "ノード"
+
+msgid "생성하기"
+msgstr "生成する"
+
+msgid "참여하기"
+msgstr "参加する"
+
+msgid "문제점 보고서"
+msgstr "問題レポート"
+
+msgid "자체 진단 - 상태"
+msgstr "自己診断テスト - 状態"
+
+msgid "프로세스 - 상태"
+msgstr "プロセス - 状態"
+
+msgid "미꾸라지 VPN"
+msgstr "マッドフィッシュ VPN"
+
+msgid "CLI"
+msgstr "CLI"
+
+msgid "게임 덤프"
+msgstr "ゲームダンプ"
+
+msgid "패킷 덤프"
+msgstr "パケットダンプ"
+
+msgid "프로세스 덤프"
+msgstr "プロセスダンプ"
+
+msgid "Matt's traceroute"
+msgstr "Matt's traceroute"
+
+msgid "WPAD"
+msgstr "WPAD"
+
+msgid "아이템 구매"
+msgstr "アイテムを装備"
+
+msgid "아이템 RTT 상황 - 기본 모드"
+msgstr "Item RTT Status - Basic Mode"
+
+msgid "아이템 RTT 상황 - 기본 모드 - 전체 구간"
+msgstr "Item RTT Status - Basic Mode - All the way"
+
+msgid "아이템 설정"
+msgstr "アイテムの設定"
+
+msgid "아이템 RTT 상황 - 고급 모드"
+msgstr "Item RTT Status - Advanced Mode"
+
+msgid "아이템 RTT 상황 - Multi Path 모드"
+msgstr "Item RTT Status - Multi Pathモード"
+
+msgid "RTT 정보 조회"
+msgstr "RTT情報照会"
+
+msgid "Custom 아이템"
+msgstr "Custom アイテム"
+
+msgid "아이템 목록"
+msgstr "Item List"
+
+msgid "아이템 관리"
+msgstr "アイテムの管理"
+
+msgid "아이템 모드"
+msgstr "アイテムモード"
+
+msgid "아이템 마법사"
+msgstr "アイテムウィザード"
+
+msgid "Full VPN - 중계 서버 RTT 상황"
+msgstr "Full VPN - RTT status of mudfish nodes"
+
+msgid "Full VPN - 공개 무료 서버 RTT 상황"
+msgstr "Full VPN - RTT status of public nodes"
+
+msgid "접속 기록 - 상태"
+msgstr "接続記録 - 状態"
+
+msgid "메모리 - 상태"
+msgstr "メモリ - 状態"
+
+msgid "중계 서버 - 상태"
+msgstr "中継サーバ - 状態"
+
+msgid "트래픽 - 상태"
+msgstr "トラフィック - 状態"
+
+msgid "장착한 아이템"
+msgstr "マイアイテム"
+
+msgid "경고"
+msgstr "警告"
+
+msgid "페이지 로딩 과정에서 문제가 있었습니다. 다시 화면을 로딩할까요?"
+msgstr "ページの読み込み中に問題がありました。再び画面をロードしたいですか？"
+
+msgid "네"
+msgstr "はい"
+
+msgid "아니요"
+msgstr "いいえ"
+
+msgid "주의"
+msgstr "警告"
+
+msgid ""
+"문제가 지속될 경우, Javascript Console (<kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + "
+"<kbd>J</kbd>) 을 살펴보시거나 <a target='_blank' "
+"href='https://forums.mudfish.net'>미꾸라지 포럼</a>에 문의바랍니다."
+msgstr ""
+"問題が解決しない場合は、Javascript <kbd>Console（CTRL</kbd> + <kbd>SHIFT</kbd> + "
+"<kbd>J）</kbd>を見て参照するか、 <a target='_blank' "
+"href='https://forums.mudfish.net'>Mudfish Forum</a>にお問い合わせください。"
+
+msgid "안내"
+msgstr "インフォメーション"
+
+msgid "설정 구성을 시작합니다."
+msgstr "自動構成を開始します。"
+
+msgid "프로그램을 재시작하셔야 적용됩니다."
+msgstr "適用するためにプログラムを再起動する必要があります。"
+
+msgid "모든 설정 구성이 완료되었습니다!"
+msgstr "OK。準備ができます！"
+
+msgid "알수없음"
+msgstr "Unknown"
+
+msgid "년"
+msgstr "年"
+
+msgid "달"
+msgstr "月"
+
+msgid "일"
+msgstr "日"
+
+msgid "시간"
+msgstr "時間"
+
+msgid "분"
+msgstr "分"
+
+msgid "초"
+msgstr "秒"
+
+msgid "설정 구성 확인"
+msgstr "構成の適用"
+
+msgid "이용권"
+msgstr "利用権"
+
+msgid "정액제 요금제가 동작하기 위해서는 이용권을 구매하셔야 합니다. 이용권 구매 페이지로 이동하시겠습니까?"
+msgstr "定額制料金プランが動作するためには利用権を購入する必要があります。利用権の購入ページに移動しますか？"
+
+msgid "미꾸라지가 성공적으로 실행되었습니다. 화면을 갱신합니다."
+msgstr "Mudfish launched successfully. Refreshing the screen."
+
+msgid "미꾸라지가 이미 실행중입니다. 화면을 갱신합니다."
+msgstr "Mudfish is already running. Refreshing the screen."
+
+msgid "실행 상태"
+msgstr "Running Status"
+
+msgid "미꾸라지 실행이 실패하였습니다."
+msgstr "Mudfish failed to execute."
+
+msgid "로그아웃 후 다시 로그인하겠습니까?"
+msgstr "Do you want to log out and log in again?"
+
+msgid "미꾸라지 실행이 계속 실패할 경우 미꾸라지 포럼에 문의바랍니다."
+msgstr "Please contact us via Mudfish Forums if it's continually failing."
+
+msgid "미꾸라지가 성공적으로 종료하였습니다. 화면을 갱신합니다."
+msgstr "The mudfish has been successfully terminated. Refreshing the screen."
+
+msgid "미꾸라지 종료가 실패하였습니다."
+msgstr "Mudfish failed to shutdown."
+
+msgid "실시간 RTT"
+msgstr "リアルタイムRTT"
+
+msgid "실시간 RTT 그래프 통계를 초기화하였습니다."
+msgstr "リアルタイムRTTグラフの統計情報を初期化しました。"
+
+msgid "패킷 로스"
+msgstr "Packet Loss"
+
+msgid "연결 확인"
+msgstr "接続確認"
+
+msgid "미꾸라지 Core 를 종료 중입니다."
+msgstr "Terminating Mudfish Core."
+
+msgid "잠시 후 미꾸라지 Core 를 시작합니다."
+msgstr "Mudfish Core will be launched shortly."
+
+msgid "설정이 적용되지 아직 않았습니다."
+msgstr "構成は、まだ適用されていません。"
+
+msgid "아이템"
+msgstr "アイテム"
+
+msgid "현재 죽어 있는 중계 서버를 사용하고 있습니다. 아이템 설정에 들어가셔서 중계 서버 설정을 변경하세요."
+msgstr ""
+"You're currently using dead mudfish node.  Please visit the item "
+"configuration and pick one another."
+
+msgid "계산중입니다."
+msgstr "計算中です。"
+
+msgid "FastConnect 모드는 공개 무료 서버를 사용하는 Full VPN 모드에 적용되지 않습니다. 참고 바랍니다."
+msgstr "FastConnectモードでは、公開無料サーバーを使用するFull VPNモードには適用されません。参考ください。"
+
+msgid "요금제 변경"
+msgstr "Change Data Plan"
+
+msgid "요금제가 갱신된 상태로, 다시 로그인이 필요합니다."
+msgstr "料金制が更新された状態で、再びログインが必要です。"
+
+msgid "점검중"
+msgstr "PM（予防保全）上"
+
+msgid "로딩중..."
+msgstr "読み込んでいます。。。"
+
+msgid "Full VPN 기능"
+msgstr "完全VPN機能"
+
+msgid "Full VPN 모드를 사용 안함으로 지금 변경하시겠습니까?"
+msgstr "Do you want to reset Full VPN mode right now?"
+
+msgid "Multi Path 모드"
+msgstr "Multi Pathモード"
+
+msgid "고급 모드"
+msgstr "アドバンスモード"
+
+msgid "기본 모드"
+msgstr "基本モード"
+
+msgid "현재 RTT 계산중입니다. 잠시후 다시 시도바랍니다."
+msgstr "Currently calculating RTT. Please try again later."
+
+msgid "RTT 정보가 업데이트 되었습니다."
+msgstr "RTT information has been updated."
+
+msgid "남은 기간"
+msgstr "残りの期間"
+
+msgid "전"
+msgstr "前"
+
+msgid "실시간 트래픽"
+msgstr "リアルタイムトラフィック"
+
+msgid "실시간 프로세스 트래픽"
+msgstr "リアルタイムプロセストラフィック"
+
+msgid "미꾸라지를 통해 처리된 프로세스별 트래픽 정보입니다. 트래픽을 많이 사용한 최대 20개 프로세스가 표시됩니다."
+msgstr "ドックを介して処理されたプロセス固有のトラフィック情報。トラフィックが多い最大20のプロセスが表示されます。"
+
+msgid "프로세스"
+msgstr "プロセス"
+
+msgid "받음"
+msgstr "Received"
+
+msgid "보냄"
+msgstr "送る"
+
+msgid "프로세스 정보가 없습니다."
+msgstr "プロセス情報がありません。"
+
+msgid "실시간 트래픽 사용량"
+msgstr "Realtime Traffic Usage"
+
+msgid "실시간 크레딧 사용량"
+msgstr "Realtime Credit Usage"
+
+msgid "예외 사항 추가"
+msgstr "例外を追加"
+
+msgid "예외 사항을 추가하시겠습니까? 추가할 경우, 해당 프로세스의 트래픽은 더 이상 미꾸라지를 통해 처리되지 않습니다."
+msgstr "例外を追加しますか？追加すると、そのプロセスからのトラフィックは未加工を介して処理されなくなります。"
+
+msgid "닫기"
+msgstr "閉じる"
+
+msgid "추가하기"
+msgstr "追加"
+
+msgid "변경하신 설정을 적용하기 위해서는 연결 종료 후 다시 연결하셔야 합니다. 다시 연결 하시겠습니까?"
+msgstr ""
+"In order to apply the configuration changed, you must reconnect the mudfish."
+" Would you like to reconnect?"
+
+msgid "새 버전 안내"
+msgstr "新しいバージョン！"
+
+msgid "새 미꾸라지 배포판이 나왔습니다."
+msgstr "New mudfish package is available."
+
+msgid ""
+"최신 기능 및 버그 수정을 위해서 꼭 업데이트해주시기 바랍니다. 다운로드는 <a "
+"href='https://mudfish.net/download'>여기</a> 에서 받으실 수 있습니다."
+msgstr ""
+"Please upgrade if possible to fix bugs and get new features.  Download is "
+"available at <a href='https://mudfish.net/download'>here</a>."
+
+msgid ""
+"자세한 변경 사항은 <a href='https://docs.mudfish.net/en/docs/mudfish-cloud-"
+"vpn/release-notes/'>릴리즈 노트</a>를 참고 바랍니다."
+msgstr ""
+"For details, please see <a href='https://docs.mudfish.net/en/docs/mudfish-"
+"cloud-vpn/release-notes/'>release notes</a>."
+
+msgid "현재 설정 구성중입니다... 잠시만 기다려 주십시오."
+msgstr "自動構成上です...しばらくお待ちください。"
+
+msgid ""
+"진행이 너무 오래 걸리면 <a class='alert-link' href='/status/diag.html'>자체 진단</a>을 "
+"해보십시오."
+msgstr ""
+"If it takes long, do <a class='alert-link' href='/status/diag.html'>Self-"
+"Diagnosis</a>."
+
+msgid "완료"
+msgstr "完了しました"
+
+msgid "크레딧 상태"
+msgstr "信用ステータス"
+
+msgid "크레딧 구매하기"
+msgstr "クレジットを購入"
+
+msgid "남은 크레딧"
+msgstr "残高"
+
+msgid "남은 트래픽 용량"
+msgstr "トラフィック残高"
+
+msgid "마지막 결제일"
+msgstr "最終支払"
+
+msgid "현재 마이너스 크레딧 상태입니다."
+msgstr "マイナスクレジット。"
+
+msgid "잔여 크레딧이 없습니다."
+msgstr "残高はありません。"
+
+msgid "아이템 구매를 위해서는 우선 크레딧 구매를 하셔야 합니다."
+msgstr "マッドフィッシュクレジットを購入してアイテムを装備してください。"
+
+msgid ""
+"Full VPN 모드 기능을 위해 사용중인 중계 서버가 죽어 있습니다. '설정 - 프로그램' 메뉴에 들어가셔서 Full VPN 모드 "
+"설정을 다시 하시기 바랍니다."
+msgstr ""
+"The mudfish node used for Full VPN mode is currently dead. Please visit "
+"'Setup - Program' menu and set a mudfish node for Full VPN mode again."
+
+msgid ""
+"Full VPN 모드 기능을 위해 사용중인 공개 무료 서버가 죽어 있습니다. '설정 - 프로그램' 메뉴에 들어가셔서 Full VPN 모드"
+" 설정을 다시 하시기 바랍니다."
+msgstr ""
+"The public free node used for Full VPN mode is currently dead. Please visit "
+"'Setup - Program' menu and set a public free node for Full VPN mode again."
+
+msgid "아래의 예외 사항 항목들이 미꾸라지를 통해 전달하지 않고 기존 네트워크 경로로 처리되고 있습니다."
+msgstr "以下の例外項目は、ドックを通過せずに既存のネットワークパスとして処理されています。"
+
+msgid "간단 설정"
+msgstr "簡単設定"
+
+msgid "FastConnect 모드"
+msgstr "FastConnectモード"
+
+msgid "Full VPN 모드"
+msgstr "フルVPNモード"
+
+msgid "WFP 아이템 모드"
+msgstr "WFPアイテムモード"
+
+msgid "상태"
+msgstr "ステータス"
+
+msgid "사용자 ID"
+msgstr "ユーザー名"
+
+msgid "하위 계정"
+msgstr "Alias"
+
+msgid "계정 타입"
+msgstr "Account Type"
+
+msgid "정액제"
+msgstr "サブスクリプション"
+
+msgid "종량제"
+msgstr "トラフィックごとに支払う"
+
+msgid "요금제"
+msgstr "データプラン"
+
+msgid "없음"
+msgstr "なし"
+
+msgid "현재 Public IP"
+msgstr "現在Public IP"
+
+msgid "연결 여부"
+msgstr "接続"
+
+msgid "작동중"
+msgstr "ランニング"
+
+msgid "RTT 업데이트"
+msgstr "RTT更新"
+
+msgid "마지막 RTT 업데이트"
+msgstr "Last RTT Update"
+
+msgid "아직 변경하신 내용이 적용되지 않았습니다. 지금 설정 구성을 시작하겠습니까?"
+msgstr "あなたの設定は、まだ適用されません。今適用しますか？"
+
+msgid "알림"
+msgstr "お知らせ"
+
+msgid "WFP 아이템 모드 지원"
+msgstr "WFPアイテムモードのサポート"
+
+msgid "CDN 이슈가 있는 아이템"
+msgstr "CDN問題のあるアイテム"
+
+msgid "Cloud 이슈가 있는 아이템"
+msgstr "クラウド問題のあるアイテム"
+
+msgid "일 남음"
+msgstr "days left"
+
+msgid "서버 위치"
+msgstr "サーバーの場所"
+
+msgid "중계 서버 모드"
+msgstr "中継サーバモード"
+
+msgid "선택된 중계 서버"
+msgstr "選択されたマッドフィッシュノード"
+
+msgid "장착한 아이템이 없습니다."
+msgstr "アイテムは購入されていません。"
+
+msgid "메뉴"
+msgstr "メニュー"
+
+msgid "오늘의 추천 경로"
+msgstr "今日のパス"
+
+msgid "설정"
+msgstr "セットアップ"
+
+msgid "사용 여부"
+msgstr "アクティブ"
+
+msgid "라우팅 정보"
+msgstr "ルーティング情報"
+
+msgid "아이템 추가"
+msgstr "アイテムの追加"
+
+msgid "추가하실 아이템의 종류를 선택해 주세요."
+msgstr "追加するアイテムの種類を選択してください。"
+
+msgid "미꾸라지 아이템 추가"
+msgstr "ドジョウアイテム追加"
+
+msgid "미꾸라지에 이미 만들어져 있는 아이템을 리스트에 추가합니다."
+msgstr "ドジョウに既に作られているアイテムをリストに追加します。"
+
+msgid "프로세스 추가"
+msgstr "プロセスを追加"
+
+msgid "운영체제에서 실행될 프로세스 이름을 추가합니다."
+msgstr "オペレーティングシステムで実行されるプロセスの名前を追加します。"
+
+msgid "라우팅테이블 추가"
+msgstr "ルーティングテーブルの追加"
+
+msgid "운영체제에서 세팅될 라우팅 테이블 정보를 추가합니다."
+msgstr "オペレーティングシステムで設定されるルーティングテーブルの情報を追加します。"
+
+msgid "추가하실 프로세스 이름을 선택해 주세요."
+msgstr "追加するプロセス名を選択してください。"
+
+msgid "현재 설정"
+msgstr "現在の設定"
+
+msgid "실행중"
+msgstr "実行中"
+
+msgid "직접 입력"
+msgstr "直接入力"
+
+msgid "설정된 프로세스가 없습니다."
+msgstr "設定されたプロセスがありません。"
+
+msgid "저장하기"
+msgstr "保存"
+
+msgid "추가하실 라우팅테이블 정보를 입력해 주세요."
+msgstr "追加するルーティングテーブルの情報を入力してください。"
+
+msgid "설정된 라우팅테이블 정보가 없습니다."
+msgstr "設定されたルーティングテーブルの情報がありません。"
+
+msgid "목적지"
+msgstr "行先"
+
+msgid "계산중입니다. 잠시 후 다시 시도해 보시기 바랍니다."
+msgstr "計算中です。しばらくして再度試してみてください。"
+
+msgid "라우팅 경로"
+msgstr "ルーティングパス"
+
+msgid "미꾸라지 중계 서버"
+msgstr "Mudfish Nodes"
+
+msgid "공개 무료 서버"
+msgstr "Public Nodes"
+
+msgid ""
+"컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 서버 중"
+" 하나를 선택해 주세요."
+msgstr ""
+"Redirects all traffics from the desktop to the public node. Please select "
+"one of public nodes below to use if you want to use."
+
+msgid ""
+"이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기 때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 미꾸라지 "
+"네트웍스에서 책임지지 않습니다."
+msgstr ""
+"These public nodes are not official nodes provided by Mudfish Networks, so "
+"please be aware that Mudfish Networks is not responsible for any issues "
+"caused by using these nodes."
+
+msgid "사용 안함"
+msgstr "オフ"
+
+msgid ""
+"컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를 선택해 "
+"주세요."
+msgstr ""
+"マッドフィッシュノードへすべてのトラフィックをリダイレクトします。使用するには、以下のマッドフィッシュ・ノードのいずれかを選択してください。"
+
+msgid "안내!"
+msgstr "情報！"
+
+msgid "크레딧 없거나 혹은 Full VPN 을 사용할 권한이 없습니다."
+msgstr "マッドフィッシュクレジットがないか、または完全VPN機能を使用することは許可されていまできません。"
+
+msgid "사용할 중계 서버를 선택하십시오."
+msgstr "マッドフィッシュノードを選択します。"
+
+msgid "하나의 중계 서버를 경유하여 트래픽이 전달됩니다."
+msgstr "トラフィックは1マッドフィッシュノードを介して配信されます。"
+
+msgid "두개의 중계 서버들을 경유하여 트래픽이 전달됩니다."
+msgstr "トラフィックは2マッドフィッシュノードを介して配信されることになります。"
+
+msgid "기본 모드 혹은 고급 모드보다 핑과 안정성이 뛰어나지만, 트래픽 사용량이 상대적으로 2 배 혹은 3 배 정도 많이 사용됩니다."
+msgstr "基本モードあるいは拡張モードより平と安定性が優れているが、トラフィック量が相対的に2倍あるいは3倍程度多く使用されます。"
+
+msgid "핑 상태에 따라서, 자동으로 여러 중계 서버들을 경유하여 트래픽이 전달됩니다."
+msgstr "pingの状態に応じて、自動的に複数の中継サーバを経由してトラフィックが転送されます。"
+
+msgid ""
+"첫번째 중계 서버가 자동 선택이 아닌 직접 지정할 경우, 해당 중계 서버는 항상 Multi Path 모드에 포함되도록 구성됩니다."
+msgstr "最初の中継サーバーが自動的に選択ではなく、直接指定した場合は、その中継サーバは常にMulti Pathモードに含まれるように構成されます。"
+
+msgid "두번째 중계 서버의 경우, 목적지에 가까운 미꾸라지 중계 서버를 사용하는 것이 좋습니다."
+msgstr "第二中継サーバの場合は、目的地に近いドジョウ中継サーバーを使用することをお勧めします。"
+
+msgid "자동 선택"
+msgstr "自動選択"
+
+msgid "정기 점검 안내"
+msgstr "メンテナンスのお知らせ"
+
+msgid ""
+"서비스 안정화를 위한 정기 점검을 하려고 합니다. 이로 인해 점검 기간 동안 미꾸라지 이용에 문제가 있을 수 있음을 알려드립니다."
+msgstr "サービスの安定化のための定期点検をしようとしています。これにより、メンテナンス期間中にサービスの利用に問題があることをお知らせします。"
+
+msgid "대상: 모든 미꾸라지 중계 서버들"
+msgstr "対象：全てのマッドフィッシュノード"
+
+msgid "일시"
+msgstr "日付"
+
+msgid "남은 시간"
+msgstr "残り時間"
+
+msgid "시"
+msgstr "時間"
+
+msgid "후에 점검이 시작됩니다."
+msgstr "PM開始前の残り。"
+
+msgid ""
+"점검을 시작하게 되면 미꾸라지 중계 서버를 경유한 기존 게임 연결이 끊어질 수 있으며 로그인, 홈페이지 접속에 문제가 있을 수 있습니다."
+msgstr ""
+"PM間にマッドフィッシュサービスへのアクセス、またはサインインはほとんどのサービスでご利用いただけません。お使いの接続は強制的に中止すされます。"
+
+msgid "중계 서버 설정"
+msgstr "中継サーバの設定"
+
+msgid "예외 경로"
+msgstr "Exceptional Routes"
+
+msgid "사용중인 아이템에 목적지 설정 정보가 없습니다. 이 경우 중계 서버 자동 선택이 동작하지 않습니다."
+msgstr "使用しているアイテムに目的地設定情報がありません。この場合、中継サーバの自動選択が動作しません。"
+
+msgid "표시되는 중계 서버 수가 너무 적습니다. '설정 → 중계 서버' 메뉴의 설정이 올바른지 확인하시기 바랍니다."
+msgstr "表示される中継サーバーの数が少なすぎます。 「設定→中継サーバー」メニューの設定が正しいことを確認してください。"
+
+msgid "선택하신 중계 서버로 변경되었습니다."
+msgstr "Changed the mudfish node."
+
+msgid "처음 미꾸라지를 사용하시나요? 설정된 아이템이 없습니다. 아이템 마법사 기능으로 첫 아이템을 세팅해 보세요."
+msgstr "初めてドジョウを使用？設定されたアイテムがありません。アイテムウィザード機能で最初のアイテムをセットしてください。"
+
+msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
+msgstr "現在アクティブなアイテムがありません。実行を停止します。"
+
+msgid "설정되지 않음"
+msgstr "設定されていない"
+
+msgid "정말 삭제하시겠습니까?"
+msgstr "消去してもよろしいですか？"
+
+msgid "연결 상태"
+msgstr "接続ステータス"
+
+msgid "현재 미꾸라지 프로그램이 실행중입니다."
+msgstr "Currently the mudfish is running."
+
+msgid "연결끊기"
+msgstr "Disconnect"
+
+msgid "현재 미꾸라지 프로그램이 실행중이 아닙니다."
+msgstr "Currently the mudfish is not running."
+
+msgid "연결하기"
+msgstr "Connect"
+
+msgid "요약"
+msgstr "要約"
+
+msgid "연결 방식"
+msgstr "接続方法"
+
+msgid "Full VPN 기반"
+msgstr "Full VPNベース"
+
+msgid "아이템 기반"
+msgstr "アイテムベース"
+
+msgid "적용 아이템"
+msgstr "適用アイテム"
+
+msgid "적용할 아이템이 없습니다."
+msgstr "適用するアイテムがありません。"
+
+msgid "기본 설정"
+msgstr "一般"
+
+msgid "런쳐"
+msgstr "ランチャー"
+
+msgid "잘못된 설정"
+msgstr "Wrong configuration"
+
+msgid "잘못된 MTU 값입니다. MTU 값은 최소 576, 최대 1450 까지 설정 가능합니다."
+msgstr "不適切MTU値です。 MTUの値は、最小576、最大1450まで設定可能です。"
+
+msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
+msgstr "Only one node for full VPN mode should be set."
+
+msgid ""
+"Full VPN 설정시, 특정 라우팅 경로의 경우, 미꾸라지를 통해 전달하지 않고 기존 네트워크 경로대로 처리하고자 할 때 사용할 수 "
+"있습니다."
+msgstr ""
+"Full VPN を設定する場合、特定のルーティング パスの場合は、ドラフト経由で転送せずに既存のネットワーク パスで処理したい場合に使用できます。"
+
+msgid ""
+"'WFP 아이템 모드'가 활성화되어 있을 경우, 프로세스 이름을 예외 경로로 지정할 수 있습니다. 각 줄당 CIDR 형식의 경로 혹은 "
+"프로세스 이름을 입력하시면 됩니다. 예를 들면, 다음과 같습니다."
+msgstr ""
+"「WFPアイテムモード」が有効になっている場合は、プロセス名を例外パスとして指定できます。各行にCIDR形式のパスまたはプロセス名を入力します。たとえば、次のようになります。"
+
+msgid "CIDR 형식"
+msgstr "CIDR形式"
+
+msgid "프로세스 이름"
+msgstr "プロセス名"
+
+msgid "각 줄당 CIDR 형식의 경로를 입력하시면 됩니다. 예를 들면, 다음과 같습니다."
+msgstr "各行にCIDR形式のパスを入力してください。たとえば、次のようになります。"
+
+msgid "예) 8.8.0.0/16"
+msgstr "例）8.8.0.0/16"
+
+msgid "설정 저장"
+msgstr "保存"
+
+msgid "기타 옵션"
+msgstr "Options"
+
+msgid "설정 초기화"
+msgstr "リセット"
+
+msgid "RTT 상황"
+msgstr "RTTステータス"
+
+msgid "무료 서버 목록"
+msgstr "Public Nodes"
+
+msgid "목록 검색"
+msgstr "リスト検索"
+
+msgid "무료 서버 이름"
+msgstr "無料サーバー名"
+
+msgid "RTT 평균"
+msgstr "RTT平均。"
+
+msgid "RTT 표준편차"
+msgstr "RTT STDDEV。"
+
+msgid "'WFP 아이템 모드'가 활성화되어 있습니다. Full VPN 모드가 이 모드에 영향을 받을 것입니다."
+msgstr "「WFPアイテムモード」が有効になっています。フルVPNモードはこのモードの影響を受けます。"
+
+msgid "중계 서버 목록"
+msgstr "マッドフィッシュノード"
+
+msgid "테스트 성공"
+msgstr "テストに成功"
+
+msgid "테스트 실패"
+msgstr "テストに失敗"
+
+msgid "RTT 평균 / 표준편차에 대한 정보는 미꾸라지 중앙서버에 기록된 정보를 기준으로 표시됩니다."
+msgstr ""
+"RTT avg / stddev information is displayed based on the information recorded "
+"on the mudfish server."
+
+msgid "중계 서버 이름"
+msgstr "名"
+
+msgid "시스템 부하를 가르킵니다. CPU Steal 퍼센트/IO Wait 퍼센트/네트웍 카드 오류수"
+msgstr "システム負荷。 CPU 盗み%% / IOを盗む%% / NICエラーを待って"
+
+msgid "시스템 부하"
+msgstr "システム負荷"
+
+msgid "지난 5 분간 이 중계 서버가 처리한 트래픽량을 가르킵니다. 단위는 MBytes 입니다."
+msgstr "最後5分間のトラフィック。単位はメガバイトです。"
+
+msgid "트래픽양"
+msgstr "トラフィック"
+
+msgid "패킷로스"
+msgstr "パケットロス"
+
+msgid "RTT 그래프"
+msgstr "RTTグラフ"
+
+msgid "테스트 중계 서버"
+msgstr "テストノード"
+
+msgid "연결 프로토콜"
+msgstr "接続プロトコル"
+
+msgid "미꾸라지가 중계 서버와 통신에 사용할 프로토콜을 지정합니다."
+msgstr "マッドフィッシュノードとの通信に使用するプロトコルを指定します。"
+
+msgid "자동"
+msgstr "自動"
+
+msgid "FEC 기반"
+msgstr "FEC based"
+
+msgid "RTT 검사 방법"
+msgstr "RTTの確認方法"
+
+msgid "미꾸라지가 중계 서버까지의 RTT (Round Trip Time) 을 측정하기 위해 사용할 프로토콜을 지정합니다."
+msgstr "クライアントとマッドフィッシュノード間のRTT（ラウンドトリップ時間）を測定するために使用されるプロトコルを指定します。"
+
+msgid "MTU 설정"
+msgstr "MTU"
+
+msgid ""
+"프로그램이 사용할 MTU (Maximum Transmission Unit) 크기를 지정합니다. 기본값은 1400 bytes 입니다."
+msgstr "MTU（最大転送単位）値を指定します。デフォルト値は1400バイトです。"
+
+msgid "미꾸라지가 트래픽을 처리할 때 Router 방식 대신 Proxy 방식으로 처리하게 합니다."
+msgstr "トラフィックは、ルータではなくプロキシの方法内で処理されます。"
+
+msgid "연결 프로토콜이 TCP인 아이템에만 도움을 줍니다."
+msgstr "This option is only helpful for TCP based games."
+
+msgid ""
+"가능하다면 윈도우의 WFP(Windows Filtering Platform) 기능을 이용하여 라우팅 테이블 기반 대신 프로세스 기반 "
+"방식으로 작동하도록 구성합니다."
+msgstr ""
+"アイテム利用、可能であれば、WindowsのWFP（Windows Filtering "
+"Platform）機能を利用して、ルーティングテーブルベースの代わりに、プロセスベースの方法で動作するように設定します。"
+
+msgid "크레딧 절약 모드"
+msgstr "クレジット省電力モード"
+
+msgid ""
+"의도치 않은 크레딧 차감을 방지하는 기능입니다. 이 기능이 활성화가 될 경우, TCP 80 / 443 포트를 통해 주고 받는 트래픽에 "
+"대해 속도 제한을 합니다."
+msgstr ""
+"意図しないクレジット差引を防止する機能です。この機能が有効になる場合は、TCP 80/443ポートを介して送受信トラフィックに対して速度制限をします。"
+
+msgid "자동 연결"
+msgstr "自動接続"
+
+msgid "미꾸라지 Launcher 가 로그인 후 자동으로 중계 서버에 연결하도록 구성합니다. 기본값은 Off 입니다."
+msgstr ""
+"Automatically launches mudfish core processes after signing in. Default is "
+"off."
+
+msgid "아이템 설정 모드"
+msgstr "アイテム設定モード"
+
+msgid "아이템 설정을 위한 모드를 설정합니다."
+msgstr "アイテムを設定するためのモードを設定します。"
+
+msgid "심플"
+msgstr "シンプル"
+
+msgid "기본"
+msgstr "基本"
+
+msgid "배경화면"
+msgstr "壁紙"
+
+msgid ""
+"런쳐가 사용할 배경 화면을 지정할 수 있습니다. 반드시 URL 형식이거나 기본값이여야 합니다. 기본값은 "
+"<kbd>/images/bg/1.jpg</kbd> 입니다. 예제로 다음과 같은 배경화면이 있으니 참고 바랍니다."
+msgstr ""
+"ランチャーが使用する背景画面を指定することができます。必ずURL形式またはデフォルト値がある必要があります。デフォルト値は<kbd>/images/bg/1.jpg</kbd>です。例として、次のような壁紙がありますので、ご覧ください。"
+
+msgid "문제점 보고"
+msgstr "問題を報告します"
+
+msgid "카테고리"
+msgstr "カテゴリー"
+
+msgid "보고하실 문제점에 대한 카테고리를 선택해 주세요."
+msgstr "レポートする問題のカテゴリを選択してください。"
+
+msgid "내용"
+msgstr "説明"
+
+msgid "자세한 상황과 재현 방법을 적어 주시면 문제 해결에 큰 도움이 됩니다."
+msgstr "どのように/いつ起きるのかついての詳細があると、なおよいです。"
+
+msgid "1) 어떤 문제 때문에 문제점 보고를 하시려고 하는 건가요?"
+msgstr "1）発生した問題は何ですか？"
+
+msgid "2) 문제를 그대로 재현하려면 어떻게 해야 하나요?"
+msgstr "2）どのように再現可能ですか？"
+
+msgid "문제점 보고하기"
+msgstr "問題を報告します"
+
+msgid "문제점 보고서 제출중입니다... 최대 2 분까지 걸릴 수 있습니다."
+msgstr "問題を報告しいます...それは2分間ほどがかかります。"
+
+msgid "문제점 보고서 제출이 완료되었습니다."
+msgstr "問題報告書の提出が完了しました。"
+
+msgid "다음 링크에서 문제점 보고서를 확인할 수 있습니다."
+msgstr "以下のリンクから問題レポートを確認することができます。"
+
+msgid "문제점 보고서 링크"
+msgstr "問題レポートのリンク"
+
+msgid "성공적으로 제출 되었습니다. 감사합니다."
+msgstr "報告できました。ありがとうございました。"
+
+msgid "문제점 보고서 제출이 실패하였습니다."
+msgstr "問題報告書の提出が失敗しました。"
+
+msgid "분류 없음"
+msgstr "分類なし"
+
+msgid "핑"
+msgstr "Ping"
+
+msgid "계정"
+msgstr "アカウント"
+
+msgid "새로운 게임"
+msgstr "新しいゲーム"
+
+msgid "기존 미꾸라지 아이템"
+msgstr "Existing game item"
+
+msgid "결제"
+msgstr "決済"
+
+msgid "로그인하기"
+msgstr "サインイン"
+
+msgid "자동 로그인 체크중입니다..."
+msgstr "自動ログインチェック中です..."
+
+msgid "패스워드"
+msgstr "パスワード"
+
+msgid "로그인 기억하기"
+msgstr "記憶する"
+
+msgid "계정 생성"
+msgstr "Sign Up"
+
+msgid "ID 찾기"
+msgstr "ユーザー名をお忘れですか？"
+
+msgid "비밀번호 찾기"
+msgstr "パスワードをお忘れですか？"
+
+msgid "연결 오류"
+msgstr "接続エラー"
+
+msgid "인증 서버 연결에 실패하였습니다. 우회 기능을 사용하여 로그인하겠습니까?"
+msgstr "認証サーバー接続に失敗しました。バイパス機能を使用してログインしますか？"
+
+msgid ""
+"미꾸라지 Core 의 내부 명령을 이용하여, Core 프로그램을 제어할 수 있습니다. <b>help</b> 명령을 입력하시면 이용 가능한"
+" 명령어들 목록을 볼 수 있습니다."
+msgstr ""
+"Using CLI commands, you can control Mudfish Core.  To see available "
+"commands, type <b>help</b> command."
+
+msgid "명령어"
+msgstr "コマンド"
+
+msgid "미꾸라지를 통해 전달되는 게임 정보를 덤프하는 기능입니다."
+msgstr "みどりを介して配信されるゲーム情報をダンプする機能です。"
+
+msgid "정지"
+msgstr "やめる"
+
+msgid "시작"
+msgstr "スタート"
+
+msgid "중지"
+msgstr "やめる"
+
+msgid "전송하기"
+msgstr "アップロード"
+
+msgid "파일 크기"
+msgstr "ファイルサイズ"
+
+msgid "현재 프로세스"
+msgstr "現在のプロセス"
+
+msgid "새 프로세스 갯수"
+msgstr "新しいプロセスの数"
+
+msgid "새 프로세스"
+msgstr "新しいプロセス"
+
+msgid "게임 덤프 업로드"
+msgstr "ゲームダンプのアップロード"
+
+msgid "한줄 설명"
+msgstr "簡単な説明"
+
+msgid "게임 덤프의 내용을 간략하게 설명해 주세요."
+msgstr "ゲームダンプの内容を簡単に説明してください。"
+
+msgid "게임 덤프 중입니다."
+msgstr "ゲームダンプ中です。"
+
+msgid "내부 오류가 발생하였습니다."
+msgstr "内部エラー"
+
+msgid "업로드가 완료되었습니다."
+msgstr "アップロードが完了します。"
+
+msgid "다음 링크에서 덤프를 확인할 수 있습니다."
+msgstr "以下のリンクからダンプを確認することができます。"
+
+msgid "게임 덤프 주제글"
+msgstr "ゲームダンプのトピック"
+
+msgid "미꾸라지를 통해 전달되는 패킷을 파일로 덤프하는 기능입니다."
+msgstr "マッドフィッシュが処理したダンプをパケットに区切ることができます。"
+
+msgid "파일 업로드"
+msgstr "ファイルのアップロード"
+
+msgid "패킷 덤프의 내용을 간략하게 설명해 주세요."
+msgstr "このパケットは何のためか説明してください。"
+
+msgid "패킷 덤프 중입니다."
+msgstr "パケットダンプが実行されています。"
+
+msgid "패킷 덤프 주제글"
+msgstr "パケットダンプテーマ文"
+
+msgid "운영체제에서 실행되고 종료되는 프로세스 이름을 덤프하는 기능입니다."
+msgstr "オペレーティング・システムで実行されて終了するプロセス名をダンプする機能です。"
+
+msgid "프로세스 갯수"
+msgstr "プロセス本数"
+
+msgid "덤프 업로드"
+msgstr "ダンプアップロード"
+
+msgid "프로세스 덤프의 내용을 간략하게 설명해 주세요."
+msgstr "プロセスダンプの内容を簡単に説明してください。"
+
+msgid "프로세스 덤프 중입니다."
+msgstr "プロセスのダンプ中です。"
+
+msgid "프로세스 덤프 주제글"
+msgstr "プロセスダンプのテーマ記事"
+
+msgid ""
+"<a href='https://en.wikipedia.org/wiki/MTR_(software)' "
+"target='_blank'>Matt's traceroute</a> 기능을 이용하여 입력하신 'IP / 호스트이름'을 대상으로 테스트를 "
+"실시합니다. 이 기능을 통해 어떤 Hop (라우터 구간)에서 Packet loss 가 발생되는지 혹은 지연 시간등의 정보를 확인할 수 "
+"있습니다."
+msgstr ""
+"Performs the packet loss test and measures the network status using <a href='https://en.wikipedia.org/wiki/MTR_(software)' target='_blank'>Matt's traceroute</a>.\n"
+"With this feature, you can see which hop (router) has a packet loss or network delay."
+
+msgid "IP / 호스트이름"
+msgstr "IP / Hostname"
+
+msgid "이름"
+msgstr "名"
+
+msgid "관리"
+msgstr "Manage"
+
+msgid "실행중인 테스트가 없습니다."
+msgstr "No tests running."
+
+msgid "삭제"
+msgstr "Remove"
+
+msgid "결과"
+msgstr "結果"
+
+msgid "Hop"
+msgstr "Hop"
+
+msgid "요청수"
+msgstr "Requests"
+
+msgid "응답수"
+msgstr "Responses"
+
+msgid "RTT"
+msgstr "RTT"
+
+msgid "주소"
+msgstr "Address"
+
+msgid "현재"
+msgstr "Current"
+
+msgid "최고"
+msgstr "Best"
+
+msgid "최저"
+msgstr "Worst"
+
+msgid "MTR 기능이 지원되지 않는 운영체제입니다."
+msgstr "MTRの機能がサポートされていないオペレーティングシステムです。"
+
+msgid "설명"
+msgstr "説明"
+
+msgid "아이템은 <strong>한달</strong> 동안 유효합니다."
+msgstr "The item is valid for <strong>1 month</strong>."
+
+msgid "요금제가 종량제이기 때문에 아이템 구매를 위한 비용은 없습니다."
+msgstr "No credits charged because your data plan is PPT."
+
+msgid "크레딧"
+msgstr "クレジット"
+
+msgid "이 차감됩니다."
+msgstr "will be charged."
+
+msgid "주의하세요!"
+msgstr "ご注意ください！"
+
+msgid ""
+"이 아이템의 경우 CDN (Content Delivery Network) 관련 라우팅 정보를 포함하고 있습니다. 미꾸라지가 켜져 있는 "
+"상태에서 파일 다운로드나 스트리밍을 할 경우 의도치 않게 크레딧이 많이 차감될 수 있습니다."
+msgstr ""
+"This item includes the routing table information which CDN (Content Delivery"
+" Network) company uses. So mudfish credits could be used abnormally if you "
+"try to download a big file or do streaming while Mudfish is running."
+
+msgid "자동 갱신"
+msgstr "自動更新"
+
+msgid ""
+"시간을 절약하고 귀찮은 과정을 건너뛸 수 있습니다. 남은 잔여일이 3일 미만이 되면, 아이템 유효 기간이 자동으로 갱신되며 크레딧이 "
+"차감됩니다."
+msgstr "時間と手間を省きます。残る日数が3日未満のときはアイテムは自動更新されます。"
+
+msgid "사용함"
+msgstr "オン"
+
+msgid "이 아이템이 지원하는 게임 / 사이트 / 스트리밍 서버 위치를 가르킵니다."
+msgstr "このアイテムでサポートされている行先場所のリスト。"
+
+msgid "최적의 RTT 및 중계 서버 정보를 받기 위해서는 아래의 위치 중 접속하는 서버 위치를 선택해 주세요."
+msgstr "最高RTTまたはノード情報を取得するには、プレイ中の行先場所を指定してください。"
+
+msgid "목적지 위치"
+msgstr "行先サーバー"
+
+msgid "선택"
+msgstr "選択"
+
+msgid "사설 서버"
+msgstr "プライベートサーバー"
+
+msgid "공식 서버"
+msgstr "公式サーバー"
+
+msgid "목적지에 가까운 미꾸라지 중계 서버를 사용하는 것이 좋습니다."
+msgstr "目的地に近いドジョウ中継サーバーを使用することをお勧めします。"
+
+msgid "정말로 구매하시겠습니까?"
+msgstr "装備したいですか？"
+
+msgid "아이템 구매하기"
+msgstr "アイテムを装備"
+
+msgid "무료"
+msgstr "無料"
+
+msgid "다이렉트"
+msgstr "ダイレクト"
+
+msgid "더..."
+msgstr "もっと..."
+
+msgid "오늘의 추천 경로 계산시 사용되는 RTT 정보가 1 시간 이상 오래된 정보를 기준으로 하니 참고 바랍니다.."
+msgstr ""
+"Please note that the RTT information used to calculate today's path is based"
+" on RTT information older than 1 hour."
+
+msgid "오늘의 추천 경로 계산이 요청되었습니다. 계산에 시간이 걸리니 잠시 후 확인해 보시기 바랍니다."
+msgstr ""
+"Requested today's path calculation. Please take a moment to check out."
+
+msgid "새로고침"
+msgstr "リフレッシュ"
+
+msgid "개인 아이템"
+msgstr "マイアイテム"
+
+msgid "이 아이템은 사용자가 직접 제작한 아이템입니다. 아래의 메뉴를 이용하여 수정 / 삭제를 하실 수 있습니다."
+msgstr "このアイテムは、ユーザーが直接製作したアイテムです。下のメニューを利用して、修正/削除をすることができます。"
+
+msgid "아이템 수정"
+msgstr "アイテムの変更"
+
+msgid "아이템 Export"
+msgstr "アイテムExport"
+
+msgid "아이템 삭제"
+msgstr "アイテムの削除"
+
+msgid "목적지를 찾을 수 없습니다."
+msgstr "目的地を見つけることができません。"
+
+msgid "Custom 아이템의 경우, '아이템 수정' 메뉴에서 목적지를 입력하실 수 있습니다."
+msgstr "Customアイテムの場合は、「アイテムの変更」メニューから目的地を入力することができます。"
+
+msgid "계산된 최적의 미꾸라지 중계 서버 이용 경로들이며, 예상 RTT 평균과 편차 정보입니다."
+msgstr "予想RTT平均とstddevでマッドフィッシュノードを使用して計算したルーティングパス。"
+
+msgid "계산 시각"
+msgstr "計算されました"
+
+msgid "최단 경로 업데이트"
+msgstr "Today's Path Update"
+
+msgid "현재 계산된 추천 경로가 없습니다."
+msgstr "現在の計算された推薦パスがありません。"
+
+msgid "사용할 중계 서버 모드와 중계 서버를 선택하십시오."
+msgstr "使用中継サーバモードと中継サーバを選択します。"
+
+msgid "설정 구성 완료 후 한번 선택된 중계 서버는 중간에 변경되지 않습니다."
+msgstr "設定完了後、一度選択された中継サーバは、中間に変更されません。"
+
+msgid "아이템 사용 여부를 선택합니다."
+msgstr "アイテムを使用するかどうかを選択します。"
+
+msgid "설정하기"
+msgstr "保存"
+
+msgid "기간 연장"
+msgstr "期間延長"
+
+msgid "정말 기간 연장 하겠습니까?"
+msgstr "本当に期間延長する?"
+
+msgid "주의 사항"
+msgstr "注意事項"
+
+msgid "남은 시간에 31 일이 추가됩니다."
+msgstr "残った時間に31日が追加されます。"
+
+msgid "남은 기간은 크레딧으로 환불되지 않습니다."
+msgstr "残った期間はクレジットとして払い戻しはできません。"
+
+msgid "삭제된 아이템은 복구할 수 없습니다. 재구매하셔야 합니다."
+msgstr "削除されたアイテムは復旧できません。 再購入しなければなりません。"
+
+msgid "연결 그래프"
+msgstr "接続グラフ"
+
+msgid "아래의 Ping은 실제값이 아닌 예상치를 나타냅니다."
+msgstr "以下のPingは実際の値ではなく予想値を表します。"
+
+msgid "로딩중입니다."
+msgstr "読み込んでいます。"
+
+msgid "활성화됨"
+msgstr "有効になりました"
+
+msgid "비활성화됨"
+msgstr "無効になりました"
+
+msgid ""
+"남은 시간이 지나면 아이템은 자동 삭제됩니다. 원하지 않는 다면, '자동 갱신' 옵션을 켜거나 '기간 연장'을 하시기 바랍니다."
+msgstr ""
+"残り時間が経過すると、アイテムは自動的に削除されます。望ましくない場合は、「自動更新」オプションをオンにするか、「期間を延長」してください。"
+
+msgid "이 아이템은 'WFP 아이템 모드'를 지원합니다."
+msgstr "このアイテムは「WFPアイテムモード」をサポートしています。"
+
+msgid "알려진 이슈"
+msgstr "既知の問題"
+
+msgid "CDN 이슈"
+msgstr "CDN問題"
+
+msgid ""
+"자세한 내용은 <a href='http://wiki.mudfish.net/CDN%20and%20Mudfish'>CDN and "
+"Mudfish</a> 링크를 참고 바랍니다."
+msgstr ""
+"詳細については、<a href='http://wiki.mudfish.net/CDN%20and%20Mudfish'> CDN and "
+"Mudfish </a>リンクを参照してください。"
+
+msgid "Cloud 이슈"
+msgstr "クラウド問題"
+
+msgid ""
+"이 아이템의 경우 클라우드 환경상에 목적지 서버가 존재합니다. 이로 인하여 동일 클라우드 상에 있는 다른 서비스가 아이템의 영향을 받을 "
+"수 있습니다."
+msgstr ""
+"このアイテムの場合、クラウド環境に宛先サーバーが存在します。これにより、同じクラウド上の他のサービスがアイテムの影響を受ける可能性があります。"
+
+#, python-format
+msgid ""
+"자세한 내용은 <a "
+"href='http://wiki.mudfish.net/Amazon%20EC2%2C%20Twitch%20and%20Mudfish'>Amazon"
+" EC2, Twitch and Mudfish</a> 링크를 참고 바랍니다."
+msgstr ""
+"詳細については、<a "
+"href='http://wiki.mudfish.net/Amazon%20EC2%2C%20Twitch%20and%20Mudfish'>Amazon"
+" EC2, Twitch and Mudfish</a> リンクを参照してください。"
+
+msgid "Custom 아이템 추가"
+msgstr "Add Custom Item"
+
+msgid "Custom 아이템 수정"
+msgstr "Modify Custom Item"
+
+msgid "게임"
+msgstr "ゲーム"
+
+msgid "동영상"
+msgstr "ストリーミング"
+
+msgid "사이트"
+msgstr "サイト"
+
+msgid "아이템 이름"
+msgstr "アイテムの名前"
+
+msgid "아이콘"
+msgstr "アイコン"
+
+msgid "해당 아이템에 대한 적당한 아이콘을 지정해 주시면 됩니다. 이 부분은 선택 사항이며 미지정시 기본 아이콘이 보이게 됩니다."
+msgstr "使用したいアイテムを選択します。これはオプションであり、選択するとデフォルトのアイコンが使用されます。"
+
+msgid "목적지 정보를 입력하시면 됩니다."
+msgstr "目的地の情報を入力します。"
+
+msgid "필수 사항입니다."
+msgstr "必須。"
+
+msgid ""
+"(<b>선택사항</b>) RTT (Round Trip Time, 핑) 체크를 위한 정보를 입력할 수 있으며, 입력시 해당 서버와의 연결 "
+"상태를 중계 서버 별로 확인 할 수 있습니다. 현재는 ICMP 프로토콜만 지원합니다."
+msgstr ""
+"(<b>Optional</b>) You can see RTT(Round Trip Time) graphs for your item if "
+"these information exist.  Only ICMP is only supported."
+
+msgid "IPv4 주소"
+msgstr "IPv4アドレス"
+
+msgid "테스트"
+msgstr "テスト"
+
+msgid "수정하기"
+msgstr "修正"
+
+msgid "아이콘 파일의 크기가 512KB 를 초과합니다."
+msgstr "アイコンファイルのサイズが512KBを超えています。"
+
+msgid "잘못된 IP 를 입력하였습니다."
+msgstr "無効なIPを入力しました。"
+
+msgid "ICMP 응답이 없습니다."
+msgstr "ICMP応答がありません。"
+
+msgid "ICMP 응답:"
+msgstr "ICMP応答："
+
+msgid "가격"
+msgstr "価格"
+
+msgid "정액제 전용"
+msgstr "サブスクリプションのデータプランのみ"
+
+msgid "구매하신 아이템이 없습니다."
+msgstr "アイテムは購入されていません。"
+
+msgid "Custom 아이템 생성"
+msgstr "Customアイテムの作成"
+
+msgid "Custom 아이템 Import"
+msgstr "CustomアイテムImport"
+
+msgid "아이템 Import 를 위한 JSON 문법을 입력합니다. 혹은 아이템 JSON 파일 위치를 지정해 주세요."
+msgstr "アイテムImportのためのJSONの文法を入力します。あるいはアイテムJSONファイルの場所を指定してください。"
+
+msgid "혹은"
+msgstr "あるいは"
+
+msgid "Import 하기"
+msgstr "Importする"
+
+msgid "JSON 오류"
+msgstr "JSONエラー"
+
+msgid "아이템 모드 설정"
+msgstr "アイテムモードの設定"
+
+msgid "아이템 설정 모드 변경을 하고자 한다면, '설정 -> 프로그램' 메뉴에 있는 Launcher 탭에서 변경하실 수 있습니다."
+msgstr "アイテムの設定モードの変更をする場合は、「設定 - >プログラム」メニューにあるLauncherタブで変更することができます。"
+
+msgid "아이템 설정 및 구성을 최대한 단순화 시킨 모드입니다."
+msgstr "アイテムの設定と構成をできるだけ簡単させたモードです。"
+
+msgid "기존 미꾸라지 아이템 설정 방법입니다."
+msgstr "既存のドジョウアイテム設定方法です。"
+
+msgid "안녕하세요!"
+msgstr "こんにちは！"
+
+msgid "아이템 선택"
+msgstr "アイテムを選択"
+
+msgid "서버 위치 선택"
+msgstr "サーバーの場所の選択"
+
+msgid "중계 서버 선택"
+msgstr "マッドフィッシュノード"
+
+msgid "미꾸라지를 처음 사용하시는 분들을 위한 아이템 설정 마법사 화면입니다. 플레이하고자 하는 게임/스트리밍을 선택해 주세요."
+msgstr "ドジョウを初めてお使いになる方のためのアイテムの設定ウィザードの画面です。プレイしようとするゲーム/ストリーミングを選択してください。"
+
+msgid "찾는 게임/스트리밍이 없나요?"
+msgstr "探しゲーム/ストリーミングがありますか？"
+
+msgid "미꾸라지에서 지원하지 않는 게임/스트리밍을 사용하신다면 다음 중 하나의 방법을 사용하시기 바랍니다."
+msgstr "ドジョウでサポートしていないゲーム/ストリーミングを使用した場合、次のいずれかの方法を使用してください。"
+
+msgid "Full VPN 모드를 사용하실 경우, 컴퓨터에서 발생되는 모든 트래픽을 지정한 미꾸라지 중계 서버를 통해 전달됩니다."
+msgstr ""
+"Full VPNモードを使用することが場合は、コンピュータ上で発生するすべてのトラフィックを指定されたドジョウ中継サーバを介して配信されます。"
+
+msgid "Custom 아이템 제작"
+msgstr "Customアイテム製作"
+
+msgid "Custom 아이템 제작 기능을 이용하여 프로세스 및 운영체제 라우팅 테이블별로 지정할 수 있습니다."
+msgstr "Customアイテム製作機能を利用して、プロセスおよびオペレーティングシステムのルーティングテーブルごとに指定することができます。"
+
+msgid "목적지 서버 위치"
+msgstr "行先サーバー"
+
+msgid "아래에서 목적지를 선택해 주세요."
+msgstr "以下で行先を選択します。"
+
+msgid "스트리밍"
+msgstr "ストリーミング"
+
+msgid "이전"
+msgstr "前"
+
+msgid "RTT 구간"
+msgstr "RTT Zone"
+
+msgid "RTT 서버"
+msgstr "RTTサーバー"
+
+msgid "사용자 <-> 중계 서버 구간"
+msgstr "User <-> Node only"
+
+msgid "중계 서버 <-> 게임서버 구간"
+msgstr "Node <-> Dest. Server only"
+
+msgid "전체 구간"
+msgstr "オールインワン"
+
+msgid ""
+"각 항목에 대한 점수(Score)은 '사용자 컴퓨터 &#8594; 미꾸라지 중계 서버 &#8594; Backend 서버'까지의 RTT "
+"(Round Trip Time) 의 평균 + 표준편차의 합을 나타냅니다."
+msgstr "スコアはRTT（ラウンドトリップ時間）平均および標準の合計です。 移行先サーバーへのユーザーのデスクトップから。"
+
+msgid "평가점수"
+msgstr "スコア"
+
+msgid "최단 경로"
+msgstr "最短パス"
+
+msgid "RTT 기반으로 검색된 추천 최단 경로들입니다."
+msgstr "以下がRTT（ラウンドトリップ時間）の平均に基づいて算出した最短パスです。"
+
+msgid "추천 경로"
+msgstr "推奨パス"
+
+msgid "예상 RTT 평균값"
+msgstr "予想RTT平均"
+
+msgid "예상 RTT 표준편차"
+msgstr "予想RTT STDDEV"
+
+msgid "오류"
+msgstr "エラー"
+
+msgid "혼잡도"
+msgstr "混雑"
+
+msgid "아래에서 아이템을 선택해 주세요."
+msgstr "下からアイテムを選択してください。"
+
+msgid "목록 제한"
+msgstr "ノードマネージャ"
+
+msgid "중계 서버를 선택해 주세요."
+msgstr "マッドフィッシュノードを選択してください。"
+
+msgid "목록 정책에 적용할 중계 서버를 지정합니다. 중계 서버 목록은 지정한 정책에 따라 보여지게 됩니다."
+msgstr ""
+"Please select the mudfish nodes you'd like to apply Node List Policy. The "
+"list of mudfish nodes will be changed by this selection."
+
+msgid "국가 코드"
+msgstr "国コード"
+
+msgid "고급 모드 결과 포함"
+msgstr "Include the result for the advanced mode"
+
+msgid "중계 서버 모드 중 '고급 모드' 를 사용한 추천 경로 결과를 포함할지를 결정합니다. 기본값은 Off 입니다."
+msgstr ""
+"A option to whether it includes the result of the advanced mode for node "
+"routes.  The default is 'Off'."
+
+msgid "목록 정책"
+msgstr "Node List Policy"
+
+msgid ""
+"중계 서버 목록을 Whitelist 정책으로 지정할지 Blacklist 정책으로 지정할지를 결정합니다. 기본값은 Whitelist "
+"정책입니다."
+msgstr ""
+"Please specify Node List Policy whether it's based on the whitelist or "
+"blacklist. Default is the whitelist based policy."
+
+msgid "접속 기록"
+msgstr "アクセスログ"
+
+msgid "접속 기록은 1 MBytes 이상 전송된 출발지/목적지에 대해서만 보여집니다."
+msgstr "これらのアクセスログは、トラフィック使用量が少なくとも1メガバイトを超えているエントリのリストです。"
+
+msgid ""
+"현재 접속 기록 여부가 '기록 안함'으로 설정되어 있기 때문에, 접속 기록이 제대로 보이지 않을 수 있습니다. 설정을 변경하실려면, "
+"'설정 -> 계정 -> 개인정보 수정' 메뉴에서 하실 수 있습니다."
+msgstr ""
+"Access Log information missed your activities because Connection Logging is "
+"disabled by your account setup.  To enable it, please visit 'Setup -> "
+"Account -> Edit Profile' menu."
+
+msgid "날짜"
+msgstr "日付"
+
+msgid "출발지"
+msgstr "ソース"
+
+msgid "국내 In/Out"
+msgstr "国内。イン/アウト"
+
+msgid "국제 In/Out"
+msgstr "国際。イン/アウト"
+
+msgid "기록된 접속 정보가 없습니다."
+msgstr "記録された接続情報がありません。"
+
+msgid "내 컴퓨터"
+msgstr "マイコンピュータ"
+
+msgid "자체 진단"
+msgstr "自己診断"
+
+msgid ""
+"아래의 목록을 살펴보셔서 <span class='fa fa-fw fa-times'></span> 마크가 있는지 확인 바랍니다. 해당 "
+"마크가 있다면 각 항목에 대한 '도움말'을 참고 바랍니다."
+msgstr ""
+"Please check that there are <span class='fa fa-fw fa-times'></span> mark at "
+"below.  If there is, check 'Help' for each entries."
+
+msgid "진단 항목"
+msgstr "チェックリスト"
+
+msgid "도움말"
+msgstr "ヘルプ"
+
+msgid "Core 준비 여부"
+msgstr "コアプロセスの準備ができています。"
+
+msgid "중앙 서버 테스트: 웹 페이지"
+msgstr "マスターサーバーのテスト：ホームページ"
+
+msgid "중앙 서버 테스트: 인증 서버"
+msgstr "マスターサーバーのテスト：認証デーモン"
+
+msgid "중앙 서버 테스트: RTT 서버"
+msgstr "マスターサーバーのテスト：RTTデーモン"
+
+msgid "중앙 서버 테스트: DNS Poisoning 이슈"
+msgstr "中央サーバのテスト：DNS Poisoning問題"
+
+msgid "방화벽 테스트: KR Asia (S. Korea - KT2 IDC) TCP Port"
+msgstr "ファイアウォールのテスト：KRアジア（韓国 -  KT2 IDC）TCPポート"
+
+msgid "방화벽 테스트: KR Asia (S. Korea - KT2 IDC) UDP Port"
+msgstr "ファイアウォールのテスト：KRアジア（韓国 -  KT2 IDC）UDPポート"
+
+msgid "내부망 테스트: KR Asia (S. Korea - KT2 IDC)"
+msgstr "プライベートネットワークのテスト：KRアジア（韓国 -  KT2 IDC）"
+
+msgid "메모리"
+msgstr "メモリ"
+
+msgid "프로세스 종료"
+msgstr "プロセスを強制終了"
+
+msgid "호스트이름"
+msgstr "ホスト名"
+
+msgid "내부 주소"
+msgstr "プライベートIP"
+
+msgid "Uptime"
+msgstr "稼働時間"
+
+msgid "Heartbeat"
+msgstr "心拍"
+
+msgid "CPU 사용률"
+msgstr "CPU使用率"
+
+msgid "네트워크 사용"
+msgstr "ネットワーク活動"
+
+msgid "시스템 부하률"
+msgstr "システム負荷"
+
+msgid "네트워크 장치 에러 정보"
+msgstr "ネットワークエラー"
+
+msgid "연결됨"
+msgstr "接続されました"
+
+msgid "프로세스 상태"
+msgstr "プロセスステータス"
+
+msgid "프로그램 버전"
+msgstr "プログラムのバージョン"
+
+msgid "링크"
+msgstr "リンク"
+
+msgid "미꾸라지 Core 프로세스"
+msgstr "Mudfish Core プロセス"
+
+msgid "현재 실행중이 아니기 때문에 이 로그는 옛날 로그일 수 있습니다."
+msgstr "現在実行中ではないので、このログは、昔のログがあります。"
+
+msgid "미꾸라지 Flow Controller 프로세스"
+msgstr "Mudfish Flow Controller プロセス"
+
+msgid "미꾸라지 OpenVPN 프로세스"
+msgstr "Mudfish OpenVPN プロセス"
+
+msgid "미꾸라지 WFP Proxy 프로세스"
+msgstr "Mudfish WFP Proxy プロセス"
+
+msgid ""
+"현재 접속 기록 여부가 '기록 안함'으로 설정되어 있기 때문에, 그래프가 제대로 보이지 않을 수 있습니다. 설정을 변경하실려면, '설정 "
+"-> 계정 -> 개인정보 수정' 메뉴에서 하실 수 있습니다."
+msgstr ""
+"Access Log information missed your activities because Connection Logging is "
+"disabled by your account setup.  To enable it, please visit 'Setup -> "
+"Account -> Edit Profile' menu."
+
+msgid "지난 사용 트래픽 - 유료 중계 서버"
+msgstr "前のトラフィックの使用状況 - プレミアムノード"
+
+msgid "지난 사용 트래픽 - 무료 중계 서버"
+msgstr "前のトラフィックの使用状況 - 無料のノード"
+
+msgid "국내 트래픽 (MB)"
+msgstr "国内のトラフィック（MB）"
+
+msgid "국제 트래픽 (MB)"
+msgstr "国際トラフィック（MB）"
+
+msgid "미꾸라지"
+msgstr "マッドフィッシュ"
+
+msgid "이용약관"
+msgstr "利用規約"
+
+msgid "개인정보 보호정책"
+msgstr "個人情報保護方針"
+
+msgid "환불 정책"
+msgstr "返金ポリシー"
+
+msgid "언어"
+msgstr "言語"
+
+msgid "미꾸라지 네트웍스"
+msgstr "マッドフィッシュネットワーク"
+
+msgid "무엇을 도와드릴까요?"
+msgstr "お問い合わせ"
+
+msgid "회사 연락을 원하신다면 아래의 이메일로 연락바랍니다. 기술 지원에 대한 전화 상담은 하지 않습니다."
+msgstr ""
+"If you want to contact us, please use email below.  技術サポートの電話相談はありません。"
+
+msgid "대표: 한미정"
+msgstr "CEO: Mijung Han"
+
+msgid "대표번호: (02) 2659-0823"
+msgstr "代表番号: +82-2-2659-0823"
+
+msgid "팩스: (02) 2659-0824"
+msgstr "Fax: +82-2-2659-0824"
+
+msgid "이메일"
+msgstr "メール"
+
+msgid "사업자등록번호"
+msgstr "Business License"
+
+msgid "주소: 서울 마포구 월드컵북로12안길 74-16, 401호"
+msgstr "住所：74-16, World Cup buk-ro 12an-gil, Unit 401, Mapo-gu, Seoul"
+
+msgid "문의하기"
+msgstr "お問い合わせ"
+
+msgid "사람을 찾습니다!"
+msgstr "人材募集しています！"
+
+msgid "기타"
+msgstr "その他もろもろ"
+
+msgid "진흙개"
+msgstr "Muddog"
+
+msgid "무료 VPN"
+msgstr "無料VPN"
+
+msgid "소마구 홈페이지"
+msgstr "Somagu ホームページ"
+
+msgid "미꾸라지 네트웍스 (주)"
+msgstr "Mudfish Networks Inc."
+
+msgid "주소: 서울 강서구 마곡중앙로 165 (마곡동, 안강프라이빗타워) 8층 803호"
+msgstr ""
+"Address: 8F #803, 165, Magokjungang-ro, Gangseo-gu, Seoul, 07788, South "
+"Korea"
+
+msgid "트래픽"
+msgstr "トラフィック"
+
+msgid "고급"
+msgstr "上級"
+
+msgid "덤프"
+msgstr "ダンプ"
+
+msgid "지원"
+msgstr "サポート"
+
+msgid "포럼"
+msgstr "フォーラム"
+
+msgid "1:1 문의"
+msgstr "1：1お問い合わせ"
+
+msgid "다운로드"
+msgstr "ダウンロード"
+
+msgid "공지사항"
+msgstr "お知らせ"
+
+msgid "문서"
+msgstr "ドキュメント"
+
+msgid "공식 문서"
+msgstr "公式文書"
+
+msgid "중계 서버 상태"
+msgstr "ノードのステータス"
+
+msgid "도구들"
+msgstr "ツール"
+
+msgid "나의 IP는?"
+msgstr "私のIPは何ですか？"
+
+msgid "이미지 업로드"
+msgstr "Image Uploader"
+
+msgid "Ping 테스트"
+msgstr "Pingテスト"
+
+msgid "사용자"
+msgstr "ユーザー"
+
+msgid "구매하기"
+msgstr "購入"
+
+msgid "구매 내역"
+msgstr "支払履歴"
+
+msgid "개인정보 수정"
+msgstr "プロファイル編集"
+
+msgid "비밀번호 변경"
+msgstr "パスワードを変更する"
+
+msgid "하위 계정 관리"
+msgstr "サブアカウントの管理"
+
+msgid "로그아웃"
+msgstr "ログアウト"
+
+msgid "키보드 단축키"
+msgstr "キーボードショートカット"
+
+msgid "단축키"
+msgstr "ショートカット"
+
+msgid "WAN 최적화를 통한 게임 / 동영상 가속 VPN, 윈도우 / 맥 / 리눅스 지원"
+msgstr "ゲームを加速/ WindowsのWAN最適化技術でストリーム/ Mac/Linux。"
+
+msgid "게임 가속, 미꾸라지, 동영상 가속, VPN"
+msgstr "GPN、ゲームブースター、ストリームブースター、VPN、マッドフィッシュ、マッドフィッシュVPN"
+
+msgid "네이버 스포츠"
+msgstr "Naver Sports"
+
+msgid "해외에서 HD 급으로 네이버 스포츠를 시청 할 수 있습니다."
+msgstr "Watch the streaming of Naver Sports at overseas."
+
+msgid "아이온"
+msgstr "Aion"
+
+msgid "길드워 1 & 2"
+msgstr "Guild Wars 1 & 2"
+
+msgid "아키에이지"
+msgstr "ArcheAge"
+
+msgid "오디션"
+msgstr "Audition"
+
+msgid "아발론 온라인"
+msgstr "Avalon Online"
+
+msgid "배틀필드 3"
+msgstr "Battlefield 3"
+
+msgid "배틀필드 온라인"
+msgstr "Battlefield Online"
+
+msgid "블레이드 & 소울"
+msgstr "Blade & Soul"
+
+msgid "카오스 온라인"
+msgstr "Chaos Online"
+
+msgid "카운터 스트라이크: 글로벌 오펜시브"
+msgstr "Counterstrike: Global Offensive"
+
+msgid "사이퍼즈"
+msgstr "Cyphers"
+
+msgid "다크 에이지 오브 카멜롯"
+msgstr "Dark Age of Camelot"
+
+msgid "DC 유니버스 온라인"
+msgstr "DC Universe Online"
+
+msgid "리프트"
+msgstr "Rift"
+
+msgid "디아블로 3"
+msgstr "Diablo 3"
+
+msgid "DK 온라인"
+msgstr "DK Online"
+
+msgid "도타 2"
+msgstr "Dota 2"
+
+msgid "드래곤 네스트"
+msgstr "Dragon Nest"
+
+msgid "던전 앤 파이터"
+msgstr "Dungeon Fighter"
+
+msgid "던전 스트라이커"
+msgstr "Dungeon Striker"
+
+msgid "던전 앤 드래곤 온라인"
+msgstr "Dungeons & Dragons Online"
+
+msgid "이브 온라인"
+msgstr "EVE Online"
+
+msgid "에버퀘스트 II"
+msgstr "EverQuest II"
+
+msgid "피파 온라인 3"
+msgstr "FIFA Online 3"
+
+msgid "파이어폴"
+msgstr "Firefall"
+
+msgid "프리스타일 2"
+msgstr "FreeStyle 2: Street Basketball"
+
+msgid "프리스타일 풋볼"
+msgstr "Freestyle Football"
+
+msgid "겟앰프드"
+msgstr "GetAmped"
+
+msgid "겟앰프드 2"
+msgstr "GetAmped 2"
+
+msgid "마계촌 온라인"
+msgstr "Ghosts'n Goblins Online"
+
+msgid "그라나도 에스파다"
+msgstr "Granado Espada"
+
+msgid "그랑에이지"
+msgstr "GranAge"
+
+msgid "호큰"
+msgstr "Hawken"
+
+msgid "히어로즈 오브 뉴어스"
+msgstr "Heroes of Newerth"
+
+msgid "작룡문"
+msgstr "JanRyuMon"
+
+msgid "리그 오브 레전드"
+msgstr "League of Legends"
+
+msgid "레프트 4 데드"
+msgstr "Left 4 Dead"
+
+msgid "레프트 4 데드 2"
+msgstr "Left 4 Dead 2"
+
+msgid "에다전설"
+msgstr "Legend of Edda"
+
+msgid "리니지"
+msgstr "Lineage"
+
+msgid "리니지 II"
+msgstr "Lineage II"
+
+msgid "로스트사가"
+msgstr "Lost Saga"
+
+msgid "마비노기"
+msgstr "Mabinogi"
+
+msgid "마비노기 영웅전"
+msgstr "Mabinogi: Heroes"
+
+msgid "메이플스토리"
+msgstr "Maple Story"
+
+msgid "마블 히어로즈"
+msgstr "Marvel Heroes"
+
+msgid "멕워리어: 온라인"
+msgstr "MechWarrior Online"
+
+msgid "몬스터헌터 프론티어 Z"
+msgstr "Monster Hunter Frontier Z"
+
+msgid "마운트 & 블레이드: 워밴드 - 나폴레옹 전쟁"
+msgstr "Mount & Blade: Warband - Napoleonic Wars"
+
+msgid "네이비필드"
+msgstr "NavyField"
+
+msgid "페이퍼맨"
+msgstr "PaperMan"
+
+msgid "퀘이크 라이브"
+msgstr "Quake Live"
+
+msgid "R2 온라인"
+msgstr "R2 Online"
+
+msgid "라그나로크 온라인"
+msgstr "Ragnarok Online"
+
+msgid "레드 오케스트라 2"
+msgstr "Red Orchestra 2"
+
+msgid "스타 워즈: 구공화국"
+msgstr "Star Wars: The Old Republic"
+
+msgid "스타크래프트 II"
+msgstr "StarCraft II"
+
+msgid "슈퍼 스트리트 파이터 IV - Arcade Edition"
+msgstr "Super Street Fighter IV - Arcade Edition"
+
+msgid "테일즈위버"
+msgstr "Tales Weaver"
+
+msgid "팀 포트리스 2"
+msgstr "Team Fortress 2"
+
+msgid "테라"
+msgstr "TERA"
+
+msgid "반지의 제왕 온라인"
+msgstr "The Lord of the Rings Online"
+
+msgid "시크릿 월드"
+msgstr "The Secret World"
+
+msgid "울티마 온라인"
+msgstr "Ultima Online"
+
+msgid "워 썬더"
+msgstr "War Thunder"
+
+msgid "울펜슈타인: 에너미 테리토리"
+msgstr "Wolfenstein: Enemy Territory"
+
+msgid "월드 오브 탱크"
+msgstr "World of Tank"
+
+msgid "월드 오브 워플레인"
+msgstr "World of Warplanes"
+
+msgid "월드 오브 워크래프트"
+msgstr "World Of Warcraft"
+
+msgid "파이널 판타지 XIV: A Realm Reborn"
+msgstr "Final Fantasy XIV: A Realm Reborn"
+
+msgid "나의 IP 는?"
+msgstr "What's my IP?"
+
+msgid "미꾸라지 적용 여부를 확인하기 위한 도구입니다. 자세한 방법은 '적용 여부 확인하기' 문서를 참고하세요."
+msgstr ""
+"A tool to check whether Mudfish is applied or not.  For detailed "
+"description, please see the document section."
+
+msgid "버블파이터"
+msgstr "Bubble Fighter"
+
+msgid "드래곤 퀘스트 10"
+msgstr "Dragon Quest X"
+
+msgid "배틀필드 4"
+msgstr "Battlefield 4"
+
+msgid "맥스 페인 3"
+msgstr "Max Payne 3"
+
+msgid "아스타"
+msgstr "ASTA: The War of Tears and Winds"
+
+msgid "다크폴"
+msgstr "Darkfall: Unholy Wars"
+
+msgid "MVP 베이스볼 온라인"
+msgstr "MVP Baseball Online"
+
+msgid "서든어택"
+msgstr "Sudden Attack"
+
+msgid "피파 14"
+msgstr "FIFA 14"
+
+msgid "하운즈: 리로드"
+msgstr "Hounds"
+
+msgid "트라이브스: 어쎈드"
+msgstr "Tribes Ascend"
+
+msgid "워게임: 레드 드래곤"
+msgstr "Wargame Red Dragon"
+
+msgid "환상신역"
+msgstr "Innocent World"
+
+msgid "삼국지 무쌍전"
+msgstr "Heroes of Three Kingdoms"
+
+msgid "라테일"
+msgstr "LaTale"
+
+msgid "서바리움"
+msgstr "Survarium"
+
+msgid "SD건담 캡슐파이터 온라인"
+msgstr "SD Gundam Capsule Fighter Online"
+
+msgid "에밀 크로니클 온라인"
+msgstr "Emil Chronicle Online"
+
+msgid "다음 스포츠"
+msgstr "Daum Sports"
+
+msgid "해외에서 HD 급으로 다음 스포츠를 시청할 수 있습니다."
+msgstr "Watch the streaming of Daum Sports at overseas."
+
+msgid "와일드스타"
+msgstr "Wildstar"
+
+msgid "플래닛사이드 2"
+msgstr "PlanetSide 2"
+
+msgid "디파이언스"
+msgstr "Defiance"
+
+msgid "코즈믹 브레이크"
+msgstr "CosmicBreak"
+
+msgid "에이지 오브 코난"
+msgstr "Age of Conan"
+
+msgid "팡야"
+msgstr "PangYa"
+
+msgid "아프리카TV"
+msgstr "AfreecaTV"
+
+msgid "피파 15"
+msgstr "FIFA 15"
+
+msgid "최강의군단"
+msgstr "HeroWarz"
+
+msgid "미니일레븐"
+msgstr "Mini11"
+
+msgid "네이비필드 2"
+msgstr "NavyField 2"
+
+msgid "이카루스"
+msgstr "Icarus"
+
+msgid "검은사막"
+msgstr "Black Desert"
+
+msgid "거상"
+msgstr "Gersang"
+
+msgid "바람의 나라"
+msgstr "Nexus: The Kingdom of the Winds"
+
+msgid "히어로즈 오브 더 스톰"
+msgstr "Heroes of the Storm"
+
+msgid "이터널시티3"
+msgstr "Eternal City 3"
+
+msgid "파이널 판타지 XI"
+msgstr "Final Fantasy XI"
+
+msgid "하스스톤"
+msgstr "Hearthstone: Heroes of Warcraft"
+
+msgid "벅스"
+msgstr "Bugs"
+
+msgid "워페이스"
+msgstr "Warface"
+
+msgid "대항해시대 온라인"
+msgstr "Uncharted Waters Online"
+
+msgid "월드 오브 워쉽"
+msgstr "World of Warships"
+
+msgid "스페셜포스2"
+msgstr "Special Force 2"
+
+msgid "메이플스토리2"
+msgstr "Maple Story 2"
+
+msgid "티빙"
+msgstr "Tving"
+
+msgid "카카오톡"
+msgstr "KakaoTalk"
+
+msgid "클로저스"
+msgstr "CLOSERS"
+
+msgid "애스커 온라인"
+msgstr "Asker Online"
+
+msgid "드래곤사가"
+msgstr "Dragonica"
+
+msgid "인벤"
+msgstr "Inven"
+
+msgid "페이스북"
+msgstr "Facebook"
+
+msgid "피파 16"
+msgstr "FIFA 16"
+
+msgid "아이템매니아"
+msgstr "Itemmania"
+
+msgid "아르피엘"
+msgstr "Arpiel"
+
+msgid "트리 오브 세이비어"
+msgstr "Tree of Savior"
+
+msgid "컬쳐랜드"
+msgstr "Cultureland"
+
+msgid "SD건담 넥스트 에볼루션"
+msgstr "SD Gundam Next Evolution"
+
+msgid "리그 오브 레전드 (일본)"
+msgstr "League of Legends (Japan Only)"
+
+msgid "드래곤즈 도그마 온라인"
+msgstr "Dragon's Dogma Online (New)"
+
+msgid "크레이지레이싱 카트라이더"
+msgstr "Crazyracing Kartrider"
+
+msgid "피파 온라인 2"
+msgstr "FIFA Online 2"
+
+msgid "네이버 메일"
+msgstr "Naver Mail"
+
+msgid "해피머니"
+msgstr "Happymoney"
+
+msgid "창세기전 4"
+msgstr "The War of Genesis 4"
+
+msgid "서든어택2"
+msgstr "Sudden Attack 2"
+
+msgid "배틀필드 1"
+msgstr "Battlefield 1"
+
+msgid "타르타로스: 리버스"
+msgstr "Tartaros: Rebirth"
+
+msgid "剑网3"
+msgstr "JX Online 3"
+
+msgid "게임조선"
+msgstr "Game Chosun"
+
+msgid "피파 17"
+msgstr "FIFA 17"
+
+msgid "포인트 블랭크"
+msgstr "Point Blank"
+
+msgid "텍사스 홀덤"
+msgstr "Texas Holdem"
+
+msgid "그랑블루 판타지"
+msgstr "Granblue Fantasy"
+
+msgid "다크 에덴"
+msgstr "DarkEden"
+
+msgid "无尽战区"
+msgstr "无尽战区"
+
+msgid "Plants vs. Zombies™ Garden Warfare 2"
+msgstr "Plants vs. Zombies™ Garden Warfare 2"
+
+msgid "테일즈런너"
+msgstr "Tales Runner"
+
+msgid "리그 오브 레전드 (중국)"
+msgstr "League of Legends (China)"
+
+msgid "어둠의 전설"
+msgstr "Legend of Darkness"
+
+msgid "블랙스쿼드"
+msgstr "Black Squad"
+
+msgid "完美世界国际版"
+msgstr "完美世界国际版"
+
+msgid "스페셜포스"
+msgstr "Special Force"
+
+msgid "리니지M"
+msgstr "Lineage M"
+
+msgid "다크어벤저3"
+msgstr "Dark Avenger 3"
+
+msgid "少女前线"
+msgstr "少女前线"
+
+msgid "아틀란티카"
+msgstr "Atlantica Online"
+
+msgid "街頭籃球"
+msgstr "街頭籃球"
+
+msgid "스타크래프트: 리마스터"
+msgstr "StarCraft: Remastered"
+
+msgid "이터널시티1"
+msgstr "Eternal City 1"
+
+msgid "피파 18"
+msgstr "FIFA 18"
+
+msgid "씰 온라인"
+msgstr "Seal Online"
+
+msgid "천애명월도"
+msgstr "Moonlight Blade"
+
+msgid "듀랑고"
+msgstr "Durango"
+
+msgid "검은사막M"
+msgstr "Black Desert Mobile"
+
+msgid "배틀필드 하드라인"
+msgstr "Battlefield Hardline"
+
+msgid "리니지 2: 레볼루션"
+msgstr "Lineage 2: Revolution"
+
+msgid "피파 온라인 4"
+msgstr "FIFA Online 4"
+
+msgid "프리스타일2: 플라잉덩크"
+msgstr "Freestyle 2: Flying Dunk"
+
+msgid "라그나로크M"
+msgstr "Ragnarok M"
+
+msgid "배틀필드 V"
+msgstr "Battlefield V"
+
+msgid "피파 19"
+msgstr "FIFA 19"
+
+msgid "에버퀘스트 I"
+msgstr "EverQuest I"
+
+msgid "프리스타일 1"
+msgstr "FreeStyle 1"
+
+msgid "라프텔"
+msgstr "Laftel"
+
+msgid "왓챠"
+msgstr "Watcha"
+
+msgid "무도유협"
+msgstr "무도유협"
+
+msgid "Dark Souls Ⅱ: Scholar of the First Sin"
+msgstr "Dark Souls Ⅱ: Scholar of the First Sin"
+
+msgid "피파 20"
+msgstr "FIFA 20"
+
+msgid "열혈강호 온라인"
+msgstr "열혈강호 온라인"
+
+msgid "리니지2M"
+msgstr "Lineage 2M"
+
+msgid "古劍奇譚網路版"
+msgstr "古劍奇譚網路版"
+
+msgid "아스가르드"
+msgstr "Asgard"
+
+msgid "라그하임"
+msgstr "Laghaim"
+
+msgid "프로야구 스피리츠 2019"
+msgstr "Professional Baseball Spirits 2019"
+
+msgid "그랑블루 판타지 Versus"
+msgstr "Granblue Fantasy Versus"
+
+msgid "피파 21"
+msgstr "FIFA 21"
+
+msgid "일랜시아"
+msgstr "Elancia"
+
+msgid "F1® 2021"
+msgstr "F1® 2021"
+
+msgid "吞食天地2 Online"
+msgstr "吞食天地2 Online"
+
+msgid "피파 22"
+msgstr "FIFA 22"
+
+msgid "리니지W"
+msgstr "Lineage W"
+
+msgid "바람의 나라: 연"
+msgstr "Nexus: The Kingdom of the Winds - Yeon"
+
+msgid "Pokémon UNITE"
+msgstr "Pokémon UNITE"
+
+msgid "군주 온라인"
+msgstr "GoonZu Online"
+
+msgid "던전 앤 파이터 모바일"
+msgstr "Dungeon Fighter Mobile"
+
+msgid "生死狙击2"
+msgstr "生死狙击2"
+
+msgid "오딘: 발할라 라이징"
+msgstr "Odin: Valhalla Rising"
+
+msgid "마구마구"
+msgstr "Magu Magu"
+
+msgid "피파 23"
+msgstr "FIFA 23"
+
+msgid "모여서 플레이할 중계 서버를 선택합니다."
+msgstr "集まっプレイする中継サーバを選択します。"
+
+msgid "사용하실 중계 서버를 선택해 주세요."
+msgstr "使用することが中継サーバを選択してください。"
+
+msgid "참여자"
+msgstr "参加者"
+
+msgid "나가기"
+msgstr "終了"
+
+msgid "참여자 갱신"
+msgstr "参加者更新"
+
+msgid "참여자 목록을 갱신합니다. 최대 5초 정도 기다려 주십시오."
+msgstr "参加者リストを更新します。最大5秒程度待ってください。"
+
+msgid "성공적으로 생성되었습니다."
+msgstr "正常に作成されました。"
+
+msgid "참여 실패"
+msgstr "参加に失敗し"
+
+msgid "입력하신 참여 코드를 찾을 수 없습니다."
+msgstr "入力された参加コードを見つけることができません。"
+
+msgid "${username} 참여자 정보를 받았습니다."
+msgstr "${username}参加者の情報を受けました。"
+
+msgid "${username} 참여자가 제외되었습니다."
+msgstr "${username}参加者が除外されました。"
+
+msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
+msgstr "参加者の情報を受けました。情報を更新します。"
+
+msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
+msgstr "LANプレイをすることができる部屋に参加します。数字XXX-XXXX形式の参加のコードを入力してください。"
+
+msgid "XXX-XXXX"
+msgstr "XXX-XXXX"
+
+msgid "참여 코드"
+msgstr "参加コード"
+
+msgid "입력하신 참여 코드 형식이 잘못되었습니다."
+msgstr "入力された参加コードの形式が無効です。"
+
+msgid "참여 코드를 확인하는 동안 오류가 발생하였습니다."
+msgstr "参加コードを確認中にエラーが発生しました。"
+
+msgid "미꾸라지 LAN 프로세스"
+msgstr "ドジョウLANプロセス"
+
+#~ msgid "추가하실 아이템의 종료를 선택해 주세요."
+#~ msgstr ""
+
+#~ msgid "아스텔리아"
+#~ msgstr "Astellia"
+
+#~ msgid "스톤에이지"
+#~ msgstr "StoneAge"
+
+#~ msgid "두개의 중계 서버들을 경유하여 트래픽이 전달되지만, 첫번째 중계 서버의 선택이 Ping 상태에 따라 자동으로 변경됩니다."
+#~ msgstr "二つの中継サーバを経由してトラフィックが転送されるが、最初の中継サーバーの選択がPing状態に応じて自動的に変更されます。"
+
+#~ msgid "유료 아이템"
+#~ msgstr "Paid Item"
+
+#~ msgid ""
+#~ "정액제 요금제의 경우 최소 1 개의 유료 아이템 장착을 해야 프로그램이 제대로 동작을 합니다. 아이템 구매 페이지로 이동하시겠습니까?"
+#~ msgstr ""
+#~ "At least one paid item required if your data plan is Subscription. Do you "
+#~ "want to move to 'Equip Items' menu?"
+
+#~ msgid "판타지 스타 온라인 2"
+#~ msgstr "Phantasy Star Online 2"
+
+#~ msgid "이용권이 없습니다. 정액제 요금제가 동작하기 위해서는 이용권을 구매하셔야 합니다. 이용권 구매 페이지로 이동하시겠습니까?"
+#~ msgstr ""
+
+#~ msgid "정액제 이용권"
+#~ msgstr ""
+
+#~ msgid "RTT 체크"
+#~ msgstr "RTTチェック"
+
+#~ msgid ""
+#~ "자세한 내용은 <a "
+#~ "href='http://wiki.mudfish.net/CDN%20%EA%B3%BC%20%EB%AF%B8%EA%BE%B8%EB%9D%BC%EC%A7%80'>CDN"
+#~ " 과 미꾸라지</a> 링크를 참고 바랍니다."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "자세한 내용은 <a "
+#~ "href='http://wiki.mudfish.net/%EC%95%84%EB%A7%88%EC%A1%B4%20EC2%2C%20%ED%8A%B8%EC%9C%84%EC%B9%98%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EB%AF%B8%EA%BE%B8%EB%9D%BC%EC%A7%80'>아마존"
+#~ " EC2, 트위치 그리고 미꾸라지</a> 링크를 참고 바랍니다."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "이 남은 시간이 지나면 아이템은 자동 삭제됩니다. 이를 원하지 않는 다면, '자동 갱신' 옵션을 켜거나 '기간 연장'을 하시기 바랍니다."
+#~ msgstr ""
+
+#~ msgid "디아블로 2"
+#~ msgstr "Diablo 2"
+
+#~ msgid "구음진경"
+#~ msgstr "Age of Wushu"
+
+#~ msgid "XP 모드"
+#~ msgstr "XP Mode"
+
+#~ msgid ""
+#~ "몇몇 Windows XP 버전의 경우, Full VPN 설정시 제대로 라우팅 테이블이 설정되지 않는 문제점이 존재하는데, 이 옵션을 "
+#~ "활성화시 강제 라우팅 테이블 설정을 수행 합니다. Windows XP 사용자만 해당합니다."
+#~ msgstr ""
+#~ "一部のWindows "
+#~ "XPの場合、このオプションは、ルーティングテーブル付加機能を有効にしてルーティングテーブルが一部正常に設定されていない問題を扱います。"
